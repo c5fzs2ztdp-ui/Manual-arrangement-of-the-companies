@@ -1,0 +1,1573 @@
+{
+  "company": "strauss",
+  "scraped_at": "2026-10-16T12:55:53.256770+00:00",
+  "count": 92,
+  "jobs": [
+    {
+      "id": "118140",
+      "title": "מנהלת צוות גיוס אזור הצפון - החלפה לחל\"ד",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118140",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "משאבי אנוש",
+      "extra": {
+        "field": "משאבי אנוש"
+      }
+    },
+    {
+      "id": "118139",
+      "title": "מטמיע.ת מערכות איכות ישראל החלפה לחל\"ד - כל הארץ",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118139",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "הנדסה",
+      "extra": {
+        "field": "הנדסה"
+      }
+    },
+    {
+      "id": "118136",
+      "title": "אמין.ת מלאי - אתר שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118136",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
+      "extra": {
+        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
+      }
+    },
+    {
+      "id": "118135",
+      "title": "עוזר.ת חשבת במחלקה המקצועית ודיווח כספי - פתח תקווה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118135",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "כספים",
+      "extra": {
+        "field": "כספים"
+      }
+    },
+    {
+      "id": "118134",
+      "title": "מנהל.ת תחום שיווק תפוצ'יפס וצ'יטוס - החלפה לחל\"ד",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118134",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "שיווק יח\"צ וייצוא",
+      "extra": {
+        "field": "שיווק יח\"צ וייצוא"
+      }
+    },
+    {
+      "id": "118130",
+      "title": "רכז/ת אדמיניסטרציה ולוגיסטיקה - מלוחים שדרות",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118130",
+      "city": "דרום",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "פקידות ומזכירות",
+      "extra": {
+        "field": "פקידות ומזכירות"
+      }
+    },
+    {
+      "id": "118126",
+      "title": "אחראי.ת גיוס זמני.ת",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118126",
+      "city": "דרום",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "משאבי אנוש",
+      "extra": {
+        "field": "משאבי אנוש"
+      }
+    },
+    {
+      "id": "118123",
+      "title": "מפעיל.ה מתחיל.ה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118123",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "תפעול / ייצור",
+      "extra": {
+        "field": "תפעול / ייצור"
+      }
+    },
+    {
+      "id": "118121",
+      "title": "מתכנן.נת אספקות מפעל הממתקים- נוף הגליל",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118121",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "תכנון",
+      "extra": {
+        "field": "תכנון"
+      }
+    },
+    {
+      "id": "118120",
+      "title": "מהנדס.ת איכות",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118120",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "איכות",
+      "extra": {
+        "field": "איכות"
+      }
+    },
+    {
+      "id": "118119",
+      "title": "מנהל.ת לקוחות יבש - לקוחות גדולים אזור ירושלים",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118119",
+      "city": "דרום",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      }
+    },
+    {
+      "id": "118118",
+      "title": "אנליסט.ית סחר חטיבת המכירות - שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118118",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      }
+    },
+    {
+      "id": "118112",
+      "title": "מלגזן.ית שירות - אתר שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118112",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
+      "extra": {
+        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
+      }
+    },
+    {
+      "id": "118111",
+      "title": "מפיץ.ה - אתר בית שמש",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118111",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      }
+    },
+    {
+      "id": "118083",
+      "title": "עובד.ת פיילוט זמני.ת",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118083",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "איכות",
+      "extra": {
+        "field": "איכות"
+      }
+    },
+    {
+      "id": "117835",
+      "title": "מנהל.ת מחלקת מדיה - פתח תקווה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117835",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "שיווק יח\"צ וייצוא",
+      "extra": {
+        "field": "שיווק יח\"צ וייצוא"
+      }
+    },
+    {
+      "id": "118108",
+      "title": "מאמת.ת איכות - מלוחים שדרות",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118108",
+      "city": "דרום",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "איכות",
+      "extra": {
+        "field": "איכות"
+      }
+    },
+    {
+      "id": "118106",
+      "title": "ממונה בטיחות",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118106",
+      "city": "דרום",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "תפעול / ייצור",
+      "extra": {
+        "field": "תפעול / ייצור"
+      }
+    },
+    {
+      "id": "118103",
+      "title": "מנהל.ת איכות",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118103",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "איכות",
+      "extra": {
+        "field": "איכות"
+      }
+    },
+    {
+      "id": "118097",
+      "title": "מלקט.ת אי קום - קפה לוד (זמני עם אופציה)",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118097",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
+      "extra": {
+        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
+      }
+    },
+    {
+      "id": "118096",
+      "title": "מלקט.ת אי קום - קפה לוד",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118096",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
+      "extra": {
+        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
+      }
+    },
+    {
+      "id": "118094",
+      "title": "עובד.ת רמפה - אתר שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118094",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
+      "extra": {
+        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
+      }
+    },
+    {
+      "id": "118087",
+      "title": "מעצב.ת גרפי.ת תלת מימד - פתח תקווה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118087",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "שיווק יח\"צ וייצוא",
+      "extra": {
+        "field": "שיווק יח\"צ וייצוא"
+      }
+    },
+    {
+      "id": "118084",
+      "title": "טכנולוג.ית פרוייקטים",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118084",
+      "city": "דרום",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מו\"פ וטכנולוגיה",
+      "extra": {
+        "field": "מו\"פ וטכנולוגיה"
+      }
+    },
+    {
+      "id": "118081",
+      "title": "מפעיל/ת אריזה - מלוחים שדרות",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118081",
+      "city": "דרום",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "תפעול / ייצור",
+      "extra": {
+        "field": "תפעול / ייצור"
+      }
+    },
+    {
+      "id": "118080",
+      "title": "מנהל.ת מכירות אזור.ית שוק פרטי יבש - אזור שפלה ודרום",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118080",
+      "city": "שפלה",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      }
+    },
+    {
+      "id": "118079",
+      "title": "מנהל.ת מרכז תובנות ומחקר",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118079",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "שיווק יח\"צ וייצוא",
+      "extra": {
+        "field": "שיווק יח\"צ וייצוא"
+      }
+    },
+    {
+      "id": "118077",
+      "title": "טכנולוג.ית מחקר ופיתוח - יטבתה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118077",
+      "city": "ארצי",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מו\"פ וטכנולוגיה",
+      "extra": {
+        "field": "מו\"פ וטכנולוגיה"
+      }
+    },
+    {
+      "id": "118075",
+      "title": "מנהל.ת איקומרס ושירות דיגיטלי",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118075",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "שיווק יח\"צ וייצוא",
+      "extra": {
+        "field": "שיווק יח\"צ וייצוא"
+      }
+    },
+    {
+      "id": "118050",
+      "title": "אחראי.ת גיוס- זמני.ת",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118050",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "משאבי אנוש",
+      "extra": {
+        "field": "משאבי אנוש"
+      }
+    },
+    {
+      "id": "118040",
+      "title": "מפעיל.ת מכונה- כרמיאל",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118040",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "תפעול / ייצור",
+      "extra": {
+        "field": "תפעול / ייצור"
+      }
+    },
+    {
+      "id": "118028",
+      "title": "מנהל.ת צוות חומרה (מכאני ואלקטרוני)",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118028",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "הנדסה",
+      "extra": {
+        "field": "הנדסה"
+      }
+    },
+    {
+      "id": "118025",
+      "title": "כלכלן.נית רכש- מסריק",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118025",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "כלכלה ובקרה",
+      "extra": {
+        "field": "כלכלה ובקרה"
+      }
+    },
+    {
+      "id": "118024",
+      "title": "מנהל.ת תכנון חטיבת האוכל ויטבתה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118024",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "תכנון",
+      "extra": {
+        "field": "תכנון"
+      }
+    },
+    {
+      "id": "118020",
+      "title": "טכנולוג.ית ראשי",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118020",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מו\"פ וטכנולוגיה",
+      "extra": {
+        "field": "מו\"פ וטכנולוגיה"
+      }
+    },
+    {
+      "id": "118019",
+      "title": "טכנולוג/ית בקרת איכות - מפעל המלוחים שדרות",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118019",
+      "city": "דרום",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "איכות",
+      "extra": {
+        "field": "איכות"
+      }
+    },
+    {
+      "id": "117961",
+      "title": "מתכנן.ת ביקושים",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117961",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "תכנון",
+      "extra": {
+        "field": "תכנון"
+      }
+    },
+    {
+      "id": "118003",
+      "title": "טכנאי.ת אנרגיה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118003",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "אחזקה",
+      "extra": {
+        "field": "אחזקה"
+      }
+    },
+    {
+      "id": "118002",
+      "title": "מנהל.ת לקוחות יבש - לקוחות גדולים אזור השרון",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118002",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      }
+    },
+    {
+      "id": "117998",
+      "title": "מלגזן.ית קבלה - אתר שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117998",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
+      "extra": {
+        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
+      }
+    },
+    {
+      "id": "117985",
+      "title": "מלגזן.ית - אתר באר שבע",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117985",
+      "city": "דרום",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
+      "extra": {
+        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
+      }
+    },
+    {
+      "id": "117984",
+      "title": "מנהל.ת מכירות אזורי.ת שוק פרטי יבש - שרון צפוני",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117984",
+      "city": "שרון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      }
+    },
+    {
+      "id": "117978",
+      "title": "טכנאי.ת תשתיות ואנרגיה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117978",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "אחזקה",
+      "extra": {
+        "field": "אחזקה"
+      }
+    },
+    {
+      "id": "117974",
+      "title": "מנהל.ת בקרה תקציבית",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117974",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "כלכלה ובקרה",
+      "extra": {
+        "field": "כלכלה ובקרה"
+      }
+    },
+    {
+      "id": "117969",
+      "title": "חשמלאי.ת אחזקה - שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117969",
+      "city": "שפלה",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "אחזקה",
+      "extra": {
+        "field": "אחזקה"
+      }
+    },
+    {
+      "id": "117964",
+      "title": "מנהל.ת מכירות והפצה שו\"פ מצונן- צפון",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117964",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      }
+    },
+    {
+      "id": "117948",
+      "title": "חשמלאי/ת ראשי/ת",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117948",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "אחזקה",
+      "extra": {
+        "field": "אחזקה"
+      }
+    },
+    {
+      "id": "117938",
+      "title": "מנהל.ת מכירות שוק פרטי והפצה - אזור רמת גן - גבעתיים",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117938",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      }
+    },
+    {
+      "id": "117935",
+      "title": "נהג.ת תובלה זמני.ת - אתר עכו",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117935",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
+      "extra": {
+        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
+      }
+    },
+    {
+      "id": "117934",
+      "title": "מפעיל.ת מכונה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117934",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "תפעול / ייצור",
+      "extra": {
+        "field": "תפעול / ייצור"
+      }
+    },
+    {
+      "id": "117924",
+      "title": "עובד.ת חנות על גלגלים - זמני",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117924",
+      "city": "שפלה",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      }
+    },
+    {
+      "id": "117904",
+      "title": "מנהל.ת חשבות חברת הקפה הבינלאומית - פתח תקווה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117904",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "כספים",
+      "extra": {
+        "field": "כספים"
+      }
+    },
+    {
+      "id": "117826",
+      "title": "AI Forward Deployed Engineer",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117826",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "הנדסה",
+      "extra": {
+        "field": "הנדסה"
+      }
+    },
+    {
+      "id": "110865",
+      "title": "מלקטים.ות - אתר שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=110865",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
+      "extra": {
+        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
+      }
+    },
+    {
+      "id": "117911",
+      "title": "Risk Analyst - Temporary Position- Petah Tikva",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117911",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "ייעוץ והנהלת ש-ע",
+      "extra": {
+        "field": "ייעוץ והנהלת ש-ע"
+      }
+    },
+    {
+      "id": "117909",
+      "title": "Sustaining Mechanical Engineer",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117909",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מו\"פ וטכנולוגיה",
+      "extra": {
+        "field": "מו\"פ וטכנולוגיה"
+      }
+    },
+    {
+      "id": "117327",
+      "title": "מנהל.ת תחום אריזה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117327",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "תפעול / ייצור",
+      "extra": {
+        "field": "תפעול / ייצור"
+      }
+    },
+    {
+      "id": "117864",
+      "title": "מהנדס.ת פיתוח טכנולוגי",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117864",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מו\"פ וטכנולוגיה",
+      "extra": {
+        "field": "מו\"פ וטכנולוגיה"
+      }
+    },
+    {
+      "id": "117860",
+      "title": "מנהל.ת תוכן - פתח תקווה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117860",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "שיווק יח\"צ וייצוא",
+      "extra": {
+        "field": "שיווק יח\"צ וייצוא"
+      }
+    },
+    {
+      "id": "117854",
+      "title": "מנהל.ת איכות - מפעל יטבתה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117854",
+      "city": "דרום",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "איכות",
+      "extra": {
+        "field": "איכות"
+      }
+    },
+    {
+      "id": "117853",
+      "title": "מזכיר.ת מנכל\"ית חטיבת האוכל והמחלבה - פתח תקווה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117853",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "פקידות ומזכירות",
+      "extra": {
+        "field": "פקידות ומזכירות"
+      }
+    },
+    {
+      "id": "117847",
+      "title": "נאמן/ית כשרות",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117847",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "תפעול / ייצור",
+      "extra": {
+        "field": "תפעול / ייצור"
+      }
+    },
+    {
+      "id": "117839",
+      "title": "טכנולוג/ית ייצור",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117839",
+      "city": "דרום",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מו\"פ וטכנולוגיה",
+      "extra": {
+        "field": "מו\"פ וטכנולוגיה"
+      }
+    },
+    {
+      "id": "117828",
+      "title": "מלגזן.ית להפעלת מכונת שטיפת משטחים - אתר שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117828",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
+      "extra": {
+        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
+      }
+    },
+    {
+      "id": "117818",
+      "title": "מלגזן.ית היגש - אתר שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117818",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
+      "extra": {
+        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
+      }
+    },
+    {
+      "id": "117807",
+      "title": "מתכנן.ת מכני.ת- שטראוס מים",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117807",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מו\"פ וטכנולוגיה",
+      "extra": {
+        "field": "מו\"פ וטכנולוגיה"
+      }
+    },
+    {
+      "id": "117759",
+      "title": "טכנאי/ת אוטומציה וחשמל- שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117759",
+      "city": "שפלה",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "אחזקה",
+      "extra": {
+        "field": "אחזקה"
+      }
+    },
+    {
+      "id": "117751",
+      "title": "מפיץ.ה - אתר שדרות",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117751",
+      "city": "דרום",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      }
+    },
+    {
+      "id": "117732",
+      "title": "כלכלנ.ית",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117732",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "כלכלה ובקרה",
+      "extra": {
+        "field": "כלכלה ובקרה"
+      }
+    },
+    {
+      "id": "117614",
+      "title": "מנהל.ת תעשייה – יטבתה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117614",
+      "city": "דרום",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "תפעול / ייצור",
+      "extra": {
+        "field": "תפעול / ייצור"
+      }
+    },
+    {
+      "id": "117555",
+      "title": "אחראי.ת לשכת יו\"ר",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117555",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "פקידות ומזכירות",
+      "extra": {
+        "field": "פקידות ומזכירות"
+      }
+    },
+    {
+      "id": "117553",
+      "title": "מפעיל/ת מכונה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117553",
+      "city": "דרום",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "תפעול / ייצור",
+      "extra": {
+        "field": "תפעול / ייצור"
+      }
+    },
+    {
+      "id": "117344",
+      "title": "מת\"ל CORP",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117344",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      }
+    },
+    {
+      "id": "117224",
+      "title": "מראיינ.ת טלפוני.ת",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117224",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "משאבי אנוש",
+      "extra": {
+        "field": "משאבי אנוש"
+      }
+    },
+    {
+      "id": "116445",
+      "title": "מהנדס.ת מערכת- שטראוס מים",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=116445",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מו\"פ וטכנולוגיה",
+      "extra": {
+        "field": "מו\"פ וטכנולוגיה"
+      }
+    },
+    {
+      "id": "108464",
+      "title": "מפעיל/ת מכונה- אתרי הצפון",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=108464",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "תפעול / ייצור",
+      "extra": {
+        "field": "תפעול / ייצור"
+      }
+    },
+    {
+      "id": "109519",
+      "title": "סדרניות וסדרנים של סחורה בסופרים ברחבי הארץ",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=109519",
+      "city": "ארצי",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      }
+    },
+    {
+      "id": "24294",
+      "title": "נציג.ת מרכז שליטה",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=24294",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "קבוצת עיסוק מים",
+      "extra": {
+        "field": "קבוצת עיסוק מים"
+      }
+    },
+    {
+      "id": "24237",
+      "title": "מתקין.ת שטח",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=24237",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "קבוצת עיסוק מים",
+      "extra": {
+        "field": "קבוצת עיסוק מים"
+      }
+    },
+    {
+      "id": "24233",
+      "title": "נציג/ת שירות לקוחות",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=24233",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "משמרות",
+      "work_mode": "",
+      "employment_codes": [
+        "shifts"
+      ],
+      "work_mode_codes": [],
+      "field": "קבוצת עיסוק מים",
+      "extra": {
+        "field": "קבוצת עיסוק מים"
+      }
+    },
+    {
+      "id": "24230",
+      "title": "נציג/ת מכירות הסכמים",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=24230",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "קבוצת עיסוק מים",
+      "extra": {
+        "field": "קבוצת עיסוק מים"
+      }
+    },
+    {
+      "id": "24229",
+      "title": "נציג.ת מכירות שדרוגים",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=24229",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "קבוצת עיסוק מים",
+      "extra": {
+        "field": "קבוצת עיסוק מים"
+      }
+    },
+    {
+      "id": "23891",
+      "title": "טכנאי.ת שטח בשטראוס מים",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=23891",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "קבוצת עיסוק מים",
+      "extra": {
+        "field": "קבוצת עיסוק מים"
+      }
+    },
+    {
+      "id": "118132",
+      "title": "טכנאי.ת מעבדה ג'וניור - שטראוס מים",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118132",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מו\"פ וטכנולוגיה",
+      "extra": {
+        "field": "מו\"פ וטכנולוגיה"
+      }
+    },
+    {
+      "id": "118128",
+      "title": "מרצ'נדייז שוק פרטי יבש - אזור השרון",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118128",
+      "city": "שרון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      }
+    },
+    {
+      "id": "118007",
+      "title": "כלכלן.ית בקרה עסקית מחלבה - אחיהוד",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118007",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "כלכלה ובקרה",
+      "extra": {
+        "field": "כלכלה ובקרה"
+      }
+    },
+    {
+      "id": "117901",
+      "title": "מנהל.ת תחום שו\"פ יבש - חטיבת המכירות שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117901",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      }
+    },
+    {
+      "id": "117880",
+      "title": "מנהל.ת צוות NPI",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117880",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "הנדסה",
+      "extra": {
+        "field": "הנדסה"
+      }
+    },
+    {
+      "id": "117382",
+      "title": "אחראי.ית אחזקה במרלו\"ג",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117382",
+      "city": "שפלה",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
+      "extra": {
+        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
+      }
+    },
+    {
+      "id": "117340",
+      "title": "אחראי/ת משמרת שירות ותפעול יבש - שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117340",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "תפעול / ייצור",
+      "extra": {
+        "field": "תפעול / ייצור"
+      }
+    },
+    {
+      "id": "24380",
+      "title": "עובד/ת יצור- קו מחודשים",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=24380",
+      "city": "שפלה",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "קבוצת עיסוק מים",
+      "extra": {
+        "field": "קבוצת עיסוק מים"
+      }
+    },
+    {
+      "id": "24379",
+      "title": "מחסנא/ית",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=24379",
+      "city": "שפלה",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "קבוצת עיסוק מים",
+      "extra": {
+        "field": "קבוצת עיסוק מים"
+      }
+    }
+  ]
+}
