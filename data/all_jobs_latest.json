@@ -1,40 +1,1703 @@
 {
   "company": "all",
-  "scraped_at": "2026-10-16T12:55:53.261183+00:00",
-  "count": 953,
+  "scraped_at": "2026-10-20T18:33:43.972037+00:00",
+  "count": 1013,
   "companies": [
+    "checkpoint",
     "elal",
     "iai",
     "rafael",
     "strauss"
   ],
   "per_company": {
+    "checkpoint": {
+      "count": 60,
+      "source": "cache",
+      "scraped_at": "2026-10-20T18:32:04.687141+00:00",
+      "error": null
+    },
     "elal": {
       "count": 13,
-      "source": "live",
+      "source": "cache",
       "scraped_at": "2026-10-16T12:55:37.943466+00:00",
       "error": null
     },
     "iai": {
       "count": 526,
-      "source": "live",
+      "source": "cache",
       "scraped_at": "2026-10-16T12:55:38.650591+00:00",
       "error": null
     },
     "rafael": {
       "count": 322,
-      "source": "live",
+      "source": "cache",
       "scraped_at": "2026-10-16T12:55:44.812597+00:00",
       "error": null
     },
     "strauss": {
       "count": 92,
-      "source": "live",
+      "source": "cache",
       "scraped_at": "2026-10-16T12:55:53.256770+00:00",
       "error": null
     }
   },
   "jobs": [
+    {
+      "id": "4070335",
+      "title": "Senior Pipeline Engineer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=4070335",
+      "city": "Tel Aviv-Yafo",
+      "description": "Check Point is a leader in cyber security — and we're the startup inside it. Our team builds Check Point's workspace security platform, AI-driven end to end: agents that correlate alerts and detections from a multitude of security products into complete attack stories with remediation, and turn co...",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF380G"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "0962319",
+      "title": "Agentic AI Solutions Engineer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=0962319",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF334R"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "0063829",
+      "title": "AI Cybersecurity Researcher",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=0063829",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF414Z"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "2024919",
+      "title": "AI Engineer – Next-Generation Cyber Security",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=2024919",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF401N"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "8073389",
+      "title": "AI Transformation Architect",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=8073389",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25511"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "0195334",
+      "title": "Assistant Controller",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=0195334",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "Finance",
+      "extra": {
+        "field": "Finance",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF394M"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "2374789",
+      "title": "Backend Developer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=2374789",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF393N"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "8032809",
+      "title": "Backend Engineer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=8032809",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25799"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "5551157",
+      "title": "Board Design / Hardware Project Manager",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=5551157",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF168G"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "4988229",
+      "title": "Core Network Software Team Leader",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=4988229",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF341R"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "8509300",
+      "title": "Cyber Intelligence Team Lead",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=8509300",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF366Y"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "4478784",
+      "title": "Cyber Threat Intelligence Analyst",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=4478784",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF209P"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "8849649",
+      "title": "Cyber Threat Intelligence Analyst - French speaker",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=8849649",
+      "city": "Tel Aviv",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "External Risk Management",
+      "extra": {
+        "field": "External Risk Management",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25042"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "8713370",
+      "title": "Data Platform Tech Lead",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=8713370",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25739"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "7684809",
+      "title": "DevOps Engineer - Autonomous Workspace Platform",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=7684809",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "job_types": [
+        "Contract"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Contract"
+        ],
+        "ref_id": "REF302H"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "3904249",
+      "title": "Endpoint Research & Protection Team Leader",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=3904249",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF74C"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "9945526",
+      "title": "Events Operations Specialist - Temporary Position (6 months)",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=9945526",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "Marketing",
+      "extra": {
+        "field": "Marketing",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF398R"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "4928059",
+      "title": "Field Marketing Manager - EMEA & APAC",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=4928059",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "Marketing",
+      "extra": {
+        "field": "Marketing",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF499S"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "1423759",
+      "title": "Full Stack Team Lead- API Security",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=1423759",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25828"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "7177143",
+      "title": "Full Stack Tech Lead",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=7177143",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF154V"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "5452129",
+      "title": "Global Benefits Manager",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=5452129",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "Human Resources",
+      "extra": {
+        "field": "Human Resources",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF310X"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "8057248",
+      "title": "Head of Application Security",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=8057248",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "24652"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "5733559",
+      "title": "Incident Response Analyst",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=5733559",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "Cyber Security Services",
+      "extra": {
+        "field": "Cyber Security Services",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF540P"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "2075679",
+      "title": "Legal Counsel, Privacy",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=2075679",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "Legal",
+      "extra": {
+        "field": "Legal",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25914"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "3040839",
+      "title": "Linux kernel Team lead",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=3040839",
+      "city": "Tel Aviv-Yafo",
+      "description": "Check Point’s Secure OS group is responsible for designing, developing, upgrading, and maintaining GAiA OS - Check Point’s Linux-based OS.We are looking for a team leader who can lead such a team, research new technologies, navigate through an unfamiliar code, analyze the behavior of complex env...",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF200Y"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "0035925",
+      "title": "Malware Group Manager",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=0035925",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF385P"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "2117982",
+      "title": "Network Engineer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=2117982",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "IT & System Administration",
+      "extra": {
+        "field": "IT & System Administration",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF451U"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "2897700",
+      "title": "Offensive Security Researcher",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=2897700",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF459U"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "2662852",
+      "title": "Product Designer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=2662852",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "Product Management",
+      "extra": {
+        "field": "Product Management",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF472U"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "3420086",
+      "title": "Product Manager",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=3420086",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "Product Management",
+      "extra": {
+        "field": "Product Management",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF455E"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "8033779",
+      "title": "Product Manager-Cyber Threat Prevention",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=8033779",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "Product Management",
+      "extra": {
+        "field": "Product Management",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25537"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "2027169",
+      "title": "Professional Services Associate",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=2027169",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "Services/Support",
+      "extra": {
+        "field": "Services/Support",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF367Y"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "9306411",
+      "title": "QA Engineer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=9306411",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "QA",
+      "extra": {
+        "field": "QA",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF133F"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "7946209",
+      "title": "QA Networking Engineer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=7946209",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "QA",
+      "extra": {
+        "field": "QA",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25923"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "6239337",
+      "title": "QA Networking Engineer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=6239337",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "QA",
+      "extra": {
+        "field": "QA",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF412Z"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "5668749",
+      "title": "Sales Engineer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=5668749",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "Sales",
+      "extra": {
+        "field": "Sales",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF530J"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "9947819",
+      "title": "Sales Engineer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=9947819",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "Sales",
+      "extra": {
+        "field": "Sales",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF397A"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "8031014",
+      "title": "Security Researcher",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=8031014",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25977"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "5713849",
+      "title": "Senior Cloud Software Developer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=5713849",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "26026"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "8337059",
+      "title": "Senior DevFinOps Engineer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=8337059",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25928"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "7857870",
+      "title": "Senior DevOps Engineer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=7857870",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF320H"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "8037719",
+      "title": "Senior FinOps Engineer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=8037719",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25479"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "5219660",
+      "title": "Senior macOS Developer - Workforce AI Security",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=5219660",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF257Z"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "8062769",
+      "title": "Senior ML Research Engineer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=8062769",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25769"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "1697799",
+      "title": "Senior Product Manager - Enterprise Network Security",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=1697799",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "Product Management",
+      "extra": {
+        "field": "Product Management",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25055"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "8037480",
+      "title": "Senior Product Manager Hardware Platforms Security Gateway Appl",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=8037480",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "Product Management",
+      "extra": {
+        "field": "Product Management",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25736"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "1876379",
+      "title": "Senior Software Engineer - AI & Innovation Group",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=1876379",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF68Q"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "5425190",
+      "title": "Senior Software Engineer – Development Experience Group",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=5425190",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF251R"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "5509569",
+      "title": "Senior Threat Intelligence Researcher",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=5509569",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF518U"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "8029904",
+      "title": "Software Developer - AI Security",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=8029904",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25561"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "2708619",
+      "title": "Software Developer - DLP Next Policy & URLF team",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=2708619",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF470H"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "2031989",
+      "title": "Software Developer - Workforce AI Security",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=2031989",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF256D"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "9863109",
+      "title": "Software Developer – Gen AI Security Team",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=9863109",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF59T"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "2219359",
+      "title": "Software Developer – WAF Learning Engine & Machine Learning",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=2219359",
+      "city": "Tel Aviv-Yafo",
+      "description": "We are looking for a software developer to join the team responsible for the WAF engine and machine-learning capabilities.The developer will design, develop, and improve systems that analyze application traffic, identify behavioral patterns, and support intelligent WAF security decisions. The role i...",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF396R"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "0036749",
+      "title": "Software Developer– WAF Cloud Infrastructure",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=0036749",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF407G"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "5506872",
+      "title": "Strategic Cyber Intelligence Researcher",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=5506872",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF511Q"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "2026309",
+      "title": "Team Lead - Browser Security (JavaScript)",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=2026309",
+      "city": "Tel Aviv-Yafo",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "REF301P"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "8039352",
+      "title": "Team Leader Threat Prevention",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=8039352",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "R&D",
+      "extra": {
+        "field": "R&D",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25801"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "7311896",
+      "title": "Technical Trainer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=7311896",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "Learning & Training",
+      "extra": {
+        "field": "Learning & Training",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25868"
+      },
+      "company_key": "checkpoint"
+    },
+    {
+      "id": "8058359",
+      "title": "Tier 3 Support Engineer",
+      "company": "צ'ק פוינט",
+      "url": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=8058359",
+      "city": "Tel Aviv/ Hybrid (Israel)",
+      "description": "",
+      "source": "careers.checkpoint.com",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "Full-time"
+      ],
+      "field": "Services/Support",
+      "extra": {
+        "field": "Services/Support",
+        "job_types": [
+          "Full-time"
+        ],
+        "ref_id": "25841"
+      },
+      "company_key": "checkpoint"
+    },
     {
       "id": "38608098",
       "title": "מאבטח/ת קרקע בשדה התעופה",
