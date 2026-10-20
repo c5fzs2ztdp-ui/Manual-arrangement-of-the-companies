@@ -1,0 +1,82 @@
+# Daily scrape from il-proxy-for-block-site → commit data/ on this repo's main.
+# Uses GITHUB_TOKEN (this repo) so no cross-repo PAT is required for the push.
+#
+# Optional secret on THIS repo (Settings → Secrets → Actions):
+#   IL_UPSTREAM_PROXY — Israeli HTTP/SOCKS for Rafael
+
+name: Daily jobs update
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-jobs
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout data repo
+        uses: actions/checkout@v4
+
+      - name: Checkout scraper
+        uses: actions/checkout@v4
+        with:
+          repository: halleelyasaf/il-proxy-for-block-site
+          path: scraper
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install dependencies
+        working-directory: scraper
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Scrape all companies
+        working-directory: scraper
+        env:
+          IL_UPSTREAM_PROXY: ${{ secrets.IL_UPSTREAM_PROXY }}
+        run: python update_all_jobs.py
+
+      - name: Commit and push data/
+        run: |
+          set -euo pipefail
+          mkdir -p data
+          cp scraper/data/all_jobs_latest.json data/
+          for f in scraper/data/*_jobs_latest.json; do
+            base=$(basename "$f")
+            [ "$base" = "all_jobs_latest.json" ] && continue
+            cp "$f" "data/${base}"
+          done
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          DAY=$(date -u +%Y-%m-%d)
+          COUNT=$(python -c "import json; print(json.load(open('data/all_jobs_latest.json'))['count'])")
+          git commit -m "chore(jobs): update snapshot ${DAY} (${COUNT} jobs)"
+          git push origin HEAD:main
+
+          echo "## Daily jobs update" >> "$GITHUB_STEP_SUMMARY"
+          echo "- **Total:** ${COUNT}" >> "$GITHUB_STEP_SUMMARY"
+          echo "- **Day:** ${DAY}" >> "$GITHUB_STEP_SUMMARY"
