@@ -1,7 +1,7 @@
 {
   "company": "all",
-  "scraped_at": "2026-10-20T18:33:43.972037+00:00",
-  "count": 1013,
+  "scraped_at": "2026-10-20T18:46:52.720298+00:00",
+  "count": 1010,
   "companies": [
     "checkpoint",
     "elal",
@@ -14,30 +14,30 @@
       "count": 60,
       "source": "cache",
       "scraped_at": "2026-10-20T18:32:04.687141+00:00",
-      "error": null
+      "error": "403 Client Error: Forbidden for url: https://careers.checkpoint.com/index.php?m=cpcareers&a=search&fa%5B%5D=country_s%3AIsrael&start=0"
     },
     "elal": {
       "count": 13,
-      "source": "cache",
-      "scraped_at": "2026-10-16T12:55:37.943466+00:00",
+      "source": "live",
+      "scraped_at": "2026-10-20T18:46:36.705213+00:00",
       "error": null
     },
     "iai": {
       "count": 526,
       "source": "cache",
       "scraped_at": "2026-10-16T12:55:38.650591+00:00",
-      "error": null
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     "rafael": {
       "count": 322,
       "source": "cache",
       "scraped_at": "2026-10-16T12:55:44.812597+00:00",
-      "error": null
+      "error": "rafael requires an Israeli proxy. Set IL_UPSTREAM_PROXY (or HTTPS_PROXY), e.g. socks5://user:pass@host:port — on Fly: fly secrets set IL_UPSTREAM_PROXY=..."
     },
     "strauss": {
-      "count": 92,
-      "source": "cache",
-      "scraped_at": "2026-10-16T12:55:53.256770+00:00",
+      "count": 89,
+      "source": "live",
+      "scraped_at": "2026-10-20T18:46:52.711450+00:00",
       "error": null
     }
   },
@@ -1755,6 +1755,34 @@
       "company_key": "elal"
     },
     {
+      "id": "38575266",
+      "title": "פקח/ית רחבת מטוס אל על",
+      "company": "אל על",
+      "url": "https://www.drushim.co.il/job/38575266/ed592b4e/",
+      "city": "נמל תעופה בן-גוריון",
+      "description": "אל על מגייסת פקח/ית רחבה למחלקת מבצעים בנתב\"ג ! פקח/ית הרחבה מפקח/ת על כלל הפעילות ברחבת המטוס בדגש על בטיחות, כולל צוות העמסה ופריקה של רשות שדות התעופה. העבודה מתבצעת בתנאי מזג אוויר משתנים, בתנאי לחץ ומשימות המשלבות יכולות טכניות ופיזיות תוך שמירה על בטיחות הטיסה ודיוק מבצעי מקסימלי. הטבות בכרטיסי טיסה זכאות לארוחות מדים ע\"ח החברה הווי דינאמי, צעיר וייחודי באווירה של חו\"ל לחברה מערך היסעים ברדיוס שבין נתניה לאשדוד או הגעה עצמאית לנתב\"ג בתשלום דמי נסיעה, ניתן להחנות בחניון עובדי חברה. הכשרה: משך ההכשרה לתפקיד (תיאורטי + מעשי) הינו 6 שבועות בתשלום מלא, בימים א'-ה' בין השעות 07:45-16:30 הקורס ייערך קמפוס ההדרכה של אל על האנשים שלנו הם מקור לגאוותנו, הם הבסיס להצלחתנו העסקית - אנו חותרים שכל אחת ואחד יהיה גאה לעבוד אתנו וירגיש חלק ממשפחתנו!",
+      "source": "drushim/elal",
+      "employment_type": "משמרות",
+      "work_mode": "",
+      "employment_codes": [
+        "shifts"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "משמרות"
+      ],
+      "published_at": "2026-09-30T09:10:51.657",
+      "external_url": "https://campaign.adamtotal.co.il/?d=83yJPB3yuhjHnRFqY5gB0w%3d%3d",
+      "extra": {
+        "external_url": "https://campaign.adamtotal.co.il/?d=83yJPB3yuhjHnRFqY5gB0w%3d%3d",
+        "published_at": "2026-09-30T09:10:51.657",
+        "job_types": [
+          "משמרות"
+        ]
+      },
+      "company_key": "elal"
+    },
+    {
       "id": "38671444",
       "title": "עובדי ניקיון למטוסי אל-על",
       "company": "אל על",
@@ -2036,34 +2064,6 @@
       "extra": {
         "external_url": "https://tinyurl.com/2p2hcfpm",
         "published_at": "2026-10-08T09:21:19.94",
-        "job_types": [
-          "משמרות"
-        ]
-      },
-      "company_key": "elal"
-    },
-    {
-      "id": "38575266",
-      "title": "פקח/ית רחבת מטוס אל על",
-      "company": "אל על",
-      "url": "https://www.drushim.co.il/job/38575266/ed592b4e/",
-      "city": "נמל תעופה בן-גוריון",
-      "description": "אל על מגייסת פקח/ית רחבה למחלקת מבצעים בנתב\"ג ! פקח/ית הרחבה מפקח/ת על כלל הפעילות ברחבת המטוס בדגש על בטיחות, כולל צוות העמסה ופריקה של רשות שדות התעופה. העבודה מתבצעת בתנאי מזג אוויר משתנים, בתנאי לחץ ומשימות המשלבות יכולות טכניות ופיזיות תוך שמירה על בטיחות הטיסה ודיוק מבצעי מקסימלי. הטבות בכרטיסי טיסה זכאות לארוחות מדים ע\"ח החברה הווי דינאמי, צעיר וייחודי באווירה של חו\"ל לחברה מערך היסעים ברדיוס שבין נתניה לאשדוד או הגעה עצמאית לנתב\"ג בתשלום דמי נסיעה, ניתן להחנות בחניון עובדי חברה. הכשרה: משך ההכשרה לתפקיד (תיאורטי + מעשי) הינו 6 שבועות בתשלום מלא, בימים א'-ה' בין השעות 07:45-16:30 הקורס ייערך קמפוס ההדרכה של אל על האנשים שלנו הם מקור לגאוותנו, הם הבסיס להצלחתנו העסקית - אנו חותרים שכל אחת ואחד יהיה גאה לעבוד אתנו וירגיש חלק ממשפחתנו!",
-      "source": "drushim/elal",
-      "employment_type": "משמרות",
-      "work_mode": "",
-      "employment_codes": [
-        "shifts"
-      ],
-      "work_mode_codes": [],
-      "job_types": [
-        "משמרות"
-      ],
-      "published_at": "2026-09-30T09:10:51.657",
-      "external_url": "https://campaign.adamtotal.co.il/?d=83yJPB3yuhjHnRFqY5gB0w%3d%3d",
-      "extra": {
-        "external_url": "https://campaign.adamtotal.co.il/?d=83yJPB3yuhjHnRFqY5gB0w%3d%3d",
-        "published_at": "2026-09-30T09:10:51.657",
         "job_types": [
           "משמרות"
         ]
@@ -26012,6 +26012,78 @@
       "company_key": "rafael"
     },
     {
+      "id": "118153",
+      "title": "טכנאי.ת מכונות- ממתקים",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118153",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "אחזקה",
+      "extra": {
+        "field": "אחזקה"
+      },
+      "company_key": "strauss"
+    },
+    {
+      "id": "117961",
+      "title": "מתכנן.ת ביקושים",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117961",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "תכנון",
+      "extra": {
+        "field": "תכנון"
+      },
+      "company_key": "strauss"
+    },
+    {
+      "id": "118150",
+      "title": "Maintenance Lead",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118150",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "אחזקה",
+      "extra": {
+        "field": "אחזקה"
+      },
+      "company_key": "strauss"
+    },
+    {
+      "id": "118144",
+      "title": "מנהל.ת בקרה פיננסית - תפקיד זמני (החלפה לחל\"ד)",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118144",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "כלכלה ובקרה",
+      "extra": {
+        "field": "כלכלה ובקרה"
+      },
+      "company_key": "strauss"
+    },
+    {
       "id": "118140",
       "title": "מנהלת צוות גיוס אזור הצפון - החלפה לחל\"ד",
       "company": "קבוצת שטראוס",
@@ -26031,7 +26103,7 @@
     },
     {
       "id": "118139",
-      "title": "מטמיע.ת מערכות איכות ישראל החלפה לחל\"ד - כל הארץ",
+      "title": "מטמיע.ת מערכות מטה איכות החלפה לחל\"ד - כל הארץ",
       "company": "קבוצת שטראוס",
       "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118139",
       "city": "צפון",
@@ -26228,24 +26300,6 @@
       "company_key": "strauss"
     },
     {
-      "id": "118112",
-      "title": "מלגזן.ית שירות - אתר שוהם",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118112",
-      "city": "מרכז",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
-      "extra": {
-        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
-      },
-      "company_key": "strauss"
-    },
-    {
       "id": "118111",
       "title": "מפיץ.ה - אתר בית שמש",
       "company": "קבוצת שטראוס",
@@ -26260,42 +26314,6 @@
       "field": "מכירות",
       "extra": {
         "field": "מכירות"
-      },
-      "company_key": "strauss"
-    },
-    {
-      "id": "118083",
-      "title": "עובד.ת פיילוט זמני.ת",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118083",
-      "city": "צפון",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "איכות",
-      "extra": {
-        "field": "איכות"
-      },
-      "company_key": "strauss"
-    },
-    {
-      "id": "117835",
-      "title": "מנהל.ת מחלקת מדיה - פתח תקווה",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117835",
-      "city": "מרכז",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "שיווק יח\"צ וייצוא",
-      "extra": {
-        "field": "שיווק יח\"צ וייצוא"
       },
       "company_key": "strauss"
     },
@@ -26350,24 +26368,6 @@
       "field": "איכות",
       "extra": {
         "field": "איכות"
-      },
-      "company_key": "strauss"
-    },
-    {
-      "id": "118097",
-      "title": "מלקט.ת אי קום - קפה לוד (זמני עם אופציה)",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118097",
-      "city": "מרכז",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
-      "extra": {
-        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
       },
       "company_key": "strauss"
     },
@@ -26660,24 +26660,6 @@
       "company_key": "strauss"
     },
     {
-      "id": "117961",
-      "title": "מתכנן.ת ביקושים",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117961",
-      "city": "מרכז",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "תכנון",
-      "extra": {
-        "field": "תכנון"
-      },
-      "company_key": "strauss"
-    },
-    {
       "id": "118003",
       "title": "טכנאי.ת אנרגיה",
       "company": "קבוצת שטראוס",
@@ -26696,47 +26678,11 @@
       "company_key": "strauss"
     },
     {
-      "id": "118002",
-      "title": "מנהל.ת לקוחות יבש - לקוחות גדולים אזור השרון",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118002",
-      "city": "מרכז",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "מכירות",
-      "extra": {
-        "field": "מכירות"
-      },
-      "company_key": "strauss"
-    },
-    {
       "id": "117998",
       "title": "מלגזן.ית קבלה - אתר שוהם",
       "company": "קבוצת שטראוס",
       "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117998",
       "city": "מרכז",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
-      "extra": {
-        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
-      },
-      "company_key": "strauss"
-    },
-    {
-      "id": "117985",
-      "title": "מלגזן.ית - אתר באר שבע",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117985",
-      "city": "דרום",
       "description": "",
       "source": "strauss-group.co.il",
       "employment_type": "",
@@ -26822,24 +26768,6 @@
       "company_key": "strauss"
     },
     {
-      "id": "117964",
-      "title": "מנהל.ת מכירות והפצה שו\"פ מצונן- צפון",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117964",
-      "city": "צפון",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "מכירות",
-      "extra": {
-        "field": "מכירות"
-      },
-      "company_key": "strauss"
-    },
-    {
       "id": "117948",
       "title": "חשמלאי/ת ראשי/ת",
       "company": "קבוצת שטראוס",
@@ -26877,7 +26805,7 @@
     },
     {
       "id": "117935",
-      "title": "נהג.ת תובלה זמני.ת - אתר עכו",
+      "title": "נהג.ת תובלה זמני.ת עם אופציה - אתר עכו",
       "company": "קבוצת שטראוס",
       "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117935",
       "city": "צפון",
@@ -27038,6 +26966,24 @@
       "company_key": "strauss"
     },
     {
+      "id": "117877",
+      "title": "מנהל.ת תחום אחזקה - מפעל המחלבה אזור תעשייה בר לב",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117877",
+      "city": "צפון",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "אחזקה",
+      "extra": {
+        "field": "אחזקה"
+      },
+      "company_key": "strauss"
+    },
+    {
       "id": "117864",
       "title": "מהנדס.ת פיתוח טכנולוגי",
       "company": "קבוצת שטראוס",
@@ -27150,24 +27096,6 @@
       "title": "מלגזן.ית להפעלת מכונת שטיפת משטחים - אתר שוהם",
       "company": "קבוצת שטראוס",
       "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117828",
-      "city": "מרכז",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
-      "extra": {
-        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
-      },
-      "company_key": "strauss"
-    },
-    {
-      "id": "117818",
-      "title": "מלגזן.ית היגש - אתר שוהם",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117818",
       "city": "מרכז",
       "description": "",
       "source": "strauss-group.co.il",
@@ -27508,6 +27436,24 @@
       "company_key": "strauss"
     },
     {
+      "id": "118148",
+      "title": "אחראי.ת גיוס - החלפה לחל\"ד",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118148",
+      "city": "ארצי",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "משאבי אנוש",
+      "extra": {
+        "field": "משאבי אנוש"
+      },
+      "company_key": "strauss"
+    },
+    {
       "id": "118132",
       "title": "טכנאי.ת מעבדה ג'וניור - שטראוס מים",
       "company": "קבוצת שטראוס",
@@ -27602,7 +27548,7 @@
       "title": "אחראי.ית אחזקה במרלו\"ג",
       "company": "קבוצת שטראוס",
       "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117382",
-      "city": "שפלה",
+      "city": "ירושלים",
       "description": "",
       "source": "strauss-group.co.il",
       "employment_type": "",
