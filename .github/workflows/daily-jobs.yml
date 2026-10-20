@@ -1,8 +1,8 @@
-# Daily scrape from il-proxy-for-block-site → commit data/ on this repo's main.
-# Uses GITHUB_TOKEN (this repo) so no cross-repo PAT is required for the push.
+# Daily scrape from private scraper repo → commit data/ on this repo's main.
 #
-# Optional secret on THIS repo (Settings → Secrets → Actions):
-#   IL_UPSTREAM_PROXY — Israeli HTTP/SOCKS for Rafael
+# Secrets (this repo → Settings → Secrets → Actions):
+#   SCRAPER_TOKEN     — PAT/OAuth with read access to halleelyasaf/il-proxy-for-block-site
+#   IL_UPSTREAM_PROXY — optional Israeli proxy for Rafael
 
 name: Daily jobs update
 
@@ -32,6 +32,7 @@ jobs:
         with:
           repository: halleelyasaf/il-proxy-for-block-site
           path: scraper
+          token: ${{ secrets.SCRAPER_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -77,6 +78,16 @@ jobs:
           git commit -m "chore(jobs): update snapshot ${DAY} (${COUNT} jobs)"
           git push origin HEAD:main
 
-          echo "## Daily jobs update" >> "$GITHUB_STEP_SUMMARY"
-          echo "- **Total:** ${COUNT}" >> "$GITHUB_STEP_SUMMARY"
-          echo "- **Day:** ${DAY}" >> "$GITHUB_STEP_SUMMARY"
+          {
+            echo "## Daily jobs update"
+            echo "- **Total:** ${COUNT}"
+            echo "- **Day:** ${DAY}"
+            python - <<'PY'
+          import json
+          from pathlib import Path
+          d = json.loads(Path("data/all_jobs_latest.json").read_text())
+          for k, v in (d.get("per_company") or {}).items():
+              err = f" — {v.get('error')}" if v.get("error") else ""
+              print(f"- `{k}`: {v.get('count')} ({v.get('source')}){err}")
+          PY
+          } >> "$GITHUB_STEP_SUMMARY"
