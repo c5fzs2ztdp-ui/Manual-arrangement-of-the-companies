@@ -1,6 +1,6 @@
 {
   "company": "strauss",
-  "scraped_at": "2026-10-21T06:04:46.710752+00:00",
+  "scraped_at": "2026-10-21T07:21:49.573820+00:00",
   "count": 90,
   "jobs": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "id": "118144",
-      "title": "מנהל.ת בקרה פיננסית - תפקיד זמני (החלפה לחל\"ד)",
+      "title": "מנהל.ת בקרה פיננסית - קפה ישראל (תפקיד זמני)",
       "company": "קבוצת שטראוס",
       "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118144",
       "city": "מרכז",
@@ -293,6 +293,23 @@
       }
     },
     {
+      "id": "118080",
+      "title": "מנהל.ת מכירות אזור.ית שוק פרטי יבש - אזור שפלה ודרום",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118080",
+      "city": "שפלה",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      }
+    },
+    {
       "id": "118108",
       "title": "מאמת.ת איכות - מלוחים שדרות",
       "company": "קבוצת שטראוס",
@@ -426,23 +443,6 @@
       "field": "תפעול / ייצור",
       "extra": {
         "field": "תפעול / ייצור"
-      }
-    },
-    {
-      "id": "118080",
-      "title": "מנהל.ת מכירות אזור.ית שוק פרטי יבש - אזור שפלה ודרום",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118080",
-      "city": "שפלה",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "מכירות",
-      "extra": {
-        "field": "מכירות"
       }
     },
     {
@@ -1455,7 +1455,7 @@
       "title": "אחראי.ית אחזקה במרלו\"ג",
       "company": "קבוצת שטראוס",
       "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117382",
-      "city": "ירושלים",
+      "city": "ארצי",
       "description": "",
       "source": "strauss-group.co.il",
       "employment_type": "",

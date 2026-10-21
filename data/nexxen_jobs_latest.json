@@ -1,0 +1,218 @@
+{
+  "company": "nexxen",
+  "scraped_at": "2026-10-21T07:21:34.020486+00:00",
+  "count": 8,
+  "jobs": [
+    {
+      "id": "f2bd0324-d3e2-42fc-9963-7d5d8a023006",
+      "title": "Sales Manager Team Lead",
+      "company": "Nexxen",
+      "url": "https://jobs.ashbyhq.com/nexxen/f2bd0324-d3e2-42fc-9963-7d5d8a023006",
+      "city": "Tel Aviv, Israel",
+      "description": "Why Join the Taptica Team?  \nTaptica is a global end-to-end mobile advertising platform that helps the world’s top brands reach their most valuable users with the widest range of traffic sources available today. Our proprietary technology leverages big data, and combined with state-of-the-art machine learning, enables quality media targeting at scale. Taptica is headquartered in Israel with offices in San Francisco & Tel Aviv. Taptica is a performance division within the Nexxen International Ltd.\n\n \n\nTaptica is looking for a highly driven Sales Manager Team Lead with proven experience closing deals for user acquisition (UA) solutions in the AdTech and Mobile Marketing industry. If your background is in selling performance-driven DSPs, RTB, or sophisticated mobile advertising networks, this is the ideal role for you.\n\nYou will be directly responsible for aggressively expanding our international portfolio of app developers and mobile advertisers, securing high-value, strategic UA budgets, and establishing long-term, profitable partnerships that fuel their user growth and drive our company's meaningful business expansion.\n\nYou will also serve as manager of our Sales team, leading and developing the team to hit performance and revenue goals.\n\n\n\nWhat You'll Do:\n\n - Develop and manage high-level sales relationships with mobile growth leaders, user acquisition managers, and performance marketing budget holders at international companies.\n\n - Manage and lead the Sales team, providing guidance, mentorship, and performance oversight to drive collective and individual success.\n\n - Proactively close and negotiate contracts for UA campaigns, focusing on performance metrics like CPI, CPA, and ROAS. This includes defining campaign terms, securing budgets, and articulating the clear business value of our platform.\n\n - Build and manage a robust sales pipeline by employing efficient lead generation, proactive outreach, and strategic networking within the mobile app ecosystem.\n\n - Ide",
+      "source": "ashby/nexxen",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "FullTime"
+      ],
+      "field": "Taptica",
+      "extra": {
+        "field": "Taptica",
+        "job_types": [
+          "FullTime"
+        ]
+      }
+    },
+    {
+      "id": "a91bdc55-e8ae-4b3d-8e5e-bca90ce7ba56",
+      "title": "IT Systems Engineer",
+      "company": "Nexxen",
+      "url": "https://jobs.ashbyhq.com/nexxen/a91bdc55-e8ae-4b3d-8e5e-bca90ce7ba56",
+      "city": "Tel Aviv, Israel",
+      "description": "IT Systems Engineer\n\nWho is Nexxen?\n\nOne platform. Endless opportunities. In an ecosystem where everyone is trying to get closer (buyers to sellers, platforms to clients, brands to consumers), Nexxen bridges new opportunities in ways others cannot. Data, service, and planning capabilities are our superpowers, enabling our clients to better reach and understand audiences across screens. Nexxen brings new and distinct opportunities to our partners and gives our employees the chance to expand and grow their skills.\n\nWhy join the Nexxen team?\n\nWith a global footprint, you can be part of a team that is transforming advertising through creative, flexible, and unified solutions. Our employees live the Nexxen Way through the 3Cs: Customer Centric, Curious Mindset, and Collaborative with No Ego.\n\nPosition Overview\n\nThe IT Systems Engineer II owns the administration, reliability, and security of Nexxen’s core IT infrastructure across on-premises and cloud environments. Operating with a high degree of independence, this role leads technical projects end to end, resolves complex Level 3 issues through root-cause analysis, automates repeatable work, and guides IT Systems Engineer I and IT Support team members.\n\nWhat You’ll Do\n\nInfrastructure & Networking\n\n• Own office and remote-access networks, including Palo Alto Prisma Access / GlobalProtect and Cisco Meraki LAN, WAN, firewall, and wireless.\n\n• Improve redundancy and failover across AWS, Azure, and VMware, and monitor performance and capacity.\n\nIdentity, Microsoft 365 & Automation\n\n• Administer and troubleshoot Active Directory (including DNS, replication, and sync), Entra ID, SSO, SCIM, MFA, RBAC, and privileged access.\n\n• Manage Microsoft 365, Jira Cloud, and Slack integrations, automating tasks with Microsoft Graph and scripting.\n\n• Build AI-assisted automations, govern AI platform access and controls, and vet new AI tools for security and compliance.\n\nSecurity & Compliance\n\n• Enforce endpoint (CrowdStrike), email (SPF, DK",
+      "source": "ashby/nexxen",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי, מרוחק",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid",
+        "remote"
+      ],
+      "job_types": [
+        "FullTime"
+      ],
+      "field": "Engineering",
+      "extra": {
+        "field": "Engineering",
+        "job_types": [
+          "FullTime"
+        ]
+      }
+    },
+    {
+      "id": "2c291707-eb72-439f-881c-ea33a2394e2d",
+      "title": "Platform AI Engineer",
+      "company": "Nexxen",
+      "url": "https://jobs.ashbyhq.com/nexxen/2c291707-eb72-439f-881c-ea33a2394e2d",
+      "city": "Tel Aviv, Israel",
+      "description": "AI Platform & Innovation Engineer\nWe are looking for a Senior AI Platform & Innovation Engineer to join the AI Engineering Group in Tel Aviv.\nThis role is focused on designing and building the foundational AI platform that powers next-generation AI capabilities across Nexxen’s products and engineering teams. You will help shape our AI strategy by building reusable platform capabilities, evaluating emerging AI technologies, and developing production-grade AI systems that enable developers, products, and business teams across the company.\n\nWhat You’ll Do\n\n - Design and build reusable AI platform capabilities used across multiple products.\n\n - Architect and implement production-grade agentic systems, including multi-agent workflows, tool orchestration, memory and planning capabilities.\n\n - Design and build internal AI platforms such as organizational knowledge (“Brain”), AI developer tools, autonomous engineering workflows, and shared AI services.\n\n - Research, evaluate and integrate emerging AI models, frameworks and developer tools into the platform.\n\n - Collaborate closely with Data Science teams to transform research into scalable production-ready AI capabilities.\n\n - Design end-to-end AI architectures, from data ingestion and retrieval to orchestration, model integration and production deployment.\n\n - Build and operate production AI services using modern cloud-native technologies.\n\n - Improve the reliability, scalability and observability of AI systems.\n\n - Define engineering standards, reusable patterns and best practices for AI development across engineering teams.\n\n - Lead technical proof-of-concepts and drive adoption of innovative AI technologies.\n\n - Mentor engineers and provide technical leadership on complex AI initiatives.\n   \n   \n   What You’ll Bring\n\n - B.Sc http://B.Sc. in Computer Science or a related field.\n\n - 5+ years of backend software engineering experience.\n\n - 3+ years of hands-on experience building production AI systems.\n\n - Strong Python de",
+      "source": "ashby/nexxen",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "FullTime"
+      ],
+      "field": "Engineering",
+      "extra": {
+        "field": "Engineering",
+        "job_types": [
+          "FullTime"
+        ]
+      }
+    },
+    {
+      "id": "7fd72572-122a-4bcd-a2f0-1b7f0b1b414e",
+      "title": "Senior Product Manager - Maternity Leave Replacement",
+      "company": "Nexxen",
+      "url": "https://jobs.ashbyhq.com/nexxen/7fd72572-122a-4bcd-a2f0-1b7f0b1b414e",
+      "city": "Tel Aviv, Israel",
+      "description": "We are looking for a Senior Product Manager to join our Business Intelligence and Reporting team in Tel Aviv. This is an 8 month temporary position covering maternity leave.\n\nThis role will define, shape, and drive reporting capabilities that help regional finance, FP&A, publisher operations, and sales operations make better decisions. You will own the roadmap and day-to-day prioritization for initiatives within your domain, while working with the VP of Product Management and other product managers to secure broader sprint prioritization. You will take work from discovery through rollout, translating business questions into clear requirements, user stories, reporting pipelines, data models, and actionable insights.\n\nThis role is well suited to a product manager who is curious, technically fluent, and highly accountable. You will need to step into active conversations quickly, arrange the right meetings, ask direct questions, create clarity from ambiguity, and keep stakeholders and engineering moving toward delivery.\n\nWhat You Will Do\n\n• Partner with regional finance, FP&A, publisher operations, and sales operations to understand business needs, workflows, pain points, and decision requirements.\n\n• Own and maintain the BI and reporting roadmap for your domain, balancing business value, technical feasibility, dependencies, and delivery capacity.\n\n• Prioritize tasks and initiatives within your area, then advocate for their inclusion in team sprints alongside the VP of Product Management and other PMs.\n\n• Drive initiatives end to end, from discovery and definition through development, release, adoption, and continuous improvement.\n\n• Translate stakeholder needs into clear product requirements, user stories, acceptance criteria, success measures, and delivery plans.\n\n• Work with data and engineering teams to build and improve reporting pipelines, data models, BI reports, and supporting data infrastructure.\n\n• Lead agile product practices for your initiatives, including b",
+      "source": "ashby/nexxen",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "FullTime"
+      ],
+      "field": "Product ",
+      "extra": {
+        "field": "Product ",
+        "job_types": [
+          "FullTime"
+        ]
+      }
+    },
+    {
+      "id": "1d2c1322-6cff-4004-ac71-b72a12140cbc",
+      "title": "Junior Sales Manager",
+      "company": "Nexxen",
+      "url": "https://jobs.ashbyhq.com/nexxen/1d2c1322-6cff-4004-ac71-b72a12140cbc",
+      "city": "Tel Aviv, Israel",
+      "description": "Why Join the Taptica Team?  \nTaptica is a global end-to-end mobile advertising platform that helps the world’s top brands reach their most valuable users with the widest range of traffic sources available today. Our proprietary technology leverages big data, and combined with state-of-the-art machine learning, enables quality media targeting at scale. Taptica is headquartered in Israel with offices in San Francisco & Tel Aviv. Taptica is a performance division within the Nexxen International Ltd.\n\n \n\nTaptica is looking for a Junior Sales Manager to join our TLV office.\n\nWhat You’ll Do:  \n\n - Exploring new opportunities with international clients\n\n - Negotiating campaign terms and marketing budgets\n\n - Creating your pipeline using lead search\n\n - Own deals end-to-end: from prospecting through campaign launch -\n   \n   coordinating with Media, Operations, Legal, and Customer Success.\n\n - Creating long-terms partnerships and upselling budgets and business\n   \n   opportunities\n\nWhat You’ll bring?\n\n - 1-2 years of experience in sales/business development positions\n\n - Relationship-builder at heart: proven sales ability combining outstanding interpersonal communication and negotiation, with a talent for creating genuine partnerships rather than just closing deals\n\n - Driven, ambitious, fast learner with a positive professional attitude\n\n - Ability to meet and exceed individual sales targets\n\n - Ability to thrive in a fast and dynamic environment\n\n - Interest or experience in AdTech / mobile/performance marketing - Advantage\n\nA Few Fun Facts About the Team:\n\n - Our team celebrates everything (Weddings, Birth, campaign wins, work anniversaries, big launches), and yes, there's always cake\n\n - Our team racked up 13+ destinations in 2026, from Ibiza to Las Vegas, so keep your passport closer than your laptop charger\n\n - Our team knows the best ideas show up over coffee, so a teammate’s “got a minute?” is always the best meeting invite\n\nAt Nexxen, we value our differences, varie",
+      "source": "ashby/nexxen",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "FullTime"
+      ],
+      "field": "Taptica",
+      "extra": {
+        "field": "Taptica",
+        "job_types": [
+          "FullTime"
+        ]
+      }
+    },
+    {
+      "id": "9cad4e73-b325-4eda-a856-7d1cda4e6292",
+      "title": "FP&A Analyst",
+      "company": "Nexxen",
+      "url": "https://jobs.ashbyhq.com/nexxen/9cad4e73-b325-4eda-a856-7d1cda4e6292",
+      "city": "Tel Aviv, Israel",
+      "description": "We're looking for a highly analytical and business-oriented FP&A Analyst to join our FP&A team in Tel Aviv.\nIn this role, you will act as a trusted finance business partner for budget owners and department leaders across the organization. You will be responsible for financial planning, budgeting, forecasting, and performance analysis, while driving process improvements, policy development, and automation initiatives. The ideal candidate combines strong financial acumen with a passion for systems, operational excellence, and leveraging AI to improve efficiency and decision-making.\n\n\nWhat You'll Do\n\nOwn end-to-end financial planning for assigned departments, including annual budgets, quarterly forecasts, and monthly budget vs. actuals analysis.\nPartner closely with budget owners and senior stakeholders to provide financial insights, challenge assumptions, and support data-driven decision-making.\nAnalyze financial performance, identify key trends, risks, and opportunities, and provide actionable recommendations to management.\nLead monthly and quarterly business reviews, including variance analysis and presentation of key findings.\nDevelop and maintain financial models, dashboards, KPIs, and management reports to support business planning and performance tracking.\nEstablish, maintain, and improve company financial policies and governance processes.\nOwn and continuously enhance the Travel & Entertainment (T&E) process, including policy management, compliance monitoring, reporting, controls, and employee support.\nCollaborate with Accounting during month-end and quarter-end close processes to ensure accurate reporting and analysis.\nDrive implementation and optimization of FP&A systems, planning tools, and workflow solutions.\nIdentify opportunities to leverage AI and automation to streamline financial processes, improve reporting, and reduce manual work.\nPartner with cross-functional teams including R&D, Operations, HR, IT, Legal, Procurement, and Accounting on strategic in",
+      "source": "ashby/nexxen",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "FullTime"
+      ],
+      "field": "Finance",
+      "extra": {
+        "field": "Finance",
+        "job_types": [
+          "FullTime"
+        ]
+      }
+    },
+    {
+      "id": "ba324383-1941-442e-a9e8-ed7a578ca8b4",
+      "title": "Product Manager - Technical Integrations",
+      "company": "Nexxen",
+      "url": "https://jobs.ashbyhq.com/nexxen/ba324383-1941-442e-a9e8-ed7a578ca8b4",
+      "city": "Tel Aviv, Israel",
+      "description": "About the Role\n\nNexxen's SSP connects publishers to programmatic demand across web, ctv mobile app and mobile web. Because publishers integrate with us in different ways, we need someone who can be the technical expert across openRTB, prebid.js, mediation SDKs.\n\nThis role owns the technical, end to end integrations with publishers: helping publishers implement and troubleshoot their chosen integration path, validating that ad requests and responses are flowing correctly, and translating publisher feedback and issues into clear requirements for product and engineering. This role is based in our Tel Aviv office and works daily with publishers, partners, and colleagues across global markets. You'll report into Product, working closely with SSP product leadership and platform engineering to make sure integrations are scoped accurately, shipped reliably, and supported after launch.\n\nWhat You'll Do\n\n - Serve as the primary technical point of contact for publisher integrations across all three paths into the SSP: third-party mobile mediation SDKs, Prebid client-side wrappers, and direct server-to-server OpenRTB.\n\n - Support commercial teams and provide technical guidance for publishers through implementation — reviewing their mediation SDK setup, Prebid config (ad units, params, adapter/module set), or OpenRTB request construction — and troubleshoot integration issues end to end.\n\n - Review publishers’ integration specs and requirements, and analyze and validate bid request/response payloads (OpenRTB) and Prebid.js configurations to confirm parameters are being passed, parsed, and rendered correctly across each integration path.\n\n - Apply a working understanding of ad delivery and rendering (including VAST-based video ad delivery on web) to debug tag/creative rendering, tracking, and playback issues raised by publishers.\n\n - Translate publisher technical questions, bug reports, and ad hoc requirements into clear, structured input that product and engineering can act on.\n\n ",
+      "source": "ashby/nexxen",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "FullTime"
+      ],
+      "field": "Product ",
+      "extra": {
+        "field": "Product ",
+        "job_types": [
+          "FullTime"
+        ]
+      }
+    },
+    {
+      "id": "19003371-354c-4da8-93d8-0d48fc832d9d",
+      "title": "Senior Software Engineer (Data Team)",
+      "company": "Nexxen",
+      "url": "https://jobs.ashbyhq.com/nexxen/19003371-354c-4da8-93d8-0d48fc832d9d",
+      "city": "Tel Aviv, Israel",
+      "description": "We're looking for a Senior Big Data Developer to join our Data Engineering team in Tel Aviv.\nYou will be part of our Data Management platform, which is responsible for processing, storing, and serving data for all our core systems.\nAs a Senior Big Data Developer, you will be encouraged to take a proactive and autonomous approach to research and development while working collaboratively with the team. Our ideal candidate is a fast but thorough problem solver, and a fun person to work with!\n\nWhat You'll Do:\n\n - Own features end to end, from design to production, including monitoring, data quality and production support.\n\n - Take part in designing and building the next generation of company data products, such as Identity and audience solutions.\n\n - Implement high-scale Big Data solutions and contribute to our platform infrastructure and architecture.\n\n - Leverage AI to accelerate development and operations, and help build AI-driven capabilities into our data platform.\n\n - Lead and mentor other developers through complex projects that impact our core business.\n\n - Research core technologies and integrations with external data providers and services.\n\n - Work with various stakeholders: Product, Engineering, data providers, etc.\n\nWhat will I bring?\n\n - 6+ years of software development experience.\n\n - Experience building and optimizing data pipelines, ETLs, and streaming systems using technologies such as Spark, Kafka and Airflow, over HDFS / S3.\n\n - 3+ years of experience in Java or Scala, and hands-on experience with Python.\n\n - Strong SQL skills and hands-on experience with Vertica or a similar columnar / MPP database.\n\n - Experience with performance optimization of high-scale systems.\n\n - Experience with large-scale graph processing / graph algorithms (e.g. connected components, community detection) – advantage.\n\n - Experience with Kubernetes – advantage.\n\n - Experience with GitLab and Grafana – advantage.\n\n - Team player, low ego, strong communication skills.\n\n - Bac",
+      "source": "ashby/nexxen",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "FullTime"
+      ],
+      "field": "Engineering",
+      "extra": {
+        "field": "Engineering",
+        "job_types": [
+          "FullTime"
+        ]
+      }
+    }
+  ]
+}

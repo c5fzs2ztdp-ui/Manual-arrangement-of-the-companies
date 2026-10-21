@@ -1,0 +1,88 @@
+{
+  "company": "deepdub",
+  "scraped_at": "2026-10-21T07:21:29.878401+00:00",
+  "count": 3,
+  "jobs": [
+    {
+      "id": "E9.37D",
+      "title": "Dubbing Specialist - Brazilian Portuguese (Freelance, Remote)",
+      "company": "Deepdub",
+      "url": "https://www.comeet.com/jobs/deepdub/E7.00C/dubbing-specialist---brazilian-portuguese-freelance-remote/E9.37D",
+      "city": "Brazil",
+      "description": "",
+      "source": "comeet",
+      "employment_type": "משרה חלקית",
+      "work_mode": "מרוחק",
+      "employment_codes": [
+        "part"
+      ],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [
+        "Freelance"
+      ],
+      "field": "Production",
+      "extra": {
+        "field": "Production",
+        "job_types": [
+          "Freelance"
+        ]
+      }
+    },
+    {
+      "id": "E9.37D-27.304",
+      "title": "Dubbing Specialist - Brazilian Portuguese (Freelance, Remote)",
+      "company": "Deepdub",
+      "url": "https://www.comeet.com/jobs/deepdub/E7.00C/dubbing-specialist---brazilian-portuguese-freelance-remote/E9.37D-27.304",
+      "city": "Rio De Janeiro",
+      "description": "",
+      "source": "comeet",
+      "employment_type": "משרה חלקית",
+      "work_mode": "מרוחק",
+      "employment_codes": [
+        "part"
+      ],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [
+        "Freelance"
+      ],
+      "field": "Production",
+      "extra": {
+        "field": "Production",
+        "job_types": [
+          "Freelance"
+        ]
+      }
+    },
+    {
+      "id": "E9.37D-59.50A",
+      "title": "Dubbing Specialist - Brazilian Portuguese (Freelance, Remote)",
+      "company": "Deepdub",
+      "url": "https://www.comeet.com/jobs/deepdub/E7.00C/dubbing-specialist---brazilian-portuguese-freelance-remote/E9.37D-59.50A",
+      "city": "São Paulo",
+      "description": "",
+      "source": "comeet",
+      "employment_type": "משרה חלקית",
+      "work_mode": "מרוחק",
+      "employment_codes": [
+        "part"
+      ],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [
+        "Freelance"
+      ],
+      "field": "Production",
+      "extra": {
+        "field": "Production",
+        "job_types": [
+          "Freelance"
+        ]
+      }
+    }
+  ]
+}

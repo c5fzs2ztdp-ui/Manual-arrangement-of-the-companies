@@ -1,0 +1,45 @@
+{
+  "company": "teads",
+  "scraped_at": "2026-10-21T07:21:49.701420+00:00",
+  "count": 2,
+  "jobs": [
+    {
+      "id": "4899649101",
+      "title": "Senior Data Scientist",
+      "company": "Teads",
+      "url": "https://job-boards.eu.greenhouse.io/teads1/jobs/4899649101",
+      "city": "Netanya",
+      "description": "<div class=\"content-intro\"><p><strong>About Teads&nbsp;</strong></p> <p>Teads is a leading omnichannel advertising platform building the future of digital advertising where quality content, trusted publishers, ambitious brands, and human creativity can thrive. Operating at true scale - processing 18 billion ad opportunities every single day - we connect global brands with a monthly reach of over 2.2 billion unique users.</p> <p>At Teads, we believe <strong>your impact travels further</strong>. We are a borderless team of 1,700+ innovators across 30+ countries who favor outcome over tenure, value trusted autonomy, and use predictive AI to amplify human ingenuity rather than replace it. We move at pace, tackle genuinely complex problems, and foster a high-accountability culture that stays genuinely human. If you are looking for room to build and meaningful scope, you belong here. Learn more at<a href=\"https://www.teads.com/\"> </a><a href=\"http://www.teads.com\">www.teads.com</a>.</p></div><div> <h2><span style=\"font-size: 12pt;\"><strong>About the opportunity&nbsp;</strong></span></h2> <p><span style=\"font-size: 12pt;\">We are looking for a <strong>Senior Data Scientist</strong> to join a team of passionate engineers who build premium solutions at scale. Every day, we tackle ambiguous and stimulating challenges. We build and operate large-scale distributed machine learning systems that process 1B predictions per second during real-time auctions.</span></p> <h2><span style=\"font-size: 12pt;\"><strong>What will you do?</strong></span></h2> <p><span style=\"font-size: 12pt;\">As a <strong>Senior</strong> <strong>Data Scientist</strong>, your mission will be to:</span></p> <ul> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Improve existing algorithms &amp; tools allowing to explore and analyze more and more data and provide accurate feedback on the Teads activities.</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Develop new algorithms &amp",
+      "source": "greenhouse/teads1",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "Technology",
+      "extra": {
+        "field": "Technology",
+        "updated_at": "2026-07-07T08:00:37-04:00"
+      }
+    },
+    {
+      "id": "5001896101",
+      "title": "Senior GRC Analyst",
+      "company": "Teads",
+      "url": "https://job-boards.eu.greenhouse.io/teads1/jobs/5001896101",
+      "city": "Netanya",
+      "description": "<div class=\"content-intro\"><p><strong>About Teads&nbsp;</strong></p> <p>Teads is a leading omnichannel advertising platform building the future of digital advertising where quality content, trusted publishers, ambitious brands, and human creativity can thrive. Operating at true scale - processing 18 billion ad opportunities every single day - we connect global brands with a monthly reach of over 2.2 billion unique users.</p> <p>At Teads, we believe <strong>your impact travels further</strong>. We are a borderless team of 1,700+ innovators across 30+ countries who favor outcome over tenure, value trusted autonomy, and use predictive AI to amplify human ingenuity rather than replace it. We move at pace, tackle genuinely complex problems, and foster a high-accountability culture that stays genuinely human. If you are looking for room to build and meaningful scope, you belong here. Learn more at<a href=\"https://www.teads.com/\"> </a><a href=\"http://www.teads.com\">www.teads.com</a>.</p></div><div> <h2><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">Our main Engineering challenges at Teads</span></h2> <ul> <li style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"> <p><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">Build&nbsp;<strong>efficient and easy-to-use web products</strong>&nbsp;used by thousands of users working for the world’s most premium publishers, advertisers, and agencies.</span></p> </li> <li style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"> <p><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"><strong>Rich and diverse tech stack and system architecture</strong>&nbsp;to optimize for&nbsp;<strong>performance, scalability, resiliency</strong>, and cost efficiency. We use mostly Scala and TypeScript, among others.</span></p> </li> <li style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"> <p><span style=\"font-size: 12pt; font-family: helvetic",
+      "source": "greenhouse/teads1",
+      "employment_type": "",
+      "work_mode": "היברידי",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "field": "Technology",
+      "extra": {
+        "field": "Technology",
+        "updated_at": "2026-10-14T04:07:51-04:00"
+      }
+    }
+  ]
+}

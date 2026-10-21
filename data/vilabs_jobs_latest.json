@@ -1,0 +1,269 @@
+{
+  "company": "vilabs",
+  "scraped_at": "2026-10-21T07:21:49.921303+00:00",
+  "count": 13,
+  "jobs": [
+    {
+      "id": "91.47F",
+      "title": "Senior Counsel",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/senior-counsel/91.47F/",
+      "city": "Remote (EST)",
+      "description": "Remote (EST)",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "מרוחק",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "senior-counsel"
+      }
+    },
+    {
+      "id": "7D.375",
+      "title": "Senior Data Scientist",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/senior-data-scientist/7D.375/",
+      "city": "Tel Aviv",
+      "description": "Tel Aviv · Full-time · Senior",
+      "source": "vi.co",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "extra": {
+        "job_types": [
+          "Full-time"
+        ],
+        "slug": "senior-data-scientist"
+      }
+    },
+    {
+      "id": "F6.377",
+      "title": "AI Solutions Manager (Pharma)",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/ai-solutions-manager-pharma/F6.377/",
+      "city": "Tel Aviv",
+      "description": "Tel Aviv · full time · senior",
+      "source": "vi.co",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "ai-solutions-manager-pharma"
+      }
+    },
+    {
+      "id": "0E.272",
+      "title": "Director, Account Management – Wellness",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/director-account-management-wellness/0E.272/",
+      "city": "Remote (EST/PST/CT)",
+      "description": "Remote (EST/PST/CT)",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "מרוחק",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "director-account-management-wellness"
+      }
+    },
+    {
+      "id": "2C.27F",
+      "title": "Applied Data Scientist",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/applied-data-scientist/2C.27F/",
+      "city": "Boston, MA",
+      "description": "Boston, MA",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "applied-data-scientist"
+      }
+    },
+    {
+      "id": "D8.963",
+      "title": "Head of Applied AI Engineering",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/head-of-applied-ai-engineering/D8.963/",
+      "city": "Remote (EST/PST/CT)",
+      "description": "Remote (EST/PST/CT)",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "מרוחק",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "head-of-applied-ai-engineering"
+      }
+    },
+    {
+      "id": "48.86F",
+      "title": "Senior Applied AI Engineer – Operate",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/senior-applied-ai-engineer-operate/48.86F/",
+      "city": "Remote (EST/PST/CT)",
+      "description": "Remote (EST/PST/CT)",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "מרוחק",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "senior-applied-ai-engineer-operate"
+      }
+    },
+    {
+      "id": "19.373",
+      "title": "Senior QA Engineer",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/senior-qa-engineer/19.373/",
+      "city": "REMOTE (EST/CT)",
+      "description": "REMOTE (EST/CT)",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "מרוחק",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "senior-qa-engineer"
+      }
+    },
+    {
+      "id": "96.177",
+      "title": "Sr. Applied AI Engineer – Wellness",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/sr-applied-ai-engineer-wellness/96.177/",
+      "city": "Remote (EST/PST/CT)",
+      "description": "Remote (EST/PST/CT)",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "מרוחק",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "sr-applied-ai-engineer-wellness"
+      }
+    },
+    {
+      "id": "3C.273",
+      "title": "Staff Data Scientist",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/staff-data-scientist/3C.273/",
+      "city": "Boston, MA",
+      "description": "Boston, MA",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "staff-data-scientist"
+      }
+    },
+    {
+      "id": "DF.278",
+      "title": "Senior AI engineer",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/senior-ai-engineer/DF.278/",
+      "city": "Tel Aviv",
+      "description": "Tel Aviv · mid lvl",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "senior-ai-engineer"
+      }
+    },
+    {
+      "id": "1D.274",
+      "title": "Revenue Operations Manager",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/revenue-operations-manager/1D.274/",
+      "city": "Remote (EST/PST/CT)",
+      "description": "Remote (EST/PST/CT)",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "מרוחק",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "revenue-operations-manager"
+      }
+    },
+    {
+      "id": "06.F6C",
+      "title": "Talent Acquisition Manager",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/talent-acquisition-manager/06.F6C/",
+      "city": "Tel Aviv",
+      "description": "Tel Aviv · Full-time · Mid – Senior",
+      "source": "vi.co",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "extra": {
+        "job_types": [
+          "Full-time"
+        ],
+        "slug": "talent-acquisition-manager"
+      }
+    }
+  ]
+}

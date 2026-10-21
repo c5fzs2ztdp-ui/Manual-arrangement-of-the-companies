@@ -1,0 +1,23 @@
+{
+  "company": "genesys",
+  "scraped_at": "2026-10-21T07:21:32.839755+00:00",
+  "count": 1,
+  "jobs": [
+    {
+      "id": "JR112535",
+      "title": "Director Solutions Consulting South East",
+      "company": "Genesys",
+      "url": "https://genesys.wd1.myworkdayjobs.com/Genesys/job/Madrid-Flexible/Director-Solutions-Consulting-South-East_JR112535-1",
+      "city": "Madrid (Flexible)",
+      "description": "",
+      "source": "workday",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "extra": {
+        "posted_on": "Posted 14 Days Ago"
+      }
+    }
+  ]
+}

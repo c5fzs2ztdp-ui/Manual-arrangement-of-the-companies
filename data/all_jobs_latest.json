@@ -1,13 +1,19 @@
 {
   "company": "all",
-  "scraped_at": "2026-10-21T06:04:46.715689+00:00",
-  "count": 1011,
+  "scraped_at": "2026-10-21T07:21:49.923259+00:00",
+  "count": 1041,
   "companies": [
     "checkpoint",
+    "deepdub",
+    "descope",
     "elal",
+    "genesys",
     "iai",
+    "nexxen",
     "rafael",
-    "strauss"
+    "strauss",
+    "teads",
+    "vilabs"
   ],
   "per_company": {
     "checkpoint": {
@@ -16,10 +22,28 @@
       "scraped_at": "2026-10-20T18:32:04.687141+00:00",
       "error": "403 Client Error: Forbidden for url: https://careers.checkpoint.com/index.php?m=cpcareers&a=search&fa%5B%5D=country_s%3AIsrael&start=0"
     },
+    "deepdub": {
+      "count": 3,
+      "source": "live",
+      "scraped_at": "2026-10-21T07:21:29.878401+00:00",
+      "error": null
+    },
+    "descope": {
+      "count": 3,
+      "source": "live",
+      "scraped_at": "2026-10-21T07:21:30.062246+00:00",
+      "error": null
+    },
     "elal": {
       "count": 13,
       "source": "live",
-      "scraped_at": "2026-10-21T06:04:30.179192+00:00",
+      "scraped_at": "2026-10-21T07:21:31.942605+00:00",
+      "error": null
+    },
+    "genesys": {
+      "count": 1,
+      "source": "live",
+      "scraped_at": "2026-10-21T07:21:32.839755+00:00",
       "error": null
     },
     "iai": {
@@ -27,6 +51,12 @@
       "source": "cache",
       "scraped_at": "2026-10-16T12:55:38.650591+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "nexxen": {
+      "count": 8,
+      "source": "live",
+      "scraped_at": "2026-10-21T07:21:34.020486+00:00",
+      "error": null
     },
     "rafael": {
       "count": 322,
@@ -37,7 +67,19 @@
     "strauss": {
       "count": 90,
       "source": "live",
-      "scraped_at": "2026-10-21T06:04:46.710752+00:00",
+      "scraped_at": "2026-10-21T07:21:49.573820+00:00",
+      "error": null
+    },
+    "teads": {
+      "count": 2,
+      "source": "live",
+      "scraped_at": "2026-10-21T07:21:49.701420+00:00",
+      "error": null
+    },
+    "vilabs": {
+      "count": 13,
+      "source": "live",
+      "scraped_at": "2026-10-21T07:21:49.921303+00:00",
       "error": null
     }
   },
@@ -1699,12 +1741,153 @@
       "company_key": "checkpoint"
     },
     {
-      "id": "38608098",
-      "title": "מאבטח/ת קרקע בשדה התעופה",
+      "id": "E9.37D",
+      "title": "Dubbing Specialist - Brazilian Portuguese (Freelance, Remote)",
+      "company": "Deepdub",
+      "url": "https://www.comeet.com/jobs/deepdub/E7.00C/dubbing-specialist---brazilian-portuguese-freelance-remote/E9.37D",
+      "city": "Brazil",
+      "description": "",
+      "source": "comeet",
+      "employment_type": "משרה חלקית",
+      "work_mode": "מרוחק",
+      "employment_codes": [
+        "part"
+      ],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [
+        "Freelance"
+      ],
+      "field": "Production",
+      "extra": {
+        "field": "Production",
+        "job_types": [
+          "Freelance"
+        ]
+      },
+      "company_key": "deepdub"
+    },
+    {
+      "id": "E9.37D-27.304",
+      "title": "Dubbing Specialist - Brazilian Portuguese (Freelance, Remote)",
+      "company": "Deepdub",
+      "url": "https://www.comeet.com/jobs/deepdub/E7.00C/dubbing-specialist---brazilian-portuguese-freelance-remote/E9.37D-27.304",
+      "city": "Rio De Janeiro",
+      "description": "",
+      "source": "comeet",
+      "employment_type": "משרה חלקית",
+      "work_mode": "מרוחק",
+      "employment_codes": [
+        "part"
+      ],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [
+        "Freelance"
+      ],
+      "field": "Production",
+      "extra": {
+        "field": "Production",
+        "job_types": [
+          "Freelance"
+        ]
+      },
+      "company_key": "deepdub"
+    },
+    {
+      "id": "E9.37D-59.50A",
+      "title": "Dubbing Specialist - Brazilian Portuguese (Freelance, Remote)",
+      "company": "Deepdub",
+      "url": "https://www.comeet.com/jobs/deepdub/E7.00C/dubbing-specialist---brazilian-portuguese-freelance-remote/E9.37D-59.50A",
+      "city": "São Paulo",
+      "description": "",
+      "source": "comeet",
+      "employment_type": "משרה חלקית",
+      "work_mode": "מרוחק",
+      "employment_codes": [
+        "part"
+      ],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [
+        "Freelance"
+      ],
+      "field": "Production",
+      "extra": {
+        "field": "Production",
+        "job_types": [
+          "Freelance"
+        ]
+      },
+      "company_key": "deepdub"
+    },
+    {
+      "id": "4430746009",
+      "title": "Customer Success Manager",
+      "company": "Descope",
+      "url": "https://job-boards.greenhouse.io/descope/jobs/4430746009",
+      "city": "Dallas, TX",
+      "description": "<p>Descope is a developer-first identity provider for customers, partners, and AI agents. Our drag-and-drop approach to identity enables developers to easily deploy authentication, MFA, SSO, and MCP/AI agent authentication without writing custom code.<br>Descope is trusted by over 1000 organizations in production, including GoFundMe, Databricks, GoodRx, Linktree, and You.com. The company has $88M in seed funding led by Lightspeed and Notable Capital.</p> <p>We're \"descoping\" authentication plumbing from developers' daily lives while helping organizations turn identity into a business enabler. Come join us!</p> <p><strong>What You’ll Do:</strong></p> <p>As a Descope Customer Success Manager, you'll join our growing Customer Success team and own a book of business across enterprise and mid-market SMB customers. You'll partner closely with our Customer Success Engineers to drive adoption, retention, and expansion, acting as the trusted advisor customers rely on from onboarding through renewal.</p> <p>You'll work within an established CS motion — tiered engagement, playbooks, and health tracking — and help sharpen it as we scale. We're looking for someone who brings strong opinions on what great customer success looks like and isn't afraid to improve how we do things.</p> <p>The right candidate is equal parts operator and relationship builder: someone who can roll up their sleeves, manage a diverse book of business, and consistently deliver measurable outcomes for their customers.</p> <p><strong>Customer Ownership</strong></p> <ul> <li>Serve as the primary customer-success relationship owner for a portfolio of customers across segments, acting as their trusted advisor throughout the full customer lifecycle</li> <li>Orchestrate complex onboarding projects for large enterprise customers, and drive their deployment from kick-off meeting to first value milestone</li> <li>Drive product adoption, retention, and expansion by deeply understanding each customer's business goals ",
+      "source": "greenhouse/descope",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "Customer Success ",
+      "extra": {
+        "field": "Customer Success ",
+        "updated_at": "2026-10-05T10:02:41-04:00"
+      },
+      "company_key": "descope"
+    },
+    {
+      "id": "4378328009",
+      "title": "Enterprise Account Executive",
+      "company": "Descope",
+      "url": "https://job-boards.greenhouse.io/descope/jobs/4378328009",
+      "city": "New York/New Jersey",
+      "description": "<h4><strong>About Descope</strong></h4> <p>Descope is a developer-first identity provider for customers, partners, and AI agents. Our drag-and-drop approach to identity enables developers to easily deploy authentication, MFA, SSO, and MCP/AI agent authentication without writing custom code.<br>Descope is trusted by over 1000 organizations in production, including GoFundMe, Databricks, GoodRx, Linktree, and You.com. The company has $88M in seed funding led by Lightspeed and Notable Capital.&nbsp;</p> <p>We're \"descoping\" agentic and external customer authentication work from developers' daily lives while helping organizations turn identity into a business enabler. Come join us!</p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Develop and execute a short and long term strategy for generating new logo pipeline across New York City and New Jersey</li> <li>Consistently meet and exceed revenue targets while driving year over year territory growth</li> <li>Build and execute a territory plan that generate pipeline, advances opportunities, and delivers predictable bookings</li> <li>Identify and build relationships with key decision makers across Product, Engineering, Security, Architecture, and executive leadership</li> <li>Own the complete sales cycle, from initial prospecting and technical discovery through negotiation and close</li> <li>Clearly communicate Descope’s value and connect modern identity solutions to each customer’s technical priorities and business goals</li> <li>Leverage technology partners, channel partners, and industry relationships to identify and create new opportunities</li> <li>Partner closely with Solutions Engineering, Customer Success, Marketing, and leadership to deliver an exceptional customer experience</li> <li>Build a strong presence for Descope across the New York and&nbsp; New Jersey market</li> <li>Travel throughout the territory as needed to develop relationships with customers, prospects, and partners</li> </ul> <p><strong>What We’re ",
+      "source": "greenhouse/descope",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "Sales",
+      "extra": {
+        "field": "Sales",
+        "updated_at": "2026-10-13T19:24:13-04:00"
+      },
+      "company_key": "descope"
+    },
+    {
+      "id": "4449271009",
+      "title": "Enterprise Account Executive, Australia",
+      "company": "Descope",
+      "url": "https://job-boards.greenhouse.io/descope/jobs/4449271009",
+      "city": "Melbourne or Sydney, Australia",
+      "description": "<h4><strong>About Descope</strong></h4> <p>Descope is a developer-first identity provider for customers, partners, and AI agents. Our drag-and-drop approach to identity enables developers to easily deploy authentication, MFA, SSO, and MCP/AI agent authentication without writing custom code.<br>Descope is trusted by over 1000 organizations in production, including GoFundMe, Databricks, GoodRx, Linktree, and You.com. The company has $88M in seed funding led by Lightspeed and Notable Capital.&nbsp;</p> <p>We're \"descoping\" agentic and external customer authentication work from developers' daily lives while helping organizations turn identity into a business enabler. Come join us!<br><br><strong>This Founding AE role is based in Melbourne or Sydney Australia only.&nbsp;</strong></p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Develop and execute a short and long term strategy for generating new logo pipeline across Australia</li> <li>Consistently meet and exceed revenue targets while driving year over year territory growth</li> <li>Build and execute a territory plan that generate pipeline, advances opportunities, and delivers predictable bookings</li> <li>Identify and build relationships with key decision makers across Product, Engineering, Security, Architecture, and executive leadership</li> <li>Own the complete sales cycle, from initial prospecting and technical discovery through negotiation and close</li> <li>Clearly communicate Descope’s value and connect modern identity solutions to each customer’s technical priorities and business goals</li> <li>Leverage technology partners, channel partners, and industry relationships to identify and create new opportunities</li> <li>Partner closely with Solutions Engineering, Customer Success, Marketing, and leadership to deliver an exceptional customer experience</li> <li>Build a strong presence for Descope across the Australian market</li> <li>Travel throughout the territory as needed to develop relationships with custom",
+      "source": "greenhouse/descope",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "Sales",
+      "extra": {
+        "field": "Sales",
+        "updated_at": "2026-10-12T19:52:57-04:00"
+      },
+      "company_key": "descope"
+    },
+    {
+      "id": "38671786",
+      "title": "מלווה נוסעים נעזרים",
       "company": "אל על",
-      "url": "https://www.drushim.co.il/job/38608098/7c8b58e2/",
+      "url": "https://www.drushim.co.il/job/38671786/97593352/",
       "city": "נמל תעופה בן-גוריון",
-      "description": "אל על מגייסת מאבטח/ת קרקע למשמרות אל על מגייסת מאבטח/ת שערים הכוללת אבטחת מתקני אל על בנתב\"ג כולל פעולות אבטחה ובקרת כניסה. עבודה במשמרות עם שכר מתגמל ותנאים מעולים, וזה כולל גם: הטבות בכרטיסי טיסה משמרות גמישות זכאות לארוחות ולהסעות המשרה מתאימה לסטודנטים",
+      "description": "אז מה זה ליווי נוסעים? משרה שיש בה קצת מעבר, שמעניקה סיפוק לעוסקים בה, שעושה טוב על הלב, ומאפשרת לעשות טוב גם לאחר. נשמע לך מעניין?מלווה נוסעים זו המשרה בשבילך! משרה ייחודית אשר מתאימה לבעלי יכולת נתינה, סבלנות ורצון לסייע ולעזור.? מלווי הנוסעים שלנו מעניקים שירות אישי ואדיב לנוסעים הנעזרים, מניידים את הנוסעים במסלול יוצא ונכנס, ומטפלים בילדים בלתי מלווים ובקבוצות מיוחדות. זוהי עבודה ייחודית ומעניינת המעניקה סיפוק רב לעוסקים בה! נדרשת סבלנות, סובלנות, אהבת אדם, יכולת פיזית ועבודה בצוות. הכשרה מלאה על חשבוננו, תנאים מעולים: הטבות בכרטיסי טיסה, ארוחות, מדים ע\"ח החברה, הווי דינאמי, צעיר וייחודי באווירה של חו\"ל. הכשרה: • משך ההכשרה לתפקיד (תיאורטי + מעשי) הינו 3 שבועות בתשלום מלא, בימים א'-ה' בין השעות 07:45-16:30. • לחברה מערך היסעים ברדיוס שבין נתניה לאשדוד או הגעה עצמאית לנתב\"ג בתשלום דמי נסיעה, ניתן להחנות בחניון עובדי חברה. האנשים שלנו הם מקור לגאוותנו, הם הבסיס להצלחתנו העסקית - אנ?ו חותרים שכל אחת ואחד יהיה גאה לעבוד אתנו וירגיש חלק ממשפחתנו? לתשומת ליבך, העבודה במשמרות במהלך כל היממה ובכל ימות השבוע למעט שעות השבת, היקף ההעסקה בפועל הינו על פי צרכי החברה ויכול להשתנות מעת לעת.",
       "source": "drushim/elal",
       "employment_type": "משמרות",
       "work_mode": "",
@@ -1715,67 +1898,11 @@
       "job_types": [
         "משמרות"
       ],
-      "published_at": "2026-10-04T12:38:06.087",
-      "external_url": "https://campaign.adamtotal.co.il/?d=gigpvibyDaZ79qB%2bSfTieg%3d%3d",
+      "published_at": "2026-10-08T09:21:19.94",
+      "external_url": "https://tinyurl.com/2p2hcfpm",
       "extra": {
-        "external_url": "https://campaign.adamtotal.co.il/?d=gigpvibyDaZ79qB%2bSfTieg%3d%3d",
-        "published_at": "2026-10-04T12:38:06.087",
-        "job_types": [
-          "משמרות"
-        ]
-      },
-      "company_key": "elal"
-    },
-    {
-      "id": "38558983",
-      "title": "מנהל/ת מחלקת מרכז לוגיסטי תפעול שירות בטיסה",
-      "company": "אל על",
-      "url": "https://www.drushim.co.il/job/38558983/4594993f/",
-      "city": "נמל תעופה בן-גוריון",
-      "description": "אל על מגייסת מנהל/ת מחלקת מרכז לוגיסטי תפעול שירות בטיסה למטה החברה בנתבג במסגרת התפקיד: הובלה וניהול מרכז לוגיסטי ממוחשב ומתקדם הכולל ניהול צוות עובדים ותכנון וניהול המלאי ארגון המחסן ושיפור תהליכים ושיטות עבודה, עבודה עם מערכות ממוחשבות, ניהול דוחות תפעוליים ניהול ספקים בארץ ובחו\"ל, ניהול תקציבים. העבודה במשרה מלאה במטה החברה בנתב\"ג.",
-      "source": "drushim/elal",
-      "employment_type": "משרה מלאה",
-      "work_mode": "",
-      "employment_codes": [
-        "full"
-      ],
-      "work_mode_codes": [],
-      "job_types": [
-        "משרה מלאה"
-      ],
-      "published_at": "2026-09-28T11:50:54.707",
-      "external_url": "https://campaign.adamtotal.co.il/?d=gEcoOYLv4n7u%2fVNF221RTQ%3d%3d",
-      "extra": {
-        "external_url": "https://campaign.adamtotal.co.il/?d=gEcoOYLv4n7u%2fVNF221RTQ%3d%3d",
-        "published_at": "2026-09-28T11:50:54.707",
-        "job_types": [
-          "משרה מלאה"
-        ]
-      },
-      "company_key": "elal"
-    },
-    {
-      "id": "38575266",
-      "title": "פקח/ית רחבת מטוס אל על",
-      "company": "אל על",
-      "url": "https://www.drushim.co.il/job/38575266/ed592b4e/",
-      "city": "נמל תעופה בן-גוריון",
-      "description": "אל על מגייסת פקח/ית רחבה למחלקת מבצעים בנתב\"ג ! פקח/ית הרחבה מפקח/ת על כלל הפעילות ברחבת המטוס בדגש על בטיחות, כולל צוות העמסה ופריקה של רשות שדות התעופה. העבודה מתבצעת בתנאי מזג אוויר משתנים, בתנאי לחץ ומשימות המשלבות יכולות טכניות ופיזיות תוך שמירה על בטיחות הטיסה ודיוק מבצעי מקסימלי. הטבות בכרטיסי טיסה זכאות לארוחות מדים ע\"ח החברה הווי דינאמי, צעיר וייחודי באווירה של חו\"ל לחברה מערך היסעים ברדיוס שבין נתניה לאשדוד או הגעה עצמאית לנתב\"ג בתשלום דמי נסיעה, ניתן להחנות בחניון עובדי חברה. הכשרה: משך ההכשרה לתפקיד (תיאורטי + מעשי) הינו 6 שבועות בתשלום מלא, בימים א'-ה' בין השעות 07:45-16:30 הקורס ייערך קמפוס ההדרכה של אל על האנשים שלנו הם מקור לגאוותנו, הם הבסיס להצלחתנו העסקית - אנו חותרים שכל אחת ואחד יהיה גאה לעבוד אתנו וירגיש חלק ממשפחתנו!",
-      "source": "drushim/elal",
-      "employment_type": "משמרות",
-      "work_mode": "",
-      "employment_codes": [
-        "shifts"
-      ],
-      "work_mode_codes": [],
-      "job_types": [
-        "משמרות"
-      ],
-      "published_at": "2026-09-30T09:10:51.657",
-      "external_url": "https://campaign.adamtotal.co.il/?d=83yJPB3yuhjHnRFqY5gB0w%3d%3d",
-      "extra": {
-        "external_url": "https://campaign.adamtotal.co.il/?d=83yJPB3yuhjHnRFqY5gB0w%3d%3d",
-        "published_at": "2026-09-30T09:10:51.657",
+        "external_url": "https://tinyurl.com/2p2hcfpm",
+        "published_at": "2026-10-08T09:21:19.94",
         "job_types": [
           "משמרות"
         ]
@@ -2043,12 +2170,12 @@
       "company_key": "elal"
     },
     {
-      "id": "38671786",
-      "title": "מלווה נוסעים נעזרים",
+      "id": "38608098",
+      "title": "מאבטח/ת קרקע בשדה התעופה",
       "company": "אל על",
-      "url": "https://www.drushim.co.il/job/38671786/97593352/",
+      "url": "https://www.drushim.co.il/job/38608098/7c8b58e2/",
       "city": "נמל תעופה בן-גוריון",
-      "description": "אז מה זה ליווי נוסעים? משרה שיש בה קצת מעבר, שמעניקה סיפוק לעוסקים בה, שעושה טוב על הלב, ומאפשרת לעשות טוב גם לאחר. נשמע לך מעניין?מלווה נוסעים זו המשרה בשבילך! משרה ייחודית אשר מתאימה לבעלי יכולת נתינה, סבלנות ורצון לסייע ולעזור.? מלווי הנוסעים שלנו מעניקים שירות אישי ואדיב לנוסעים הנעזרים, מניידים את הנוסעים במסלול יוצא ונכנס, ומטפלים בילדים בלתי מלווים ובקבוצות מיוחדות. זוהי עבודה ייחודית ומעניינת המעניקה סיפוק רב לעוסקים בה! נדרשת סבלנות, סובלנות, אהבת אדם, יכולת פיזית ועבודה בצוות. הכשרה מלאה על חשבוננו, תנאים מעולים: הטבות בכרטיסי טיסה, ארוחות, מדים ע\"ח החברה, הווי דינאמי, צעיר וייחודי באווירה של חו\"ל. הכשרה: • משך ההכשרה לתפקיד (תיאורטי + מעשי) הינו 3 שבועות בתשלום מלא, בימים א'-ה' בין השעות 07:45-16:30. • לחברה מערך היסעים ברדיוס שבין נתניה לאשדוד או הגעה עצמאית לנתב\"ג בתשלום דמי נסיעה, ניתן להחנות בחניון עובדי חברה. האנשים שלנו הם מקור לגאוותנו, הם הבסיס להצלחתנו העסקית - אנ?ו חותרים שכל אחת ואחד יהיה גאה לעבוד אתנו וירגיש חלק ממשפחתנו? לתשומת ליבך, העבודה במשמרות במהלך כל היממה ובכל ימות השבוע למעט שעות השבת, היקף ההעסקה בפועל הינו על פי צרכי החברה ויכול להשתנות מעת לעת.",
+      "description": "אל על מגייסת מאבטח/ת קרקע למשמרות אל על מגייסת מאבטח/ת שערים הכוללת אבטחת מתקני אל על בנתב\"ג כולל פעולות אבטחה ובקרת כניסה. עבודה במשמרות עם שכר מתגמל ותנאים מעולים, וזה כולל גם: הטבות בכרטיסי טיסה משמרות גמישות זכאות לארוחות ולהסעות המשרה מתאימה לסטודנטים",
       "source": "drushim/elal",
       "employment_type": "משמרות",
       "work_mode": "",
@@ -2059,16 +2186,89 @@
       "job_types": [
         "משמרות"
       ],
-      "published_at": "2026-10-08T09:21:19.94",
-      "external_url": "https://tinyurl.com/2p2hcfpm",
+      "published_at": "2026-10-04T12:38:06.087",
+      "external_url": "https://campaign.adamtotal.co.il/?d=gigpvibyDaZ79qB%2bSfTieg%3d%3d",
       "extra": {
-        "external_url": "https://tinyurl.com/2p2hcfpm",
-        "published_at": "2026-10-08T09:21:19.94",
+        "external_url": "https://campaign.adamtotal.co.il/?d=gigpvibyDaZ79qB%2bSfTieg%3d%3d",
+        "published_at": "2026-10-04T12:38:06.087",
         "job_types": [
           "משמרות"
         ]
       },
       "company_key": "elal"
+    },
+    {
+      "id": "38558983",
+      "title": "מנהל/ת מחלקת מרכז לוגיסטי תפעול שירות בטיסה",
+      "company": "אל על",
+      "url": "https://www.drushim.co.il/job/38558983/4594993f/",
+      "city": "נמל תעופה בן-גוריון",
+      "description": "אל על מגייסת מנהל/ת מחלקת מרכז לוגיסטי תפעול שירות בטיסה למטה החברה בנתבג במסגרת התפקיד: הובלה וניהול מרכז לוגיסטי ממוחשב ומתקדם הכולל ניהול צוות עובדים ותכנון וניהול המלאי ארגון המחסן ושיפור תהליכים ושיטות עבודה, עבודה עם מערכות ממוחשבות, ניהול דוחות תפעוליים ניהול ספקים בארץ ובחו\"ל, ניהול תקציבים. העבודה במשרה מלאה במטה החברה בנתב\"ג.",
+      "source": "drushim/elal",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "משרה מלאה"
+      ],
+      "published_at": "2026-09-28T11:50:54.707",
+      "external_url": "https://campaign.adamtotal.co.il/?d=gEcoOYLv4n7u%2fVNF221RTQ%3d%3d",
+      "extra": {
+        "external_url": "https://campaign.adamtotal.co.il/?d=gEcoOYLv4n7u%2fVNF221RTQ%3d%3d",
+        "published_at": "2026-09-28T11:50:54.707",
+        "job_types": [
+          "משרה מלאה"
+        ]
+      },
+      "company_key": "elal"
+    },
+    {
+      "id": "38575266",
+      "title": "פקח/ית רחבת מטוס אל על",
+      "company": "אל על",
+      "url": "https://www.drushim.co.il/job/38575266/ed592b4e/",
+      "city": "נמל תעופה בן-גוריון",
+      "description": "אל על מגייסת פקח/ית רחבה למחלקת מבצעים בנתב\"ג ! פקח/ית הרחבה מפקח/ת על כלל הפעילות ברחבת המטוס בדגש על בטיחות, כולל צוות העמסה ופריקה של רשות שדות התעופה. העבודה מתבצעת בתנאי מזג אוויר משתנים, בתנאי לחץ ומשימות המשלבות יכולות טכניות ופיזיות תוך שמירה על בטיחות הטיסה ודיוק מבצעי מקסימלי. הטבות בכרטיסי טיסה זכאות לארוחות מדים ע\"ח החברה הווי דינאמי, צעיר וייחודי באווירה של חו\"ל לחברה מערך היסעים ברדיוס שבין נתניה לאשדוד או הגעה עצמאית לנתב\"ג בתשלום דמי נסיעה, ניתן להחנות בחניון עובדי חברה. הכשרה: משך ההכשרה לתפקיד (תיאורטי + מעשי) הינו 6 שבועות בתשלום מלא, בימים א'-ה' בין השעות 07:45-16:30 הקורס ייערך קמפוס ההדרכה של אל על האנשים שלנו הם מקור לגאוותנו, הם הבסיס להצלחתנו העסקית - אנו חותרים שכל אחת ואחד יהיה גאה לעבוד אתנו וירגיש חלק ממשפחתנו!",
+      "source": "drushim/elal",
+      "employment_type": "משמרות",
+      "work_mode": "",
+      "employment_codes": [
+        "shifts"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "משמרות"
+      ],
+      "published_at": "2026-09-30T09:10:51.657",
+      "external_url": "https://campaign.adamtotal.co.il/?d=83yJPB3yuhjHnRFqY5gB0w%3d%3d",
+      "extra": {
+        "external_url": "https://campaign.adamtotal.co.il/?d=83yJPB3yuhjHnRFqY5gB0w%3d%3d",
+        "published_at": "2026-09-30T09:10:51.657",
+        "job_types": [
+          "משמרות"
+        ]
+      },
+      "company_key": "elal"
+    },
+    {
+      "id": "JR112535",
+      "title": "Director Solutions Consulting South East",
+      "company": "Genesys",
+      "url": "https://genesys.wd1.myworkdayjobs.com/Genesys/job/Madrid-Flexible/Director-Solutions-Consulting-South-East_JR112535-1",
+      "city": "Madrid (Flexible)",
+      "description": "",
+      "source": "workday",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "extra": {
+        "posted_on": "Posted 14 Days Ago"
+      },
+      "company_key": "genesys"
     },
     {
       "id": "147422",
@@ -15760,6 +15960,225 @@
       "company_key": "iai"
     },
     {
+      "id": "f2bd0324-d3e2-42fc-9963-7d5d8a023006",
+      "title": "Sales Manager Team Lead",
+      "company": "Nexxen",
+      "url": "https://jobs.ashbyhq.com/nexxen/f2bd0324-d3e2-42fc-9963-7d5d8a023006",
+      "city": "Tel Aviv, Israel",
+      "description": "Why Join the Taptica Team?  \nTaptica is a global end-to-end mobile advertising platform that helps the world’s top brands reach their most valuable users with the widest range of traffic sources available today. Our proprietary technology leverages big data, and combined with state-of-the-art machine learning, enables quality media targeting at scale. Taptica is headquartered in Israel with offices in San Francisco & Tel Aviv. Taptica is a performance division within the Nexxen International Ltd.\n\n \n\nTaptica is looking for a highly driven Sales Manager Team Lead with proven experience closing deals for user acquisition (UA) solutions in the AdTech and Mobile Marketing industry. If your background is in selling performance-driven DSPs, RTB, or sophisticated mobile advertising networks, this is the ideal role for you.\n\nYou will be directly responsible for aggressively expanding our international portfolio of app developers and mobile advertisers, securing high-value, strategic UA budgets, and establishing long-term, profitable partnerships that fuel their user growth and drive our company's meaningful business expansion.\n\nYou will also serve as manager of our Sales team, leading and developing the team to hit performance and revenue goals.\n\n\n\nWhat You'll Do:\n\n - Develop and manage high-level sales relationships with mobile growth leaders, user acquisition managers, and performance marketing budget holders at international companies.\n\n - Manage and lead the Sales team, providing guidance, mentorship, and performance oversight to drive collective and individual success.\n\n - Proactively close and negotiate contracts for UA campaigns, focusing on performance metrics like CPI, CPA, and ROAS. This includes defining campaign terms, securing budgets, and articulating the clear business value of our platform.\n\n - Build and manage a robust sales pipeline by employing efficient lead generation, proactive outreach, and strategic networking within the mobile app ecosystem.\n\n - Ide",
+      "source": "ashby/nexxen",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "FullTime"
+      ],
+      "field": "Taptica",
+      "extra": {
+        "field": "Taptica",
+        "job_types": [
+          "FullTime"
+        ]
+      },
+      "company_key": "nexxen"
+    },
+    {
+      "id": "a91bdc55-e8ae-4b3d-8e5e-bca90ce7ba56",
+      "title": "IT Systems Engineer",
+      "company": "Nexxen",
+      "url": "https://jobs.ashbyhq.com/nexxen/a91bdc55-e8ae-4b3d-8e5e-bca90ce7ba56",
+      "city": "Tel Aviv, Israel",
+      "description": "IT Systems Engineer\n\nWho is Nexxen?\n\nOne platform. Endless opportunities. In an ecosystem where everyone is trying to get closer (buyers to sellers, platforms to clients, brands to consumers), Nexxen bridges new opportunities in ways others cannot. Data, service, and planning capabilities are our superpowers, enabling our clients to better reach and understand audiences across screens. Nexxen brings new and distinct opportunities to our partners and gives our employees the chance to expand and grow their skills.\n\nWhy join the Nexxen team?\n\nWith a global footprint, you can be part of a team that is transforming advertising through creative, flexible, and unified solutions. Our employees live the Nexxen Way through the 3Cs: Customer Centric, Curious Mindset, and Collaborative with No Ego.\n\nPosition Overview\n\nThe IT Systems Engineer II owns the administration, reliability, and security of Nexxen’s core IT infrastructure across on-premises and cloud environments. Operating with a high degree of independence, this role leads technical projects end to end, resolves complex Level 3 issues through root-cause analysis, automates repeatable work, and guides IT Systems Engineer I and IT Support team members.\n\nWhat You’ll Do\n\nInfrastructure & Networking\n\n• Own office and remote-access networks, including Palo Alto Prisma Access / GlobalProtect and Cisco Meraki LAN, WAN, firewall, and wireless.\n\n• Improve redundancy and failover across AWS, Azure, and VMware, and monitor performance and capacity.\n\nIdentity, Microsoft 365 & Automation\n\n• Administer and troubleshoot Active Directory (including DNS, replication, and sync), Entra ID, SSO, SCIM, MFA, RBAC, and privileged access.\n\n• Manage Microsoft 365, Jira Cloud, and Slack integrations, automating tasks with Microsoft Graph and scripting.\n\n• Build AI-assisted automations, govern AI platform access and controls, and vet new AI tools for security and compliance.\n\nSecurity & Compliance\n\n• Enforce endpoint (CrowdStrike), email (SPF, DK",
+      "source": "ashby/nexxen",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי, מרוחק",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid",
+        "remote"
+      ],
+      "job_types": [
+        "FullTime"
+      ],
+      "field": "Engineering",
+      "extra": {
+        "field": "Engineering",
+        "job_types": [
+          "FullTime"
+        ]
+      },
+      "company_key": "nexxen"
+    },
+    {
+      "id": "2c291707-eb72-439f-881c-ea33a2394e2d",
+      "title": "Platform AI Engineer",
+      "company": "Nexxen",
+      "url": "https://jobs.ashbyhq.com/nexxen/2c291707-eb72-439f-881c-ea33a2394e2d",
+      "city": "Tel Aviv, Israel",
+      "description": "AI Platform & Innovation Engineer\nWe are looking for a Senior AI Platform & Innovation Engineer to join the AI Engineering Group in Tel Aviv.\nThis role is focused on designing and building the foundational AI platform that powers next-generation AI capabilities across Nexxen’s products and engineering teams. You will help shape our AI strategy by building reusable platform capabilities, evaluating emerging AI technologies, and developing production-grade AI systems that enable developers, products, and business teams across the company.\n\nWhat You’ll Do\n\n - Design and build reusable AI platform capabilities used across multiple products.\n\n - Architect and implement production-grade agentic systems, including multi-agent workflows, tool orchestration, memory and planning capabilities.\n\n - Design and build internal AI platforms such as organizational knowledge (“Brain”), AI developer tools, autonomous engineering workflows, and shared AI services.\n\n - Research, evaluate and integrate emerging AI models, frameworks and developer tools into the platform.\n\n - Collaborate closely with Data Science teams to transform research into scalable production-ready AI capabilities.\n\n - Design end-to-end AI architectures, from data ingestion and retrieval to orchestration, model integration and production deployment.\n\n - Build and operate production AI services using modern cloud-native technologies.\n\n - Improve the reliability, scalability and observability of AI systems.\n\n - Define engineering standards, reusable patterns and best practices for AI development across engineering teams.\n\n - Lead technical proof-of-concepts and drive adoption of innovative AI technologies.\n\n - Mentor engineers and provide technical leadership on complex AI initiatives.\n   \n   \n   What You’ll Bring\n\n - B.Sc http://B.Sc. in Computer Science or a related field.\n\n - 5+ years of backend software engineering experience.\n\n - 3+ years of hands-on experience building production AI systems.\n\n - Strong Python de",
+      "source": "ashby/nexxen",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "FullTime"
+      ],
+      "field": "Engineering",
+      "extra": {
+        "field": "Engineering",
+        "job_types": [
+          "FullTime"
+        ]
+      },
+      "company_key": "nexxen"
+    },
+    {
+      "id": "7fd72572-122a-4bcd-a2f0-1b7f0b1b414e",
+      "title": "Senior Product Manager - Maternity Leave Replacement",
+      "company": "Nexxen",
+      "url": "https://jobs.ashbyhq.com/nexxen/7fd72572-122a-4bcd-a2f0-1b7f0b1b414e",
+      "city": "Tel Aviv, Israel",
+      "description": "We are looking for a Senior Product Manager to join our Business Intelligence and Reporting team in Tel Aviv. This is an 8 month temporary position covering maternity leave.\n\nThis role will define, shape, and drive reporting capabilities that help regional finance, FP&A, publisher operations, and sales operations make better decisions. You will own the roadmap and day-to-day prioritization for initiatives within your domain, while working with the VP of Product Management and other product managers to secure broader sprint prioritization. You will take work from discovery through rollout, translating business questions into clear requirements, user stories, reporting pipelines, data models, and actionable insights.\n\nThis role is well suited to a product manager who is curious, technically fluent, and highly accountable. You will need to step into active conversations quickly, arrange the right meetings, ask direct questions, create clarity from ambiguity, and keep stakeholders and engineering moving toward delivery.\n\nWhat You Will Do\n\n• Partner with regional finance, FP&A, publisher operations, and sales operations to understand business needs, workflows, pain points, and decision requirements.\n\n• Own and maintain the BI and reporting roadmap for your domain, balancing business value, technical feasibility, dependencies, and delivery capacity.\n\n• Prioritize tasks and initiatives within your area, then advocate for their inclusion in team sprints alongside the VP of Product Management and other PMs.\n\n• Drive initiatives end to end, from discovery and definition through development, release, adoption, and continuous improvement.\n\n• Translate stakeholder needs into clear product requirements, user stories, acceptance criteria, success measures, and delivery plans.\n\n• Work with data and engineering teams to build and improve reporting pipelines, data models, BI reports, and supporting data infrastructure.\n\n• Lead agile product practices for your initiatives, including b",
+      "source": "ashby/nexxen",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "FullTime"
+      ],
+      "field": "Product ",
+      "extra": {
+        "field": "Product ",
+        "job_types": [
+          "FullTime"
+        ]
+      },
+      "company_key": "nexxen"
+    },
+    {
+      "id": "1d2c1322-6cff-4004-ac71-b72a12140cbc",
+      "title": "Junior Sales Manager",
+      "company": "Nexxen",
+      "url": "https://jobs.ashbyhq.com/nexxen/1d2c1322-6cff-4004-ac71-b72a12140cbc",
+      "city": "Tel Aviv, Israel",
+      "description": "Why Join the Taptica Team?  \nTaptica is a global end-to-end mobile advertising platform that helps the world’s top brands reach their most valuable users with the widest range of traffic sources available today. Our proprietary technology leverages big data, and combined with state-of-the-art machine learning, enables quality media targeting at scale. Taptica is headquartered in Israel with offices in San Francisco & Tel Aviv. Taptica is a performance division within the Nexxen International Ltd.\n\n \n\nTaptica is looking for a Junior Sales Manager to join our TLV office.\n\nWhat You’ll Do:  \n\n - Exploring new opportunities with international clients\n\n - Negotiating campaign terms and marketing budgets\n\n - Creating your pipeline using lead search\n\n - Own deals end-to-end: from prospecting through campaign launch -\n   \n   coordinating with Media, Operations, Legal, and Customer Success.\n\n - Creating long-terms partnerships and upselling budgets and business\n   \n   opportunities\n\nWhat You’ll bring?\n\n - 1-2 years of experience in sales/business development positions\n\n - Relationship-builder at heart: proven sales ability combining outstanding interpersonal communication and negotiation, with a talent for creating genuine partnerships rather than just closing deals\n\n - Driven, ambitious, fast learner with a positive professional attitude\n\n - Ability to meet and exceed individual sales targets\n\n - Ability to thrive in a fast and dynamic environment\n\n - Interest or experience in AdTech / mobile/performance marketing - Advantage\n\nA Few Fun Facts About the Team:\n\n - Our team celebrates everything (Weddings, Birth, campaign wins, work anniversaries, big launches), and yes, there's always cake\n\n - Our team racked up 13+ destinations in 2026, from Ibiza to Las Vegas, so keep your passport closer than your laptop charger\n\n - Our team knows the best ideas show up over coffee, so a teammate’s “got a minute?” is always the best meeting invite\n\nAt Nexxen, we value our differences, varie",
+      "source": "ashby/nexxen",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "FullTime"
+      ],
+      "field": "Taptica",
+      "extra": {
+        "field": "Taptica",
+        "job_types": [
+          "FullTime"
+        ]
+      },
+      "company_key": "nexxen"
+    },
+    {
+      "id": "9cad4e73-b325-4eda-a856-7d1cda4e6292",
+      "title": "FP&A Analyst",
+      "company": "Nexxen",
+      "url": "https://jobs.ashbyhq.com/nexxen/9cad4e73-b325-4eda-a856-7d1cda4e6292",
+      "city": "Tel Aviv, Israel",
+      "description": "We're looking for a highly analytical and business-oriented FP&A Analyst to join our FP&A team in Tel Aviv.\nIn this role, you will act as a trusted finance business partner for budget owners and department leaders across the organization. You will be responsible for financial planning, budgeting, forecasting, and performance analysis, while driving process improvements, policy development, and automation initiatives. The ideal candidate combines strong financial acumen with a passion for systems, operational excellence, and leveraging AI to improve efficiency and decision-making.\n\n\nWhat You'll Do\n\nOwn end-to-end financial planning for assigned departments, including annual budgets, quarterly forecasts, and monthly budget vs. actuals analysis.\nPartner closely with budget owners and senior stakeholders to provide financial insights, challenge assumptions, and support data-driven decision-making.\nAnalyze financial performance, identify key trends, risks, and opportunities, and provide actionable recommendations to management.\nLead monthly and quarterly business reviews, including variance analysis and presentation of key findings.\nDevelop and maintain financial models, dashboards, KPIs, and management reports to support business planning and performance tracking.\nEstablish, maintain, and improve company financial policies and governance processes.\nOwn and continuously enhance the Travel & Entertainment (T&E) process, including policy management, compliance monitoring, reporting, controls, and employee support.\nCollaborate with Accounting during month-end and quarter-end close processes to ensure accurate reporting and analysis.\nDrive implementation and optimization of FP&A systems, planning tools, and workflow solutions.\nIdentify opportunities to leverage AI and automation to streamline financial processes, improve reporting, and reduce manual work.\nPartner with cross-functional teams including R&D, Operations, HR, IT, Legal, Procurement, and Accounting on strategic in",
+      "source": "ashby/nexxen",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "FullTime"
+      ],
+      "field": "Finance",
+      "extra": {
+        "field": "Finance",
+        "job_types": [
+          "FullTime"
+        ]
+      },
+      "company_key": "nexxen"
+    },
+    {
+      "id": "ba324383-1941-442e-a9e8-ed7a578ca8b4",
+      "title": "Product Manager - Technical Integrations",
+      "company": "Nexxen",
+      "url": "https://jobs.ashbyhq.com/nexxen/ba324383-1941-442e-a9e8-ed7a578ca8b4",
+      "city": "Tel Aviv, Israel",
+      "description": "About the Role\n\nNexxen's SSP connects publishers to programmatic demand across web, ctv mobile app and mobile web. Because publishers integrate with us in different ways, we need someone who can be the technical expert across openRTB, prebid.js, mediation SDKs.\n\nThis role owns the technical, end to end integrations with publishers: helping publishers implement and troubleshoot their chosen integration path, validating that ad requests and responses are flowing correctly, and translating publisher feedback and issues into clear requirements for product and engineering. This role is based in our Tel Aviv office and works daily with publishers, partners, and colleagues across global markets. You'll report into Product, working closely with SSP product leadership and platform engineering to make sure integrations are scoped accurately, shipped reliably, and supported after launch.\n\nWhat You'll Do\n\n - Serve as the primary technical point of contact for publisher integrations across all three paths into the SSP: third-party mobile mediation SDKs, Prebid client-side wrappers, and direct server-to-server OpenRTB.\n\n - Support commercial teams and provide technical guidance for publishers through implementation — reviewing their mediation SDK setup, Prebid config (ad units, params, adapter/module set), or OpenRTB request construction — and troubleshoot integration issues end to end.\n\n - Review publishers’ integration specs and requirements, and analyze and validate bid request/response payloads (OpenRTB) and Prebid.js configurations to confirm parameters are being passed, parsed, and rendered correctly across each integration path.\n\n - Apply a working understanding of ad delivery and rendering (including VAST-based video ad delivery on web) to debug tag/creative rendering, tracking, and playback issues raised by publishers.\n\n - Translate publisher technical questions, bug reports, and ad hoc requirements into clear, structured input that product and engineering can act on.\n\n ",
+      "source": "ashby/nexxen",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "job_types": [
+        "FullTime"
+      ],
+      "field": "Product ",
+      "extra": {
+        "field": "Product ",
+        "job_types": [
+          "FullTime"
+        ]
+      },
+      "company_key": "nexxen"
+    },
+    {
+      "id": "19003371-354c-4da8-93d8-0d48fc832d9d",
+      "title": "Senior Software Engineer (Data Team)",
+      "company": "Nexxen",
+      "url": "https://jobs.ashbyhq.com/nexxen/19003371-354c-4da8-93d8-0d48fc832d9d",
+      "city": "Tel Aviv, Israel",
+      "description": "We're looking for a Senior Big Data Developer to join our Data Engineering team in Tel Aviv.\nYou will be part of our Data Management platform, which is responsible for processing, storing, and serving data for all our core systems.\nAs a Senior Big Data Developer, you will be encouraged to take a proactive and autonomous approach to research and development while working collaboratively with the team. Our ideal candidate is a fast but thorough problem solver, and a fun person to work with!\n\nWhat You'll Do:\n\n - Own features end to end, from design to production, including monitoring, data quality and production support.\n\n - Take part in designing and building the next generation of company data products, such as Identity and audience solutions.\n\n - Implement high-scale Big Data solutions and contribute to our platform infrastructure and architecture.\n\n - Leverage AI to accelerate development and operations, and help build AI-driven capabilities into our data platform.\n\n - Lead and mentor other developers through complex projects that impact our core business.\n\n - Research core technologies and integrations with external data providers and services.\n\n - Work with various stakeholders: Product, Engineering, data providers, etc.\n\nWhat will I bring?\n\n - 6+ years of software development experience.\n\n - Experience building and optimizing data pipelines, ETLs, and streaming systems using technologies such as Spark, Kafka and Airflow, over HDFS / S3.\n\n - 3+ years of experience in Java or Scala, and hands-on experience with Python.\n\n - Strong SQL skills and hands-on experience with Vertica or a similar columnar / MPP database.\n\n - Experience with performance optimization of high-scale systems.\n\n - Experience with large-scale graph processing / graph algorithms (e.g. connected components, community detection) – advantage.\n\n - Experience with Kubernetes – advantage.\n\n - Experience with GitLab and Grafana – advantage.\n\n - Team player, low ego, strong communication skills.\n\n - Bac",
+      "source": "ashby/nexxen",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "FullTime"
+      ],
+      "field": "Engineering",
+      "extra": {
+        "field": "Engineering",
+        "job_types": [
+          "FullTime"
+        ]
+      },
+      "company_key": "nexxen"
+    },
+    {
       "id": "13488",
       "title": "מוביל.ת הנדסי.ת בתחום מערכות נפיצות",
       "company": "רפאל",
@@ -26067,7 +26486,7 @@
     },
     {
       "id": "118144",
-      "title": "מנהל.ת בקרה פיננסית - תפקיד זמני (החלפה לחל\"ד)",
+      "title": "מנהל.ת בקרה פיננסית - קפה ישראל (תפקיד זמני)",
       "company": "קבוצת שטראוס",
       "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118144",
       "city": "מרכז",
@@ -26318,6 +26737,24 @@
       "company_key": "strauss"
     },
     {
+      "id": "118080",
+      "title": "מנהל.ת מכירות אזור.ית שוק פרטי יבש - אזור שפלה ודרום",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118080",
+      "city": "שפלה",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      },
+      "company_key": "strauss"
+    },
+    {
       "id": "118108",
       "title": "מאמת.ת איכות - מלוחים שדרות",
       "company": "קבוצת שטראוס",
@@ -26458,24 +26895,6 @@
       "field": "תפעול / ייצור",
       "extra": {
         "field": "תפעול / ייצור"
-      },
-      "company_key": "strauss"
-    },
-    {
-      "id": "118080",
-      "title": "מנהל.ת מכירות אזור.ית שוק פרטי יבש - אזור שפלה ודרום",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118080",
-      "city": "שפלה",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "מכירות",
-      "extra": {
-        "field": "מכירות"
       },
       "company_key": "strauss"
     },
@@ -27548,7 +27967,7 @@
       "title": "אחראי.ית אחזקה במרלו\"ג",
       "company": "קבוצת שטראוס",
       "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117382",
-      "city": "ירושלים",
+      "city": "ארצי",
       "description": "",
       "source": "strauss-group.co.il",
       "employment_type": "",
@@ -27632,6 +28051,321 @@
         "field": "קבוצת עיסוק מים"
       },
       "company_key": "strauss"
+    },
+    {
+      "id": "4899649101",
+      "title": "Senior Data Scientist",
+      "company": "Teads",
+      "url": "https://job-boards.eu.greenhouse.io/teads1/jobs/4899649101",
+      "city": "Netanya",
+      "description": "<div class=\"content-intro\"><p><strong>About Teads&nbsp;</strong></p> <p>Teads is a leading omnichannel advertising platform building the future of digital advertising where quality content, trusted publishers, ambitious brands, and human creativity can thrive. Operating at true scale - processing 18 billion ad opportunities every single day - we connect global brands with a monthly reach of over 2.2 billion unique users.</p> <p>At Teads, we believe <strong>your impact travels further</strong>. We are a borderless team of 1,700+ innovators across 30+ countries who favor outcome over tenure, value trusted autonomy, and use predictive AI to amplify human ingenuity rather than replace it. We move at pace, tackle genuinely complex problems, and foster a high-accountability culture that stays genuinely human. If you are looking for room to build and meaningful scope, you belong here. Learn more at<a href=\"https://www.teads.com/\"> </a><a href=\"http://www.teads.com\">www.teads.com</a>.</p></div><div> <h2><span style=\"font-size: 12pt;\"><strong>About the opportunity&nbsp;</strong></span></h2> <p><span style=\"font-size: 12pt;\">We are looking for a <strong>Senior Data Scientist</strong> to join a team of passionate engineers who build premium solutions at scale. Every day, we tackle ambiguous and stimulating challenges. We build and operate large-scale distributed machine learning systems that process 1B predictions per second during real-time auctions.</span></p> <h2><span style=\"font-size: 12pt;\"><strong>What will you do?</strong></span></h2> <p><span style=\"font-size: 12pt;\">As a <strong>Senior</strong> <strong>Data Scientist</strong>, your mission will be to:</span></p> <ul> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Improve existing algorithms &amp; tools allowing to explore and analyze more and more data and provide accurate feedback on the Teads activities.</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Develop new algorithms &amp",
+      "source": "greenhouse/teads1",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "Technology",
+      "extra": {
+        "field": "Technology",
+        "updated_at": "2026-07-07T08:00:37-04:00"
+      },
+      "company_key": "teads"
+    },
+    {
+      "id": "5001896101",
+      "title": "Senior GRC Analyst",
+      "company": "Teads",
+      "url": "https://job-boards.eu.greenhouse.io/teads1/jobs/5001896101",
+      "city": "Netanya",
+      "description": "<div class=\"content-intro\"><p><strong>About Teads&nbsp;</strong></p> <p>Teads is a leading omnichannel advertising platform building the future of digital advertising where quality content, trusted publishers, ambitious brands, and human creativity can thrive. Operating at true scale - processing 18 billion ad opportunities every single day - we connect global brands with a monthly reach of over 2.2 billion unique users.</p> <p>At Teads, we believe <strong>your impact travels further</strong>. We are a borderless team of 1,700+ innovators across 30+ countries who favor outcome over tenure, value trusted autonomy, and use predictive AI to amplify human ingenuity rather than replace it. We move at pace, tackle genuinely complex problems, and foster a high-accountability culture that stays genuinely human. If you are looking for room to build and meaningful scope, you belong here. Learn more at<a href=\"https://www.teads.com/\"> </a><a href=\"http://www.teads.com\">www.teads.com</a>.</p></div><div> <h2><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">Our main Engineering challenges at Teads</span></h2> <ul> <li style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"> <p><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">Build&nbsp;<strong>efficient and easy-to-use web products</strong>&nbsp;used by thousands of users working for the world’s most premium publishers, advertisers, and agencies.</span></p> </li> <li style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"> <p><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"><strong>Rich and diverse tech stack and system architecture</strong>&nbsp;to optimize for&nbsp;<strong>performance, scalability, resiliency</strong>, and cost efficiency. We use mostly Scala and TypeScript, among others.</span></p> </li> <li style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"> <p><span style=\"font-size: 12pt; font-family: helvetic",
+      "source": "greenhouse/teads1",
+      "employment_type": "",
+      "work_mode": "היברידי",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "field": "Technology",
+      "extra": {
+        "field": "Technology",
+        "updated_at": "2026-10-14T04:07:51-04:00"
+      },
+      "company_key": "teads"
+    },
+    {
+      "id": "91.47F",
+      "title": "Senior Counsel",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/senior-counsel/91.47F/",
+      "city": "Remote (EST)",
+      "description": "Remote (EST)",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "מרוחק",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "senior-counsel"
+      },
+      "company_key": "vilabs"
+    },
+    {
+      "id": "7D.375",
+      "title": "Senior Data Scientist",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/senior-data-scientist/7D.375/",
+      "city": "Tel Aviv",
+      "description": "Tel Aviv · Full-time · Senior",
+      "source": "vi.co",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "extra": {
+        "job_types": [
+          "Full-time"
+        ],
+        "slug": "senior-data-scientist"
+      },
+      "company_key": "vilabs"
+    },
+    {
+      "id": "F6.377",
+      "title": "AI Solutions Manager (Pharma)",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/ai-solutions-manager-pharma/F6.377/",
+      "city": "Tel Aviv",
+      "description": "Tel Aviv · full time · senior",
+      "source": "vi.co",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "ai-solutions-manager-pharma"
+      },
+      "company_key": "vilabs"
+    },
+    {
+      "id": "0E.272",
+      "title": "Director, Account Management – Wellness",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/director-account-management-wellness/0E.272/",
+      "city": "Remote (EST/PST/CT)",
+      "description": "Remote (EST/PST/CT)",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "מרוחק",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "director-account-management-wellness"
+      },
+      "company_key": "vilabs"
+    },
+    {
+      "id": "2C.27F",
+      "title": "Applied Data Scientist",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/applied-data-scientist/2C.27F/",
+      "city": "Boston, MA",
+      "description": "Boston, MA",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "applied-data-scientist"
+      },
+      "company_key": "vilabs"
+    },
+    {
+      "id": "D8.963",
+      "title": "Head of Applied AI Engineering",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/head-of-applied-ai-engineering/D8.963/",
+      "city": "Remote (EST/PST/CT)",
+      "description": "Remote (EST/PST/CT)",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "מרוחק",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "head-of-applied-ai-engineering"
+      },
+      "company_key": "vilabs"
+    },
+    {
+      "id": "48.86F",
+      "title": "Senior Applied AI Engineer – Operate",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/senior-applied-ai-engineer-operate/48.86F/",
+      "city": "Remote (EST/PST/CT)",
+      "description": "Remote (EST/PST/CT)",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "מרוחק",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "senior-applied-ai-engineer-operate"
+      },
+      "company_key": "vilabs"
+    },
+    {
+      "id": "19.373",
+      "title": "Senior QA Engineer",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/senior-qa-engineer/19.373/",
+      "city": "REMOTE (EST/CT)",
+      "description": "REMOTE (EST/CT)",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "מרוחק",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "senior-qa-engineer"
+      },
+      "company_key": "vilabs"
+    },
+    {
+      "id": "96.177",
+      "title": "Sr. Applied AI Engineer – Wellness",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/sr-applied-ai-engineer-wellness/96.177/",
+      "city": "Remote (EST/PST/CT)",
+      "description": "Remote (EST/PST/CT)",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "מרוחק",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "sr-applied-ai-engineer-wellness"
+      },
+      "company_key": "vilabs"
+    },
+    {
+      "id": "3C.273",
+      "title": "Staff Data Scientist",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/staff-data-scientist/3C.273/",
+      "city": "Boston, MA",
+      "description": "Boston, MA",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "staff-data-scientist"
+      },
+      "company_key": "vilabs"
+    },
+    {
+      "id": "DF.278",
+      "title": "Senior AI engineer",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/senior-ai-engineer/DF.278/",
+      "city": "Tel Aviv",
+      "description": "Tel Aviv · mid lvl",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "senior-ai-engineer"
+      },
+      "company_key": "vilabs"
+    },
+    {
+      "id": "1D.274",
+      "title": "Revenue Operations Manager",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/revenue-operations-manager/1D.274/",
+      "city": "Remote (EST/PST/CT)",
+      "description": "Remote (EST/PST/CT)",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "מרוחק",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "revenue-operations-manager"
+      },
+      "company_key": "vilabs"
+    },
+    {
+      "id": "06.F6C",
+      "title": "Talent Acquisition Manager",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/talent-acquisition-manager/06.F6C/",
+      "city": "Tel Aviv",
+      "description": "Tel Aviv · Full-time · Mid – Senior",
+      "source": "vi.co",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "Full-time"
+      ],
+      "extra": {
+        "job_types": [
+          "Full-time"
+        ],
+        "slug": "talent-acquisition-manager"
+      },
+      "company_key": "vilabs"
     }
   ]
 }
