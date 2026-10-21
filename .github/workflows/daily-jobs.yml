@@ -8,7 +8,8 @@ name: Daily jobs update
 
 on:
   schedule:
-    - cron: "0 4 * * *"
+    # 03:00 UTC ≈ 06:00 Israel (IDT, UTC+3). In winter (IST, UTC+2) ≈ 05:00.
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 permissions:
