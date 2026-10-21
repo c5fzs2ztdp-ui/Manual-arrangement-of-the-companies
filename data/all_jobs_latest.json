@@ -1,6 +1,6 @@
 {
   "company": "all",
-  "scraped_at": "2026-10-20T18:46:52.720298+00:00",
+  "scraped_at": "2026-10-21T04:21:05.062351+00:00",
   "count": 1010,
   "companies": [
     "checkpoint",
@@ -19,7 +19,7 @@
     "elal": {
       "count": 13,
       "source": "live",
-      "scraped_at": "2026-10-20T18:46:36.705213+00:00",
+      "scraped_at": "2026-10-21T04:20:49.502437+00:00",
       "error": null
     },
     "iai": {
@@ -37,7 +37,7 @@
     "strauss": {
       "count": 89,
       "source": "live",
-      "scraped_at": "2026-10-20T18:46:52.711450+00:00",
+      "scraped_at": "2026-10-21T04:21:05.057468+00:00",
       "error": null
     }
   },
