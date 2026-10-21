@@ -1,7 +1,7 @@
 {
   "company": "strauss",
-  "scraped_at": "2026-10-21T04:21:05.057468+00:00",
-  "count": 89,
+  "scraped_at": "2026-10-21T06:04:46.710752+00:00",
+  "count": 90,
   "jobs": [
     {
       "id": "118153",
@@ -1482,6 +1482,23 @@
       "field": "תפעול / ייצור",
       "extra": {
         "field": "תפעול / ייצור"
+      }
+    },
+    {
+      "id": "117315",
+      "title": "מחסנאי.ת",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117315",
+      "city": "ירושלים",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
+      "extra": {
+        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
       }
     },
     {

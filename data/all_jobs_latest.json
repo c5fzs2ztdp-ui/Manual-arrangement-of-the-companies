@@ -1,7 +1,7 @@
 {
   "company": "all",
-  "scraped_at": "2026-10-21T04:21:05.062351+00:00",
-  "count": 1010,
+  "scraped_at": "2026-10-21T06:04:46.715689+00:00",
+  "count": 1011,
   "companies": [
     "checkpoint",
     "elal",
@@ -19,7 +19,7 @@
     "elal": {
       "count": 13,
       "source": "live",
-      "scraped_at": "2026-10-21T04:20:49.502437+00:00",
+      "scraped_at": "2026-10-21T06:04:30.179192+00:00",
       "error": null
     },
     "iai": {
@@ -35,9 +35,9 @@
       "error": "rafael requires an Israeli proxy. Set IL_UPSTREAM_PROXY (or HTTPS_PROXY), e.g. socks5://user:pass@host:port — on Fly: fly secrets set IL_UPSTREAM_PROXY=..."
     },
     "strauss": {
-      "count": 89,
+      "count": 90,
       "source": "live",
-      "scraped_at": "2026-10-21T04:21:05.057468+00:00",
+      "scraped_at": "2026-10-21T06:04:46.710752+00:00",
       "error": null
     }
   },
@@ -27576,6 +27576,24 @@
       "field": "תפעול / ייצור",
       "extra": {
         "field": "תפעול / ייצור"
+      },
+      "company_key": "strauss"
+    },
+    {
+      "id": "117315",
+      "title": "מחסנאי.ת",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117315",
+      "city": "ירושלים",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
+      "extra": {
+        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
       },
       "company_key": "strauss"
     },
