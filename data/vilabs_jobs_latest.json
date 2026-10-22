@@ -1,7 +1,7 @@
 {
   "company": "vilabs",
-  "scraped_at": "2026-10-21T07:21:49.921303+00:00",
-  "count": 13,
+  "scraped_at": "2026-10-22T03:25:06.597572+00:00",
+  "count": 14,
   "jobs": [
     {
       "id": "91.47F",
@@ -201,6 +201,24 @@
       "extra": {
         "job_types": [],
         "slug": "staff-data-scientist"
+      }
+    },
+    {
+      "id": "65.473",
+      "title": "Director, Strategy & Insights – Pharma",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/director-strategy-insights-pharma/65.473/",
+      "city": "",
+      "description": "",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "director-strategy-insights-pharma"
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "company": "descope",
-  "scraped_at": "2026-10-21T07:21:30.062246+00:00",
-  "count": 3,
+  "scraped_at": "2026-10-22T03:24:43.863859+00:00",
+  "count": 5,
   "jobs": [
     {
       "id": "4430746009",
@@ -55,6 +55,42 @@
       "extra": {
         "field": "Sales",
         "updated_at": "2026-10-12T19:52:57-04:00"
+      }
+    },
+    {
+      "id": "4463011009",
+      "title": "Enterprise Account Executive, North Central (US)",
+      "company": "Descope",
+      "url": "https://job-boards.greenhouse.io/descope/jobs/4463011009",
+      "city": "Chicago, Illinois",
+      "description": "<h4><strong>About Descope</strong></h4> <p>Descope is a developer-first identity provider for customers, partners, and AI agents. Our drag-and-drop approach to identity enables developers to easily deploy authentication, MFA, SSO, and MCP/AI agent authentication without writing custom code.<br>Descope is trusted by over 1000 organizations in production, including GoFundMe, Databricks, GoodRx, Linktree, and You.com. The company has $88M in seed funding led by Lightspeed and Notable Capital.&nbsp;</p> <p>We're \"descoping\" agentic and external customer authentication work from developers' daily lives while helping organizations turn identity into a business enabler. Come join us!<br><br><strong>The ideal candidate will be located in Chicago, Illinois.<br></strong></p> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <p>The territory includes North Dakota, South Dakota, Nebraska, Kansas, Minnesota, Iowa, Missouri, Wisconsin, and Illinois.</p> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> <p><strong>What You’ll Do:</strong></p> <ul> <li>Develop and execute a short and long term strategy for generating new logo pipelines across US East North Central territory.&nbsp;&nbsp;</li> <li>Consistently meet and exceed revenue targets while driving year over year territory growth</li> <li>Build and execute a territory plan that generates pipeline, advances opportunities, and delivers predictable bookings</li> <li>Identify and build relationships with key decision makers across Product, Engineering, Security, Architecture, and executive leadership</li> <li>Own the complete sales cycle, from initial prospecting and technical discovery through negotiation and close</li> <li>Clearly communicate Descope’s value and connect modern identity solutions to each customer’s technical priorities and business goals</li> <li>Leverage technology partners, channel partners, and industry relationships to identify ",
+      "source": "greenhouse/descope",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "Sales",
+      "extra": {
+        "field": "Sales",
+        "updated_at": "2026-10-21T15:40:12-04:00"
+      }
+    },
+    {
+      "id": "4463026009",
+      "title": "Enterprise Account Executive, Northeast (US)",
+      "company": "Descope",
+      "url": "https://job-boards.greenhouse.io/descope/jobs/4463026009",
+      "city": "Boston, MA",
+      "description": "<h4><strong>About Descope</strong></h4> <p>Descope is a developer-first identity provider for customers, partners, and AI agents. Our drag-and-drop approach to identity enables developers to easily deploy authentication, MFA, SSO, and MCP/AI agent authentication without writing custom code.<br>Descope is trusted by over 1000 organizations in production, including GoFundMe, Databricks, GoodRx, Linktree, and You.com. The company has $88M in seed funding led by Lightspeed and Notable Capital.&nbsp;</p> <p>We're \"descoping\" agentic and external customer authentication work from developers' daily lives while helping organizations turn identity into a business enabler. Come join us!<br><br><strong>The ideal candidate will be located in Boston, Massachusetts.<br></strong></p> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <p>The territory includes Connecticut, Delaware, Rhode Island, Massachusetts, New Hampshire, Vermont, Maine, Toronto, and Montreal.</p> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> <p><strong>What You’ll Do:</strong></p> <ul> <li>Develop and execute a short and long term strategy for generating new logo pipelines across US North East territory.&nbsp;&nbsp;</li> <li>Consistently meet and exceed revenue targets while driving year over year territory growth</li> <li>Build and execute a territory plan that generates pipeline, advances opportunities, and delivers predictable bookings</li> <li>Identify and build relationships with key decision makers across Product, Engineering, Security, Architecture, and executive leadership</li> <li>Own the complete sales cycle, from initial prospecting and technical discovery through negotiation and close</li> <li>Clearly communicate Descope’s value and connect modern identity solutions to each customer’s technical priorities and business goals</li> <li>Leverage technology partners, channel partners, and industry relationships to ident",
+      "source": "greenhouse/descope",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "Sales",
+      "extra": {
+        "field": "Sales",
+        "updated_at": "2026-10-21T15:43:31-04:00"
       }
     }
   ]

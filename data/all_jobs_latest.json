@@ -1,7 +1,7 @@
 {
   "company": "all",
-  "scraped_at": "2026-10-21T07:21:49.923259+00:00",
-  "count": 1041,
+  "scraped_at": "2026-10-22T03:25:06.599778+00:00",
+  "count": 1042,
   "companies": [
     "checkpoint",
     "deepdub",
@@ -25,25 +25,25 @@
     "deepdub": {
       "count": 3,
       "source": "live",
-      "scraped_at": "2026-10-21T07:21:29.878401+00:00",
+      "scraped_at": "2026-10-22T03:24:43.674923+00:00",
       "error": null
     },
     "descope": {
-      "count": 3,
+      "count": 5,
       "source": "live",
-      "scraped_at": "2026-10-21T07:21:30.062246+00:00",
+      "scraped_at": "2026-10-22T03:24:43.863859+00:00",
       "error": null
     },
     "elal": {
       "count": 13,
       "source": "live",
-      "scraped_at": "2026-10-21T07:21:31.942605+00:00",
+      "scraped_at": "2026-10-22T03:24:45.458185+00:00",
       "error": null
     },
     "genesys": {
       "count": 1,
       "source": "live",
-      "scraped_at": "2026-10-21T07:21:32.839755+00:00",
+      "scraped_at": "2026-10-22T03:24:46.310810+00:00",
       "error": null
     },
     "iai": {
@@ -55,7 +55,7 @@
     "nexxen": {
       "count": 8,
       "source": "live",
-      "scraped_at": "2026-10-21T07:21:34.020486+00:00",
+      "scraped_at": "2026-10-22T03:24:47.410546+00:00",
       "error": null
     },
     "rafael": {
@@ -65,21 +65,21 @@
       "error": "rafael requires an Israeli proxy. Set IL_UPSTREAM_PROXY (or HTTPS_PROXY), e.g. socks5://user:pass@host:port — on Fly: fly secrets set IL_UPSTREAM_PROXY=..."
     },
     "strauss": {
-      "count": 90,
+      "count": 88,
       "source": "live",
-      "scraped_at": "2026-10-21T07:21:49.573820+00:00",
+      "scraped_at": "2026-10-22T03:25:06.134099+00:00",
       "error": null
     },
     "teads": {
       "count": 2,
       "source": "live",
-      "scraped_at": "2026-10-21T07:21:49.701420+00:00",
+      "scraped_at": "2026-10-22T03:25:06.344125+00:00",
       "error": null
     },
     "vilabs": {
-      "count": 13,
+      "count": 14,
       "source": "live",
-      "scraped_at": "2026-10-21T07:21:49.921303+00:00",
+      "scraped_at": "2026-10-22T03:25:06.597572+00:00",
       "error": null
     }
   },
@@ -1882,6 +1882,128 @@
       "company_key": "descope"
     },
     {
+      "id": "4463011009",
+      "title": "Enterprise Account Executive, North Central (US)",
+      "company": "Descope",
+      "url": "https://job-boards.greenhouse.io/descope/jobs/4463011009",
+      "city": "Chicago, Illinois",
+      "description": "<h4><strong>About Descope</strong></h4> <p>Descope is a developer-first identity provider for customers, partners, and AI agents. Our drag-and-drop approach to identity enables developers to easily deploy authentication, MFA, SSO, and MCP/AI agent authentication without writing custom code.<br>Descope is trusted by over 1000 organizations in production, including GoFundMe, Databricks, GoodRx, Linktree, and You.com. The company has $88M in seed funding led by Lightspeed and Notable Capital.&nbsp;</p> <p>We're \"descoping\" agentic and external customer authentication work from developers' daily lives while helping organizations turn identity into a business enabler. Come join us!<br><br><strong>The ideal candidate will be located in Chicago, Illinois.<br></strong></p> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <p>The territory includes North Dakota, South Dakota, Nebraska, Kansas, Minnesota, Iowa, Missouri, Wisconsin, and Illinois.</p> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> <p><strong>What You’ll Do:</strong></p> <ul> <li>Develop and execute a short and long term strategy for generating new logo pipelines across US East North Central territory.&nbsp;&nbsp;</li> <li>Consistently meet and exceed revenue targets while driving year over year territory growth</li> <li>Build and execute a territory plan that generates pipeline, advances opportunities, and delivers predictable bookings</li> <li>Identify and build relationships with key decision makers across Product, Engineering, Security, Architecture, and executive leadership</li> <li>Own the complete sales cycle, from initial prospecting and technical discovery through negotiation and close</li> <li>Clearly communicate Descope’s value and connect modern identity solutions to each customer’s technical priorities and business goals</li> <li>Leverage technology partners, channel partners, and industry relationships to identify ",
+      "source": "greenhouse/descope",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "Sales",
+      "extra": {
+        "field": "Sales",
+        "updated_at": "2026-10-21T15:40:12-04:00"
+      },
+      "company_key": "descope"
+    },
+    {
+      "id": "4463026009",
+      "title": "Enterprise Account Executive, Northeast (US)",
+      "company": "Descope",
+      "url": "https://job-boards.greenhouse.io/descope/jobs/4463026009",
+      "city": "Boston, MA",
+      "description": "<h4><strong>About Descope</strong></h4> <p>Descope is a developer-first identity provider for customers, partners, and AI agents. Our drag-and-drop approach to identity enables developers to easily deploy authentication, MFA, SSO, and MCP/AI agent authentication without writing custom code.<br>Descope is trusted by over 1000 organizations in production, including GoFundMe, Databricks, GoodRx, Linktree, and You.com. The company has $88M in seed funding led by Lightspeed and Notable Capital.&nbsp;</p> <p>We're \"descoping\" agentic and external customer authentication work from developers' daily lives while helping organizations turn identity into a business enabler. Come join us!<br><br><strong>The ideal candidate will be located in Boston, Massachusetts.<br></strong></p> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <p>The territory includes Connecticut, Delaware, Rhode Island, Massachusetts, New Hampshire, Vermont, Maine, Toronto, and Montreal.</p> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> <p><strong>What You’ll Do:</strong></p> <ul> <li>Develop and execute a short and long term strategy for generating new logo pipelines across US North East territory.&nbsp;&nbsp;</li> <li>Consistently meet and exceed revenue targets while driving year over year territory growth</li> <li>Build and execute a territory plan that generates pipeline, advances opportunities, and delivers predictable bookings</li> <li>Identify and build relationships with key decision makers across Product, Engineering, Security, Architecture, and executive leadership</li> <li>Own the complete sales cycle, from initial prospecting and technical discovery through negotiation and close</li> <li>Clearly communicate Descope’s value and connect modern identity solutions to each customer’s technical priorities and business goals</li> <li>Leverage technology partners, channel partners, and industry relationships to ident",
+      "source": "greenhouse/descope",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "Sales",
+      "extra": {
+        "field": "Sales",
+        "updated_at": "2026-10-21T15:43:31-04:00"
+      },
+      "company_key": "descope"
+    },
+    {
+      "id": "38608098",
+      "title": "מאבטח/ת קרקע בשדה התעופה",
+      "company": "אל על",
+      "url": "https://www.drushim.co.il/job/38608098/7c8b58e2/",
+      "city": "נמל תעופה בן-גוריון",
+      "description": "אל על מגייסת מאבטח/ת קרקע למשמרות אל על מגייסת מאבטח/ת שערים הכוללת אבטחת מתקני אל על בנתב\"ג כולל פעולות אבטחה ובקרת כניסה. עבודה במשמרות עם שכר מתגמל ותנאים מעולים, וזה כולל גם: הטבות בכרטיסי טיסה משמרות גמישות זכאות לארוחות ולהסעות המשרה מתאימה לסטודנטים",
+      "source": "drushim/elal",
+      "employment_type": "משמרות",
+      "work_mode": "",
+      "employment_codes": [
+        "shifts"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "משמרות"
+      ],
+      "published_at": "2026-10-04T12:38:06.087",
+      "external_url": "https://campaign.adamtotal.co.il/?d=gigpvibyDaZ79qB%2bSfTieg%3d%3d",
+      "extra": {
+        "external_url": "https://campaign.adamtotal.co.il/?d=gigpvibyDaZ79qB%2bSfTieg%3d%3d",
+        "published_at": "2026-10-04T12:38:06.087",
+        "job_types": [
+          "משמרות"
+        ]
+      },
+      "company_key": "elal"
+    },
+    {
+      "id": "38558983",
+      "title": "מנהל/ת מחלקת מרכז לוגיסטי תפעול שירות בטיסה",
+      "company": "אל על",
+      "url": "https://www.drushim.co.il/job/38558983/4594993f/",
+      "city": "נמל תעופה בן-גוריון",
+      "description": "אל על מגייסת מנהל/ת מחלקת מרכז לוגיסטי תפעול שירות בטיסה למטה החברה בנתבג במסגרת התפקיד: הובלה וניהול מרכז לוגיסטי ממוחשב ומתקדם הכולל ניהול צוות עובדים ותכנון וניהול המלאי ארגון המחסן ושיפור תהליכים ושיטות עבודה, עבודה עם מערכות ממוחשבות, ניהול דוחות תפעוליים ניהול ספקים בארץ ובחו\"ל, ניהול תקציבים. העבודה במשרה מלאה במטה החברה בנתב\"ג.",
+      "source": "drushim/elal",
+      "employment_type": "משרה מלאה",
+      "work_mode": "",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "משרה מלאה"
+      ],
+      "published_at": "2026-09-28T11:50:54.707",
+      "external_url": "https://campaign.adamtotal.co.il/?d=gEcoOYLv4n7u%2fVNF221RTQ%3d%3d",
+      "extra": {
+        "external_url": "https://campaign.adamtotal.co.il/?d=gEcoOYLv4n7u%2fVNF221RTQ%3d%3d",
+        "published_at": "2026-09-28T11:50:54.707",
+        "job_types": [
+          "משרה מלאה"
+        ]
+      },
+      "company_key": "elal"
+    },
+    {
+      "id": "38575266",
+      "title": "פקח/ית רחבת מטוס אל על",
+      "company": "אל על",
+      "url": "https://www.drushim.co.il/job/38575266/ed592b4e/",
+      "city": "נמל תעופה בן-גוריון",
+      "description": "אל על מגייסת פקח/ית רחבה למחלקת מבצעים בנתב\"ג ! פקח/ית הרחבה מפקח/ת על כלל הפעילות ברחבת המטוס בדגש על בטיחות, כולל צוות העמסה ופריקה של רשות שדות התעופה. העבודה מתבצעת בתנאי מזג אוויר משתנים, בתנאי לחץ ומשימות המשלבות יכולות טכניות ופיזיות תוך שמירה על בטיחות הטיסה ודיוק מבצעי מקסימלי. הטבות בכרטיסי טיסה זכאות לארוחות מדים ע\"ח החברה הווי דינאמי, צעיר וייחודי באווירה של חו\"ל לחברה מערך היסעים ברדיוס שבין נתניה לאשדוד או הגעה עצמאית לנתב\"ג בתשלום דמי נסיעה, ניתן להחנות בחניון עובדי חברה. הכשרה: משך ההכשרה לתפקיד (תיאורטי + מעשי) הינו 6 שבועות בתשלום מלא, בימים א'-ה' בין השעות 07:45-16:30 הקורס ייערך קמפוס ההדרכה של אל על האנשים שלנו הם מקור לגאוותנו, הם הבסיס להצלחתנו העסקית - אנו חותרים שכל אחת ואחד יהיה גאה לעבוד אתנו וירגיש חלק ממשפחתנו!",
+      "source": "drushim/elal",
+      "employment_type": "משמרות",
+      "work_mode": "",
+      "employment_codes": [
+        "shifts"
+      ],
+      "work_mode_codes": [],
+      "job_types": [
+        "משמרות"
+      ],
+      "published_at": "2026-09-30T09:10:51.657",
+      "external_url": "https://campaign.adamtotal.co.il/?d=83yJPB3yuhjHnRFqY5gB0w%3d%3d",
+      "extra": {
+        "external_url": "https://campaign.adamtotal.co.il/?d=83yJPB3yuhjHnRFqY5gB0w%3d%3d",
+        "published_at": "2026-09-30T09:10:51.657",
+        "job_types": [
+          "משמרות"
+        ]
+      },
+      "company_key": "elal"
+    },
+    {
       "id": "38671786",
       "title": "מלווה נוסעים נעזרים",
       "company": "אל על",
@@ -2163,90 +2285,6 @@
       "extra": {
         "external_url": "https://campaign.adamtotal.co.il/?d=Hr9MWY%2fYwmKimF74sJphLA%3d%3d",
         "published_at": "2026-10-08T09:21:19.94",
-        "job_types": [
-          "משמרות"
-        ]
-      },
-      "company_key": "elal"
-    },
-    {
-      "id": "38608098",
-      "title": "מאבטח/ת קרקע בשדה התעופה",
-      "company": "אל על",
-      "url": "https://www.drushim.co.il/job/38608098/7c8b58e2/",
-      "city": "נמל תעופה בן-גוריון",
-      "description": "אל על מגייסת מאבטח/ת קרקע למשמרות אל על מגייסת מאבטח/ת שערים הכוללת אבטחת מתקני אל על בנתב\"ג כולל פעולות אבטחה ובקרת כניסה. עבודה במשמרות עם שכר מתגמל ותנאים מעולים, וזה כולל גם: הטבות בכרטיסי טיסה משמרות גמישות זכאות לארוחות ולהסעות המשרה מתאימה לסטודנטים",
-      "source": "drushim/elal",
-      "employment_type": "משמרות",
-      "work_mode": "",
-      "employment_codes": [
-        "shifts"
-      ],
-      "work_mode_codes": [],
-      "job_types": [
-        "משמרות"
-      ],
-      "published_at": "2026-10-04T12:38:06.087",
-      "external_url": "https://campaign.adamtotal.co.il/?d=gigpvibyDaZ79qB%2bSfTieg%3d%3d",
-      "extra": {
-        "external_url": "https://campaign.adamtotal.co.il/?d=gigpvibyDaZ79qB%2bSfTieg%3d%3d",
-        "published_at": "2026-10-04T12:38:06.087",
-        "job_types": [
-          "משמרות"
-        ]
-      },
-      "company_key": "elal"
-    },
-    {
-      "id": "38558983",
-      "title": "מנהל/ת מחלקת מרכז לוגיסטי תפעול שירות בטיסה",
-      "company": "אל על",
-      "url": "https://www.drushim.co.il/job/38558983/4594993f/",
-      "city": "נמל תעופה בן-גוריון",
-      "description": "אל על מגייסת מנהל/ת מחלקת מרכז לוגיסטי תפעול שירות בטיסה למטה החברה בנתבג במסגרת התפקיד: הובלה וניהול מרכז לוגיסטי ממוחשב ומתקדם הכולל ניהול צוות עובדים ותכנון וניהול המלאי ארגון המחסן ושיפור תהליכים ושיטות עבודה, עבודה עם מערכות ממוחשבות, ניהול דוחות תפעוליים ניהול ספקים בארץ ובחו\"ל, ניהול תקציבים. העבודה במשרה מלאה במטה החברה בנתב\"ג.",
-      "source": "drushim/elal",
-      "employment_type": "משרה מלאה",
-      "work_mode": "",
-      "employment_codes": [
-        "full"
-      ],
-      "work_mode_codes": [],
-      "job_types": [
-        "משרה מלאה"
-      ],
-      "published_at": "2026-09-28T11:50:54.707",
-      "external_url": "https://campaign.adamtotal.co.il/?d=gEcoOYLv4n7u%2fVNF221RTQ%3d%3d",
-      "extra": {
-        "external_url": "https://campaign.adamtotal.co.il/?d=gEcoOYLv4n7u%2fVNF221RTQ%3d%3d",
-        "published_at": "2026-09-28T11:50:54.707",
-        "job_types": [
-          "משרה מלאה"
-        ]
-      },
-      "company_key": "elal"
-    },
-    {
-      "id": "38575266",
-      "title": "פקח/ית רחבת מטוס אל על",
-      "company": "אל על",
-      "url": "https://www.drushim.co.il/job/38575266/ed592b4e/",
-      "city": "נמל תעופה בן-גוריון",
-      "description": "אל על מגייסת פקח/ית רחבה למחלקת מבצעים בנתב\"ג ! פקח/ית הרחבה מפקח/ת על כלל הפעילות ברחבת המטוס בדגש על בטיחות, כולל צוות העמסה ופריקה של רשות שדות התעופה. העבודה מתבצעת בתנאי מזג אוויר משתנים, בתנאי לחץ ומשימות המשלבות יכולות טכניות ופיזיות תוך שמירה על בטיחות הטיסה ודיוק מבצעי מקסימלי. הטבות בכרטיסי טיסה זכאות לארוחות מדים ע\"ח החברה הווי דינאמי, צעיר וייחודי באווירה של חו\"ל לחברה מערך היסעים ברדיוס שבין נתניה לאשדוד או הגעה עצמאית לנתב\"ג בתשלום דמי נסיעה, ניתן להחנות בחניון עובדי חברה. הכשרה: משך ההכשרה לתפקיד (תיאורטי + מעשי) הינו 6 שבועות בתשלום מלא, בימים א'-ה' בין השעות 07:45-16:30 הקורס ייערך קמפוס ההדרכה של אל על האנשים שלנו הם מקור לגאוותנו, הם הבסיס להצלחתנו העסקית - אנו חותרים שכל אחת ואחד יהיה גאה לעבוד אתנו וירגיש חלק ממשפחתנו!",
-      "source": "drushim/elal",
-      "employment_type": "משמרות",
-      "work_mode": "",
-      "employment_codes": [
-        "shifts"
-      ],
-      "work_mode_codes": [],
-      "job_types": [
-        "משמרות"
-      ],
-      "published_at": "2026-09-30T09:10:51.657",
-      "external_url": "https://campaign.adamtotal.co.il/?d=83yJPB3yuhjHnRFqY5gB0w%3d%3d",
-      "extra": {
-        "external_url": "https://campaign.adamtotal.co.il/?d=83yJPB3yuhjHnRFqY5gB0w%3d%3d",
-        "published_at": "2026-09-30T09:10:51.657",
         "job_types": [
           "משמרות"
         ]
@@ -26485,6 +26523,24 @@
       "company_key": "strauss"
     },
     {
+      "id": "118149",
+      "title": "מפיץ.ה - אתר שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118149",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      },
+      "company_key": "strauss"
+    },
+    {
       "id": "118144",
       "title": "מנהל.ת בקרה פיננסית - קפה ישראל (תפקיד זמני)",
       "company": "קבוצת שטראוס",
@@ -27259,24 +27315,6 @@
       "company_key": "strauss"
     },
     {
-      "id": "117924",
-      "title": "עובד.ת חנות על גלגלים - זמני",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117924",
-      "city": "שפלה",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "מכירות",
-      "extra": {
-        "field": "מכירות"
-      },
-      "company_key": "strauss"
-    },
-    {
       "id": "117904",
       "title": "מנהל.ת חשבות חברת הקפה הבינלאומית - פתח תקווה",
       "company": "קבוצת שטראוס",
@@ -27601,24 +27639,6 @@
       "company_key": "strauss"
     },
     {
-      "id": "117614",
-      "title": "מנהל.ת תעשייה – יטבתה",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117614",
-      "city": "דרום",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "תפעול / ייצור",
-      "extra": {
-        "field": "תפעול / ייצור"
-      },
-      "company_key": "strauss"
-    },
-    {
       "id": "117555",
       "title": "אחראי.ת לשכת יו\"ר",
       "company": "קבוצת שטראוס",
@@ -27705,24 +27725,6 @@
       "field": "מו\"פ וטכנולוגיה",
       "extra": {
         "field": "מו\"פ וטכנולוגיה"
-      },
-      "company_key": "strauss"
-    },
-    {
-      "id": "108464",
-      "title": "מפעיל/ת מכונה- אתרי הצפון",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=108464",
-      "city": "צפון",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "תפעול / ייצור",
-      "extra": {
-        "field": "תפעול / ייצור"
       },
       "company_key": "strauss"
     },
@@ -28299,6 +28301,25 @@
       "extra": {
         "job_types": [],
         "slug": "staff-data-scientist"
+      },
+      "company_key": "vilabs"
+    },
+    {
+      "id": "65.473",
+      "title": "Director, Strategy & Insights – Pharma",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/director-strategy-insights-pharma/65.473/",
+      "city": "",
+      "description": "",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "director-strategy-insights-pharma"
       },
       "company_key": "vilabs"
     },

@@ -1,7 +1,7 @@
 {
   "company": "strauss",
-  "scraped_at": "2026-10-21T07:21:49.573820+00:00",
-  "count": 90,
+  "scraped_at": "2026-10-22T03:25:06.134099+00:00",
+  "count": 88,
   "jobs": [
     {
       "id": "118153",
@@ -52,6 +52,23 @@
       "field": "אחזקה",
       "extra": {
         "field": "אחזקה"
+      }
+    },
+    {
+      "id": "118149",
+      "title": "מפיץ.ה - אתר שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118149",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
       }
     },
     {
@@ -786,23 +803,6 @@
       }
     },
     {
-      "id": "117924",
-      "title": "עובד.ת חנות על גלגלים - זמני",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117924",
-      "city": "שפלה",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "מכירות",
-      "extra": {
-        "field": "מכירות"
-      }
-    },
-    {
       "id": "117904",
       "title": "מנהל.ת חשבות חברת הקפה הבינלאומית - פתח תקווה",
       "company": "קבוצת שטראוס",
@@ -1109,23 +1109,6 @@
       }
     },
     {
-      "id": "117614",
-      "title": "מנהל.ת תעשייה – יטבתה",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117614",
-      "city": "דרום",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "תפעול / ייצור",
-      "extra": {
-        "field": "תפעול / ייצור"
-      }
-    },
-    {
       "id": "117555",
       "title": "אחראי.ת לשכת יו\"ר",
       "company": "קבוצת שטראוס",
@@ -1208,23 +1191,6 @@
       "field": "מו\"פ וטכנולוגיה",
       "extra": {
         "field": "מו\"פ וטכנולוגיה"
-      }
-    },
-    {
-      "id": "108464",
-      "title": "מפעיל/ת מכונה- אתרי הצפון",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=108464",
-      "city": "צפון",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "תפעול / ייצור",
-      "extra": {
-        "field": "תפעול / ייצור"
       }
     },
     {
