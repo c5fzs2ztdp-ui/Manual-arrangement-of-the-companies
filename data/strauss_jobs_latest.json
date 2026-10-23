@@ -1,8 +1,25 @@
 {
   "company": "strauss",
-  "scraped_at": "2026-10-22T03:25:06.134099+00:00",
+  "scraped_at": "2026-10-23T03:24:46.755563+00:00",
   "count": 88,
   "jobs": [
+    {
+      "id": "118156",
+      "title": "מנהל.ת פרויקטים",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118156",
+      "city": "ארצי",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "הנדסה",
+      "extra": {
+        "field": "הנדסה"
+      }
+    },
     {
       "id": "118153",
       "title": "טכנאי.ת מכונות- ממתקים",
@@ -1123,23 +1140,6 @@
       "field": "פקידות ומזכירות",
       "extra": {
         "field": "פקידות ומזכירות"
-      }
-    },
-    {
-      "id": "117553",
-      "title": "מפעיל/ת מכונה",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117553",
-      "city": "דרום",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "תפעול / ייצור",
-      "extra": {
-        "field": "תפעול / ייצור"
       }
     },
     {

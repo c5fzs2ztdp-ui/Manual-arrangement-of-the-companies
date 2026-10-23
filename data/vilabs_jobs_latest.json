@@ -1,7 +1,7 @@
 {
   "company": "vilabs",
-  "scraped_at": "2026-10-22T03:25:06.597572+00:00",
-  "count": 14,
+  "scraped_at": "2026-10-23T03:24:47.071212+00:00",
+  "count": 13,
   "jobs": [
     {
       "id": "91.47F",
@@ -208,35 +208,19 @@
       "title": "Director, Strategy & Insights – Pharma",
       "company": "Vi Labs",
       "url": "https://vi.co/careers/director-strategy-insights-pharma/65.473/",
-      "city": "",
-      "description": "",
+      "city": "Remote (EST/PST/CT)",
+      "description": "Remote (EST/PST/CT)",
       "source": "vi.co",
       "employment_type": "",
-      "work_mode": "",
+      "work_mode": "מרוחק",
       "employment_codes": [],
-      "work_mode_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
       "job_types": [],
       "extra": {
         "job_types": [],
         "slug": "director-strategy-insights-pharma"
-      }
-    },
-    {
-      "id": "DF.278",
-      "title": "Senior AI engineer",
-      "company": "Vi Labs",
-      "url": "https://vi.co/careers/senior-ai-engineer/DF.278/",
-      "city": "Tel Aviv",
-      "description": "Tel Aviv · mid lvl",
-      "source": "vi.co",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "job_types": [],
-      "extra": {
-        "job_types": [],
-        "slug": "senior-ai-engineer"
       }
     },
     {

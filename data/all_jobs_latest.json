@@ -1,6 +1,6 @@
 {
   "company": "all",
-  "scraped_at": "2026-10-22T03:25:06.599778+00:00",
+  "scraped_at": "2026-10-23T03:24:47.073266+00:00",
   "count": 1042,
   "companies": [
     "checkpoint",
@@ -25,25 +25,25 @@
     "deepdub": {
       "count": 3,
       "source": "live",
-      "scraped_at": "2026-10-22T03:24:43.674923+00:00",
+      "scraped_at": "2026-10-23T03:24:24.837043+00:00",
       "error": null
     },
     "descope": {
-      "count": 5,
+      "count": 6,
       "source": "live",
-      "scraped_at": "2026-10-22T03:24:43.863859+00:00",
+      "scraped_at": "2026-10-23T03:24:25.030676+00:00",
       "error": null
     },
     "elal": {
       "count": 13,
       "source": "live",
-      "scraped_at": "2026-10-22T03:24:45.458185+00:00",
+      "scraped_at": "2026-10-23T03:24:26.567252+00:00",
       "error": null
     },
     "genesys": {
       "count": 1,
       "source": "live",
-      "scraped_at": "2026-10-22T03:24:46.310810+00:00",
+      "scraped_at": "2026-10-23T03:24:27.250141+00:00",
       "error": null
     },
     "iai": {
@@ -55,7 +55,7 @@
     "nexxen": {
       "count": 8,
       "source": "live",
-      "scraped_at": "2026-10-22T03:24:47.410546+00:00",
+      "scraped_at": "2026-10-23T03:24:28.201152+00:00",
       "error": null
     },
     "rafael": {
@@ -67,19 +67,19 @@
     "strauss": {
       "count": 88,
       "source": "live",
-      "scraped_at": "2026-10-22T03:25:06.134099+00:00",
+      "scraped_at": "2026-10-23T03:24:46.755563+00:00",
       "error": null
     },
     "teads": {
       "count": 2,
       "source": "live",
-      "scraped_at": "2026-10-22T03:25:06.344125+00:00",
+      "scraped_at": "2026-10-23T03:24:46.914604+00:00",
       "error": null
     },
     "vilabs": {
-      "count": 14,
+      "count": 13,
       "source": "live",
-      "scraped_at": "2026-10-22T03:25:06.597572+00:00",
+      "scraped_at": "2026-10-23T03:24:47.071212+00:00",
       "error": null
     }
   },
@@ -1825,6 +1825,29 @@
       "company_key": "deepdub"
     },
     {
+      "id": "4463572009",
+      "title": "Account Executive, Strategic Accounts - EMEA",
+      "company": "Descope",
+      "url": "https://job-boards.greenhouse.io/descope/jobs/4463572009",
+      "city": "Tel Aviv, IL",
+      "description": "<p>Descope is a developer-first identity provider for customers, partners, and AI agents. Our drag-and-drop approach to identity enables developers to easily deploy authentication, MFA, SSO, and MCP/AI agent authentication without writing custom code.<br>Descope is trusted by over 1000 organizations in production, including GoFundMe, Databricks, GoodRx, Linktree, and You.com. The company has $88M in seed funding led by Lightspeed and Notable Capital.&nbsp;</p> <p>We're \"descoping\" agentic and external customer authentication work from developers' daily lives while helping organizations turn identity into a business enabler. Come join us!</p> <p><strong>Why this role is different</strong><strong><br></strong>This isn’t a “here’s your list, here’s your playbook” AE role. You’ll join a small, high-impact EMEA sales team based in Tel Aviv and work directly with our founders and executive team. Your focus is Israel, where you’ll sell to some of the fastest-growing tech companies in the country, with a book that mixes high-velocity startups with select hitech and strategic accounts. You’ll also help us grow across Europe and the wider EMEA region.</p> <p>Identity is being rebuilt around AI agents right now. You’ll be at the front of that conversation with CTOs and engineering leaders who are working it out in real time. You’ll also help sharpen how we go to market in Israel and EMEA, not just carry out a plan someone else wrote.</p> <p><strong>What you’ll do</strong></p> <ul> <li>Win new business, with Israel as your primary focus and Europe and the wider EMEA region as a growing part of your book</li> <li>Run full sales cycles, from first conversation to signed contract, including complex, multi-stakeholder deals</li> <li>Sell to technical and executive buyers: CTOs, VPs of Engineering, CISOs, product leaders, and developers</li> <li>Partner with our founders on pipeline generation, strategic deals, executive relationships, and key logos</li> <li>Work closely with your G",
+      "source": "greenhouse/descope",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "field": "Sales",
+      "extra": {
+        "field": "Sales",
+        "updated_at": "2026-10-22T07:44:37-04:00"
+      },
+      "company_key": "descope"
+    },
+    {
       "id": "4430746009",
       "title": "Customer Success Manager",
       "company": "Descope",
@@ -2304,7 +2327,7 @@
       "employment_codes": [],
       "work_mode_codes": [],
       "extra": {
-        "posted_on": "Posted 14 Days Ago"
+        "posted_on": "Posted 15 Days Ago"
       },
       "company_key": "genesys"
     },
@@ -26469,6 +26492,24 @@
       "company_key": "rafael"
     },
     {
+      "id": "118156",
+      "title": "מנהל.ת פרויקטים",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118156",
+      "city": "ארצי",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "הנדסה",
+      "extra": {
+        "field": "הנדסה"
+      },
+      "company_key": "strauss"
+    },
+    {
       "id": "118153",
       "title": "טכנאי.ת מכונות- ממתקים",
       "company": "קבוצת שטראוס",
@@ -27657,24 +27698,6 @@
       "company_key": "strauss"
     },
     {
-      "id": "117553",
-      "title": "מפעיל/ת מכונה",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117553",
-      "city": "דרום",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "תפעול / ייצור",
-      "extra": {
-        "field": "תפעול / ייצור"
-      },
-      "company_key": "strauss"
-    },
-    {
       "id": "117344",
       "title": "מת\"ל CORP",
       "company": "קבוצת שטראוס",
@@ -28309,36 +28332,19 @@
       "title": "Director, Strategy & Insights – Pharma",
       "company": "Vi Labs",
       "url": "https://vi.co/careers/director-strategy-insights-pharma/65.473/",
-      "city": "",
-      "description": "",
+      "city": "Remote (EST/PST/CT)",
+      "description": "Remote (EST/PST/CT)",
       "source": "vi.co",
       "employment_type": "",
-      "work_mode": "",
+      "work_mode": "מרוחק",
       "employment_codes": [],
-      "work_mode_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
       "job_types": [],
       "extra": {
         "job_types": [],
         "slug": "director-strategy-insights-pharma"
-      },
-      "company_key": "vilabs"
-    },
-    {
-      "id": "DF.278",
-      "title": "Senior AI engineer",
-      "company": "Vi Labs",
-      "url": "https://vi.co/careers/senior-ai-engineer/DF.278/",
-      "city": "Tel Aviv",
-      "description": "Tel Aviv · mid lvl",
-      "source": "vi.co",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "job_types": [],
-      "extra": {
-        "job_types": [],
-        "slug": "senior-ai-engineer"
       },
       "company_key": "vilabs"
     },

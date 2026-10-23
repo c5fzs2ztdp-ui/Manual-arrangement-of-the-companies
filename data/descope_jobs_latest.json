@@ -1,8 +1,30 @@
 {
   "company": "descope",
-  "scraped_at": "2026-10-22T03:24:43.863859+00:00",
-  "count": 5,
+  "scraped_at": "2026-10-23T03:24:25.030676+00:00",
+  "count": 6,
   "jobs": [
+    {
+      "id": "4463572009",
+      "title": "Account Executive, Strategic Accounts - EMEA",
+      "company": "Descope",
+      "url": "https://job-boards.greenhouse.io/descope/jobs/4463572009",
+      "city": "Tel Aviv, IL",
+      "description": "<p>Descope is a developer-first identity provider for customers, partners, and AI agents. Our drag-and-drop approach to identity enables developers to easily deploy authentication, MFA, SSO, and MCP/AI agent authentication without writing custom code.<br>Descope is trusted by over 1000 organizations in production, including GoFundMe, Databricks, GoodRx, Linktree, and You.com. The company has $88M in seed funding led by Lightspeed and Notable Capital.&nbsp;</p> <p>We're \"descoping\" agentic and external customer authentication work from developers' daily lives while helping organizations turn identity into a business enabler. Come join us!</p> <p><strong>Why this role is different</strong><strong><br></strong>This isn’t a “here’s your list, here’s your playbook” AE role. You’ll join a small, high-impact EMEA sales team based in Tel Aviv and work directly with our founders and executive team. Your focus is Israel, where you’ll sell to some of the fastest-growing tech companies in the country, with a book that mixes high-velocity startups with select hitech and strategic accounts. You’ll also help us grow across Europe and the wider EMEA region.</p> <p>Identity is being rebuilt around AI agents right now. You’ll be at the front of that conversation with CTOs and engineering leaders who are working it out in real time. You’ll also help sharpen how we go to market in Israel and EMEA, not just carry out a plan someone else wrote.</p> <p><strong>What you’ll do</strong></p> <ul> <li>Win new business, with Israel as your primary focus and Europe and the wider EMEA region as a growing part of your book</li> <li>Run full sales cycles, from first conversation to signed contract, including complex, multi-stakeholder deals</li> <li>Sell to technical and executive buyers: CTOs, VPs of Engineering, CISOs, product leaders, and developers</li> <li>Partner with our founders on pipeline generation, strategic deals, executive relationships, and key logos</li> <li>Work closely with your G",
+      "source": "greenhouse/descope",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "field": "Sales",
+      "extra": {
+        "field": "Sales",
+        "updated_at": "2026-10-22T07:44:37-04:00"
+      }
+    },
     {
       "id": "4430746009",
       "title": "Customer Success Manager",
