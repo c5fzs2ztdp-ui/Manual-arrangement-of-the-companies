@@ -1,7 +1,7 @@
 {
   "company": "vilabs",
-  "scraped_at": "2026-10-23T03:24:47.071212+00:00",
-  "count": 13,
+  "scraped_at": "2026-10-24T03:22:40.797248+00:00",
+  "count": 14,
   "jobs": [
     {
       "id": "91.47F",
@@ -221,6 +221,24 @@
       "extra": {
         "job_types": [],
         "slug": "director-strategy-insights-pharma"
+      }
+    },
+    {
+      "id": "DF.278",
+      "title": "Senior AI engineer",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/senior-ai-engineer/DF.278/",
+      "city": "Tel Aviv",
+      "description": "Tel Aviv · mid lvl",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "senior-ai-engineer"
       }
     },
     {
