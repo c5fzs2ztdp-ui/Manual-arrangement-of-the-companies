@@ -1,6 +1,6 @@
 {
   "company": "all",
-  "scraped_at": "2026-10-24T03:22:40.799128+00:00",
+  "scraped_at": "2026-10-25T03:22:32.596958+00:00",
   "count": 1043,
   "companies": [
     "checkpoint",
@@ -25,25 +25,25 @@
     "deepdub": {
       "count": 3,
       "source": "live",
-      "scraped_at": "2026-10-24T03:22:29.124434+00:00",
+      "scraped_at": "2026-10-25T03:22:15.539362+00:00",
       "error": null
     },
     "descope": {
       "count": 6,
       "source": "live",
-      "scraped_at": "2026-10-24T03:22:29.594395+00:00",
+      "scraped_at": "2026-10-25T03:22:15.682604+00:00",
       "error": null
     },
     "elal": {
       "count": 13,
       "source": "live",
-      "scraped_at": "2026-10-24T03:22:31.260985+00:00",
+      "scraped_at": "2026-10-25T03:22:17.221576+00:00",
       "error": null
     },
     "genesys": {
       "count": 1,
       "source": "live",
-      "scraped_at": "2026-10-24T03:22:32.192571+00:00",
+      "scraped_at": "2026-10-25T03:22:17.990464+00:00",
       "error": null
     },
     "iai": {
@@ -55,7 +55,7 @@
     "nexxen": {
       "count": 8,
       "source": "live",
-      "scraped_at": "2026-10-24T03:22:33.627530+00:00",
+      "scraped_at": "2026-10-25T03:22:19.170092+00:00",
       "error": null
     },
     "rafael": {
@@ -67,19 +67,19 @@
     "strauss": {
       "count": 88,
       "source": "live",
-      "scraped_at": "2026-10-24T03:22:40.183059+00:00",
+      "scraped_at": "2026-10-25T03:22:32.248594+00:00",
       "error": null
     },
     "teads": {
       "count": 2,
       "source": "live",
-      "scraped_at": "2026-10-24T03:22:40.455278+00:00",
+      "scraped_at": "2026-10-25T03:22:32.391704+00:00",
       "error": null
     },
     "vilabs": {
       "count": 14,
       "source": "live",
-      "scraped_at": "2026-10-24T03:22:40.797248+00:00",
+      "scraped_at": "2026-10-25T03:22:32.595220+00:00",
       "error": null
     }
   },
@@ -2327,7 +2327,7 @@
       "employment_codes": [],
       "work_mode_codes": [],
       "extra": {
-        "posted_on": "Posted 16 Days Ago"
+        "posted_on": "Posted 17 Days Ago"
       },
       "company_key": "genesys"
     },
