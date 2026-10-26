@@ -1,6 +1,6 @@
 {
   "company": "descope",
-  "scraped_at": "2026-10-25T03:22:15.682604+00:00",
+  "scraped_at": "2026-10-26T03:26:25.319861+00:00",
   "count": 6,
   "jobs": [
     {
@@ -94,7 +94,7 @@
       "field": "Sales",
       "extra": {
         "field": "Sales",
-        "updated_at": "2026-10-21T15:40:12-04:00"
+        "updated_at": "2026-10-25T13:02:05-04:00"
       }
     },
     {
@@ -112,7 +112,7 @@
       "field": "Sales",
       "extra": {
         "field": "Sales",
-        "updated_at": "2026-10-21T15:43:31-04:00"
+        "updated_at": "2026-10-25T13:05:37-04:00"
       }
     }
   ]

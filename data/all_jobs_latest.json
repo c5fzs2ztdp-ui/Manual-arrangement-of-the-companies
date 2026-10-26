@@ -1,7 +1,7 @@
 {
   "company": "all",
-  "scraped_at": "2026-10-25T03:22:32.596958+00:00",
-  "count": 1043,
+  "scraped_at": "2026-10-26T03:26:35.393362+00:00",
+  "count": 1042,
   "companies": [
     "checkpoint",
     "deepdub",
@@ -25,25 +25,25 @@
     "deepdub": {
       "count": 3,
       "source": "live",
-      "scraped_at": "2026-10-25T03:22:15.539362+00:00",
+      "scraped_at": "2026-10-26T03:26:25.041704+00:00",
       "error": null
     },
     "descope": {
       "count": 6,
       "source": "live",
-      "scraped_at": "2026-10-25T03:22:15.682604+00:00",
+      "scraped_at": "2026-10-26T03:26:25.319861+00:00",
       "error": null
     },
     "elal": {
       "count": 13,
       "source": "live",
-      "scraped_at": "2026-10-25T03:22:17.221576+00:00",
+      "scraped_at": "2026-10-26T03:26:26.915975+00:00",
       "error": null
     },
     "genesys": {
       "count": 1,
       "source": "live",
-      "scraped_at": "2026-10-25T03:22:17.990464+00:00",
+      "scraped_at": "2026-10-26T03:26:27.786023+00:00",
       "error": null
     },
     "iai": {
@@ -55,7 +55,7 @@
     "nexxen": {
       "count": 8,
       "source": "live",
-      "scraped_at": "2026-10-25T03:22:19.170092+00:00",
+      "scraped_at": "2026-10-26T03:26:28.692354+00:00",
       "error": null
     },
     "rafael": {
@@ -65,21 +65,21 @@
       "error": "rafael requires an Israeli proxy. Set IL_UPSTREAM_PROXY (or HTTPS_PROXY), e.g. socks5://user:pass@host:port — on Fly: fly secrets set IL_UPSTREAM_PROXY=..."
     },
     "strauss": {
-      "count": 88,
+      "count": 87,
       "source": "live",
-      "scraped_at": "2026-10-25T03:22:32.248594+00:00",
+      "scraped_at": "2026-10-26T03:26:35.102693+00:00",
       "error": null
     },
     "teads": {
       "count": 2,
       "source": "live",
-      "scraped_at": "2026-10-25T03:22:32.391704+00:00",
+      "scraped_at": "2026-10-26T03:26:35.234786+00:00",
       "error": null
     },
     "vilabs": {
       "count": 14,
       "source": "live",
-      "scraped_at": "2026-10-25T03:22:32.595220+00:00",
+      "scraped_at": "2026-10-26T03:26:35.390851+00:00",
       "error": null
     }
   },
@@ -1919,7 +1919,7 @@
       "field": "Sales",
       "extra": {
         "field": "Sales",
-        "updated_at": "2026-10-21T15:40:12-04:00"
+        "updated_at": "2026-10-25T13:02:05-04:00"
       },
       "company_key": "descope"
     },
@@ -1938,7 +1938,7 @@
       "field": "Sales",
       "extra": {
         "field": "Sales",
-        "updated_at": "2026-10-21T15:43:31-04:00"
+        "updated_at": "2026-10-25T13:05:37-04:00"
       },
       "company_key": "descope"
     },
@@ -2327,7 +2327,7 @@
       "employment_codes": [],
       "work_mode_codes": [],
       "extra": {
-        "posted_on": "Posted 17 Days Ago"
+        "posted_on": "Posted 18 Days Ago"
       },
       "company_key": "genesys"
     },
@@ -26492,20 +26492,20 @@
       "company_key": "rafael"
     },
     {
-      "id": "118156",
-      "title": "מנהל.ת פרויקטים",
+      "id": "118175",
+      "title": "מנהל.ת מוצר אפליקצייה קמעונאים - שוהם",
       "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118156",
-      "city": "ארצי",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118175",
+      "city": "מרכז",
       "description": "",
       "source": "strauss-group.co.il",
       "employment_type": "",
       "work_mode": "",
       "employment_codes": [],
       "work_mode_codes": [],
-      "field": "הנדסה",
+      "field": "שיווק יח\"צ וייצוא",
       "extra": {
-        "field": "הנדסה"
+        "field": "שיווק יח\"צ וייצוא"
       },
       "company_key": "strauss"
     },
@@ -26722,24 +26722,6 @@
       "field": "משאבי אנוש",
       "extra": {
         "field": "משאבי אנוש"
-      },
-      "company_key": "strauss"
-    },
-    {
-      "id": "118123",
-      "title": "מפעיל.ה מתחיל.ה",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118123",
-      "city": "צפון",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "תפעול / ייצור",
-      "extra": {
-        "field": "תפעול / ייצור"
       },
       "company_key": "strauss"
     },

@@ -1,23 +1,23 @@
 {
   "company": "strauss",
-  "scraped_at": "2026-10-25T03:22:32.248594+00:00",
-  "count": 88,
+  "scraped_at": "2026-10-26T03:26:35.102693+00:00",
+  "count": 87,
   "jobs": [
     {
-      "id": "118156",
-      "title": "מנהל.ת פרויקטים",
+      "id": "118175",
+      "title": "מנהל.ת מוצר אפליקצייה קמעונאים - שוהם",
       "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118156",
-      "city": "ארצי",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118175",
+      "city": "מרכז",
       "description": "",
       "source": "strauss-group.co.il",
       "employment_type": "",
       "work_mode": "",
       "employment_codes": [],
       "work_mode_codes": [],
-      "field": "הנדסה",
+      "field": "שיווק יח\"צ וייצוא",
       "extra": {
-        "field": "הנדסה"
+        "field": "שיווק יח\"צ וייצוא"
       }
     },
     {
@@ -222,23 +222,6 @@
       "field": "משאבי אנוש",
       "extra": {
         "field": "משאבי אנוש"
-      }
-    },
-    {
-      "id": "118123",
-      "title": "מפעיל.ה מתחיל.ה",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118123",
-      "city": "צפון",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "תפעול / ייצור",
-      "extra": {
-        "field": "תפעול / ייצור"
       }
     },
     {
