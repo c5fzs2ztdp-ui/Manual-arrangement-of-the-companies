@@ -1,8 +1,25 @@
 {
   "company": "strauss",
-  "scraped_at": "2026-10-26T03:26:35.102693+00:00",
-  "count": 87,
+  "scraped_at": "2026-10-27T03:26:41.463086+00:00",
+  "count": 89,
   "jobs": [
+    {
+      "id": "118181",
+      "title": "כלכלן.ית זמני.ת - חטיבת המכירות",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118181",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "כלכלה ובקרה",
+      "extra": {
+        "field": "כלכלה ובקרה"
+      }
+    },
     {
       "id": "118175",
       "title": "מנהל.ת מוצר אפליקצייה קמעונאים - שוהם",
@@ -18,6 +35,40 @@
       "field": "שיווק יח\"צ וייצוא",
       "extra": {
         "field": "שיווק יח\"צ וייצוא"
+      }
+    },
+    {
+      "id": "118166",
+      "title": "מוכרן.ית מלוחים שוק פרטי - אזור ירושלים והסביבה (זמני עם אופציה)",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118166",
+      "city": "ירושלים",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      }
+    },
+    {
+      "id": "118154",
+      "title": "מלגזן.ית קבלה - אתר שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118154",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
+      "extra": {
+        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
       }
     },
     {
@@ -650,23 +701,6 @@
       }
     },
     {
-      "id": "117998",
-      "title": "מלגזן.ית קבלה - אתר שוהם",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117998",
-      "city": "מרכז",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
-      "extra": {
-        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
-      }
-    },
-    {
       "id": "117984",
       "title": "מנהל.ת מכירות אזורי.ת שוק פרטי יבש - שרון צפוני",
       "company": "קבוצת שטראוס",
@@ -1058,23 +1092,6 @@
       }
     },
     {
-      "id": "117759",
-      "title": "טכנאי/ת אוטומציה וחשמל- שוהם",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117759",
-      "city": "שפלה",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "אחזקה",
-      "extra": {
-        "field": "אחזקה"
-      }
-    },
-    {
       "id": "117751",
       "title": "מפיץ.ה - אתר שדרות",
       "company": "קבוצת שטראוס",
@@ -1295,6 +1312,23 @@
       "field": "קבוצת עיסוק מים",
       "extra": {
         "field": "קבוצת עיסוק מים"
+      }
+    },
+    {
+      "id": "118163",
+      "title": "נציג.ת מערך ההזמנות מוקדים - שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118163",
+      "city": "שפלה",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
       }
     },
     {

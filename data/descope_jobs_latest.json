@@ -1,7 +1,7 @@
 {
   "company": "descope",
-  "scraped_at": "2026-10-26T03:26:25.319861+00:00",
-  "count": 6,
+  "scraped_at": "2026-10-27T03:26:23.224479+00:00",
+  "count": 7,
   "jobs": [
     {
       "id": "4463572009",
@@ -23,6 +23,28 @@
       "extra": {
         "field": "Sales",
         "updated_at": "2026-10-22T07:44:37-04:00"
+      }
+    },
+    {
+      "id": "4467218009",
+      "title": "Commercial Sales Team Lead - EMEA",
+      "company": "Descope",
+      "url": "https://job-boards.greenhouse.io/descope/jobs/4467218009",
+      "city": "Tel Aviv, IL",
+      "description": "<p><strong>About Descope</strong></p> <p>Descope is a developer-first identity provider for customers, partners, and AI agents. Our drag-and-drop approach to identity enables developers to easily deploy authentication, MFA, SSO, and MCP/AI agent authentication without writing custom code.<br>Descope is trusted by over 1000 organizations in production, including GoFundMe, Databricks, GoodRx, Linktree, and You.com. The company has $88M in seed funding led by Lightspeed and Notable Capital.&nbsp;</p> <p>We're \"descoping\" agentic and external customer authentication work from developers' daily lives while helping organizations turn identity into a business enabler. Come join us!</p> <p><strong>Why this role is different</strong><strong><br></strong>This isn’t a “manage from a dashboard” role. You’ll lead the commercial sales team based in Tel Aviv, which owns all commercial business across EMEA, including Israel, and you’ll carry your own number at the same time. Both halves of the job carry equal weight: leading and coaching the team, and closing deals yourself. You’ll work directly with our founders and executive team, and your own book spans the full commercial segment, from high-velocity startups to larger, multi-stakeholder deals, with Israel and Europe as the main priority.</p> <p>Identity is being rebuilt around AI agents right now. You and your team will be at the front of that conversation with CTOs and engineering leaders who are working it out in real time. You’ll also shape how we go to market in Israel and EMEA, and how we build the team that does it, not just carry out a plan someone else wrote.</p> <h3><strong>What you’ll do</strong></h3> <p><strong>Leading the team</strong></p> <ul> <li>Lead and coach the commercial sales team and own results for the entire commercial business across EMEA, including Israel</li> <li>Run regular deal reviews, pipeline reviews, and call coaching that raise win rates and deal quality across the team</li> <li>Own the team’s f",
+      "source": "greenhouse/descope",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "field": "Sales",
+      "extra": {
+        "field": "Sales",
+        "updated_at": "2026-10-26T10:52:57-04:00"
       }
     },
     {

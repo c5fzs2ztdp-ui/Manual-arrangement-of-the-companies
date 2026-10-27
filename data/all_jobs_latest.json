@@ -1,7 +1,7 @@
 {
   "company": "all",
-  "scraped_at": "2026-10-26T03:26:35.393362+00:00",
-  "count": 1042,
+  "scraped_at": "2026-10-27T03:26:41.878191+00:00",
+  "count": 1045,
   "companies": [
     "checkpoint",
     "deepdub",
@@ -25,25 +25,25 @@
     "deepdub": {
       "count": 3,
       "source": "live",
-      "scraped_at": "2026-10-26T03:26:25.041704+00:00",
+      "scraped_at": "2026-10-27T03:26:23.011277+00:00",
       "error": null
     },
     "descope": {
-      "count": 6,
+      "count": 7,
       "source": "live",
-      "scraped_at": "2026-10-26T03:26:25.319861+00:00",
+      "scraped_at": "2026-10-27T03:26:23.224479+00:00",
       "error": null
     },
     "elal": {
       "count": 13,
       "source": "live",
-      "scraped_at": "2026-10-26T03:26:26.915975+00:00",
+      "scraped_at": "2026-10-27T03:26:24.634889+00:00",
       "error": null
     },
     "genesys": {
       "count": 1,
       "source": "live",
-      "scraped_at": "2026-10-26T03:26:27.786023+00:00",
+      "scraped_at": "2026-10-27T03:26:25.531375+00:00",
       "error": null
     },
     "iai": {
@@ -55,7 +55,7 @@
     "nexxen": {
       "count": 8,
       "source": "live",
-      "scraped_at": "2026-10-26T03:26:28.692354+00:00",
+      "scraped_at": "2026-10-27T03:26:26.575598+00:00",
       "error": null
     },
     "rafael": {
@@ -65,21 +65,21 @@
       "error": "rafael requires an Israeli proxy. Set IL_UPSTREAM_PROXY (or HTTPS_PROXY), e.g. socks5://user:pass@host:port — on Fly: fly secrets set IL_UPSTREAM_PROXY=..."
     },
     "strauss": {
-      "count": 87,
+      "count": 89,
       "source": "live",
-      "scraped_at": "2026-10-26T03:26:35.102693+00:00",
+      "scraped_at": "2026-10-27T03:26:41.463086+00:00",
       "error": null
     },
     "teads": {
       "count": 2,
       "source": "live",
-      "scraped_at": "2026-10-26T03:26:35.234786+00:00",
+      "scraped_at": "2026-10-27T03:26:41.677597+00:00",
       "error": null
     },
     "vilabs": {
       "count": 14,
       "source": "live",
-      "scraped_at": "2026-10-26T03:26:35.390851+00:00",
+      "scraped_at": "2026-10-27T03:26:41.876264+00:00",
       "error": null
     }
   },
@@ -1848,6 +1848,29 @@
       "company_key": "descope"
     },
     {
+      "id": "4467218009",
+      "title": "Commercial Sales Team Lead - EMEA",
+      "company": "Descope",
+      "url": "https://job-boards.greenhouse.io/descope/jobs/4467218009",
+      "city": "Tel Aviv, IL",
+      "description": "<p><strong>About Descope</strong></p> <p>Descope is a developer-first identity provider for customers, partners, and AI agents. Our drag-and-drop approach to identity enables developers to easily deploy authentication, MFA, SSO, and MCP/AI agent authentication without writing custom code.<br>Descope is trusted by over 1000 organizations in production, including GoFundMe, Databricks, GoodRx, Linktree, and You.com. The company has $88M in seed funding led by Lightspeed and Notable Capital.&nbsp;</p> <p>We're \"descoping\" agentic and external customer authentication work from developers' daily lives while helping organizations turn identity into a business enabler. Come join us!</p> <p><strong>Why this role is different</strong><strong><br></strong>This isn’t a “manage from a dashboard” role. You’ll lead the commercial sales team based in Tel Aviv, which owns all commercial business across EMEA, including Israel, and you’ll carry your own number at the same time. Both halves of the job carry equal weight: leading and coaching the team, and closing deals yourself. You’ll work directly with our founders and executive team, and your own book spans the full commercial segment, from high-velocity startups to larger, multi-stakeholder deals, with Israel and Europe as the main priority.</p> <p>Identity is being rebuilt around AI agents right now. You and your team will be at the front of that conversation with CTOs and engineering leaders who are working it out in real time. You’ll also shape how we go to market in Israel and EMEA, and how we build the team that does it, not just carry out a plan someone else wrote.</p> <h3><strong>What you’ll do</strong></h3> <p><strong>Leading the team</strong></p> <ul> <li>Lead and coach the commercial sales team and own results for the entire commercial business across EMEA, including Israel</li> <li>Run regular deal reviews, pipeline reviews, and call coaching that raise win rates and deal quality across the team</li> <li>Own the team’s f",
+      "source": "greenhouse/descope",
+      "employment_type": "משרה מלאה",
+      "work_mode": "היברידי",
+      "employment_codes": [
+        "full"
+      ],
+      "work_mode_codes": [
+        "hybrid"
+      ],
+      "field": "Sales",
+      "extra": {
+        "field": "Sales",
+        "updated_at": "2026-10-26T10:52:57-04:00"
+      },
+      "company_key": "descope"
+    },
+    {
       "id": "4430746009",
       "title": "Customer Success Manager",
       "company": "Descope",
@@ -1971,10 +1994,10 @@
       "company_key": "elal"
     },
     {
-      "id": "38558983",
+      "id": "38867961",
       "title": "מנהל/ת מחלקת מרכז לוגיסטי תפעול שירות בטיסה",
       "company": "אל על",
-      "url": "https://www.drushim.co.il/job/38558983/4594993f/",
+      "url": "https://www.drushim.co.il/job/38867961/1049b4c0/",
       "city": "נמל תעופה בן-גוריון",
       "description": "אל על מגייסת מנהל/ת מחלקת מרכז לוגיסטי תפעול שירות בטיסה למטה החברה בנתבג במסגרת התפקיד: הובלה וניהול מרכז לוגיסטי ממוחשב ומתקדם הכולל ניהול צוות עובדים ותכנון וניהול המלאי ארגון המחסן ושיפור תהליכים ושיטות עבודה, עבודה עם מערכות ממוחשבות, ניהול דוחות תפעוליים ניהול ספקים בארץ ובחו\"ל, ניהול תקציבים. העבודה במשרה מלאה במטה החברה בנתב\"ג.",
       "source": "drushim/elal",
@@ -1987,11 +2010,11 @@
       "job_types": [
         "משרה מלאה"
       ],
-      "published_at": "2026-09-28T11:50:54.707",
+      "published_at": "2026-10-26T11:53:19.037",
       "external_url": "https://campaign.adamtotal.co.il/?d=gEcoOYLv4n7u%2fVNF221RTQ%3d%3d",
       "extra": {
         "external_url": "https://campaign.adamtotal.co.il/?d=gEcoOYLv4n7u%2fVNF221RTQ%3d%3d",
-        "published_at": "2026-09-28T11:50:54.707",
+        "published_at": "2026-10-26T11:53:19.037",
         "job_types": [
           "משרה מלאה"
         ]
@@ -1999,10 +2022,10 @@
       "company_key": "elal"
     },
     {
-      "id": "38575266",
+      "id": "38867999",
       "title": "פקח/ית רחבת מטוס אל על",
       "company": "אל על",
-      "url": "https://www.drushim.co.il/job/38575266/ed592b4e/",
+      "url": "https://www.drushim.co.il/job/38867999/a8564a83/",
       "city": "נמל תעופה בן-גוריון",
       "description": "אל על מגייסת פקח/ית רחבה למחלקת מבצעים בנתב\"ג ! פקח/ית הרחבה מפקח/ת על כלל הפעילות ברחבת המטוס בדגש על בטיחות, כולל צוות העמסה ופריקה של רשות שדות התעופה. העבודה מתבצעת בתנאי מזג אוויר משתנים, בתנאי לחץ ומשימות המשלבות יכולות טכניות ופיזיות תוך שמירה על בטיחות הטיסה ודיוק מבצעי מקסימלי. הטבות בכרטיסי טיסה זכאות לארוחות מדים ע\"ח החברה הווי דינאמי, צעיר וייחודי באווירה של חו\"ל לחברה מערך היסעים ברדיוס שבין נתניה לאשדוד או הגעה עצמאית לנתב\"ג בתשלום דמי נסיעה, ניתן להחנות בחניון עובדי חברה. הכשרה: משך ההכשרה לתפקיד (תיאורטי + מעשי) הינו 6 שבועות בתשלום מלא, בימים א'-ה' בין השעות 07:45-16:30 הקורס ייערך קמפוס ההדרכה של אל על האנשים שלנו הם מקור לגאוותנו, הם הבסיס להצלחתנו העסקית - אנו חותרים שכל אחת ואחד יהיה גאה לעבוד אתנו וירגיש חלק ממשפחתנו!",
       "source": "drushim/elal",
@@ -2015,11 +2038,11 @@
       "job_types": [
         "משמרות"
       ],
-      "published_at": "2026-09-30T09:10:51.657",
+      "published_at": "2026-10-26T11:53:19.037",
       "external_url": "https://campaign.adamtotal.co.il/?d=83yJPB3yuhjHnRFqY5gB0w%3d%3d",
       "extra": {
         "external_url": "https://campaign.adamtotal.co.il/?d=83yJPB3yuhjHnRFqY5gB0w%3d%3d",
-        "published_at": "2026-09-30T09:10:51.657",
+        "published_at": "2026-10-26T11:53:19.037",
         "job_types": [
           "משמרות"
         ]
@@ -2327,7 +2350,7 @@
       "employment_codes": [],
       "work_mode_codes": [],
       "extra": {
-        "posted_on": "Posted 18 Days Ago"
+        "posted_on": "Posted 19 Days Ago"
       },
       "company_key": "genesys"
     },
@@ -26492,6 +26515,24 @@
       "company_key": "rafael"
     },
     {
+      "id": "118181",
+      "title": "כלכלן.ית זמני.ת - חטיבת המכירות",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118181",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "כלכלה ובקרה",
+      "extra": {
+        "field": "כלכלה ובקרה"
+      },
+      "company_key": "strauss"
+    },
+    {
       "id": "118175",
       "title": "מנהל.ת מוצר אפליקצייה קמעונאים - שוהם",
       "company": "קבוצת שטראוס",
@@ -26506,6 +26547,42 @@
       "field": "שיווק יח\"צ וייצוא",
       "extra": {
         "field": "שיווק יח\"צ וייצוא"
+      },
+      "company_key": "strauss"
+    },
+    {
+      "id": "118166",
+      "title": "מוכרן.ית מלוחים שוק פרטי - אזור ירושלים והסביבה (זמני עם אופציה)",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118166",
+      "city": "ירושלים",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
+      },
+      "company_key": "strauss"
+    },
+    {
+      "id": "118154",
+      "title": "מלגזן.ית קבלה - אתר שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118154",
+      "city": "מרכז",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
+      "extra": {
+        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
       },
       "company_key": "strauss"
     },
@@ -27176,24 +27253,6 @@
       "company_key": "strauss"
     },
     {
-      "id": "117998",
-      "title": "מלגזן.ית קבלה - אתר שוהם",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117998",
-      "city": "מרכז",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)",
-      "extra": {
-        "field": "לוגיסטיקה (אחסנה, הפצה, הובלה)"
-      },
-      "company_key": "strauss"
-    },
-    {
       "id": "117984",
       "title": "מנהל.ת מכירות אזורי.ת שוק פרטי יבש - שרון צפוני",
       "company": "קבוצת שטראוס",
@@ -27608,24 +27667,6 @@
       "company_key": "strauss"
     },
     {
-      "id": "117759",
-      "title": "טכנאי/ת אוטומציה וחשמל- שוהם",
-      "company": "קבוצת שטראוס",
-      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=117759",
-      "city": "שפלה",
-      "description": "",
-      "source": "strauss-group.co.il",
-      "employment_type": "",
-      "work_mode": "",
-      "employment_codes": [],
-      "work_mode_codes": [],
-      "field": "אחזקה",
-      "extra": {
-        "field": "אחזקה"
-      },
-      "company_key": "strauss"
-    },
-    {
       "id": "117751",
       "title": "מפיץ.ה - אתר שדרות",
       "company": "קבוצת שטראוס",
@@ -27858,6 +27899,24 @@
       "field": "קבוצת עיסוק מים",
       "extra": {
         "field": "קבוצת עיסוק מים"
+      },
+      "company_key": "strauss"
+    },
+    {
+      "id": "118163",
+      "title": "נציג.ת מערך ההזמנות מוקדים - שוהם",
+      "company": "קבוצת שטראוס",
+      "url": "https://www.strauss-group.co.il/career/jobs/?jobid=118163",
+      "city": "שפלה",
+      "description": "",
+      "source": "strauss-group.co.il",
+      "employment_type": "",
+      "work_mode": "",
+      "employment_codes": [],
+      "work_mode_codes": [],
+      "field": "מכירות",
+      "extra": {
+        "field": "מכירות"
       },
       "company_key": "strauss"
     },
