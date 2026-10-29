@@ -1,7 +1,7 @@
 {
   "company": "vilabs",
-  "scraped_at": "2026-10-28T03:34:41.462339+00:00",
-  "count": 14,
+  "scraped_at": "2026-10-29T03:40:20.438809+00:00",
+  "count": 15,
   "jobs": [
     {
       "id": "91.47F",
@@ -65,6 +65,26 @@
       "extra": {
         "job_types": [],
         "slug": "ai-solutions-manager-pharma"
+      }
+    },
+    {
+      "id": "D8.47C",
+      "title": "Pharma Strategy Manager, Activate",
+      "company": "Vi Labs",
+      "url": "https://vi.co/careers/pharma-strategy-manager-activate/D8.47C/",
+      "city": "Remote (EST/PST/CT)",
+      "description": "Remote (EST/PST/CT)",
+      "source": "vi.co",
+      "employment_type": "",
+      "work_mode": "מרוחק",
+      "employment_codes": [],
+      "work_mode_codes": [
+        "remote"
+      ],
+      "job_types": [],
+      "extra": {
+        "job_types": [],
+        "slug": "pharma-strategy-manager-activate"
       }
     },
     {
