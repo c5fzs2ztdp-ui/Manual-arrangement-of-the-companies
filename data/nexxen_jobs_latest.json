@@ -1,7 +1,7 @@
 {
   "company": "nexxen",
-  "scraped_at": "2026-10-29T03:39:55.809942+00:00",
-  "count": 8,
+  "scraped_at": "2026-10-30T03:38:09.207608+00:00",
+  "count": 7,
   "jobs": [
     {
       "id": "f2bd0324-d3e2-42fc-9963-7d5d8a023006",
@@ -78,31 +78,6 @@
       "field": "Engineering",
       "extra": {
         "field": "Engineering",
-        "job_types": [
-          "FullTime"
-        ]
-      }
-    },
-    {
-      "id": "7fd72572-122a-4bcd-a2f0-1b7f0b1b414e",
-      "title": "Senior Product Manager - Maternity Leave Replacement",
-      "company": "Nexxen",
-      "url": "https://jobs.ashbyhq.com/nexxen/7fd72572-122a-4bcd-a2f0-1b7f0b1b414e",
-      "city": "Tel Aviv, Israel",
-      "description": "We are looking for a Senior Product Manager to join our Business Intelligence and Reporting team in Tel Aviv. This is an 8 month temporary position covering maternity leave.\n\nThis role will define, shape, and drive reporting capabilities that help regional finance, FP&A, publisher operations, and sales operations make better decisions. You will own the roadmap and day-to-day prioritization for initiatives within your domain, while working with the VP of Product Management and other product managers to secure broader sprint prioritization. You will take work from discovery through rollout, translating business questions into clear requirements, user stories, reporting pipelines, data models, and actionable insights.\n\nThis role is well suited to a product manager who is curious, technically fluent, and highly accountable. You will need to step into active conversations quickly, arrange the right meetings, ask direct questions, create clarity from ambiguity, and keep stakeholders and engineering moving toward delivery.\n\nWhat You Will Do\n\n• Partner with regional finance, FP&A, publisher operations, and sales operations to understand business needs, workflows, pain points, and decision requirements.\n\n• Own and maintain the BI and reporting roadmap for your domain, balancing business value, technical feasibility, dependencies, and delivery capacity.\n\n• Prioritize tasks and initiatives within your area, then advocate for their inclusion in team sprints alongside the VP of Product Management and other PMs.\n\n• Drive initiatives end to end, from discovery and definition through development, release, adoption, and continuous improvement.\n\n• Translate stakeholder needs into clear product requirements, user stories, acceptance criteria, success measures, and delivery plans.\n\n• Work with data and engineering teams to build and improve reporting pipelines, data models, BI reports, and supporting data infrastructure.\n\n• Lead agile product practices for your initiatives, including b",
-      "source": "ashby/nexxen",
-      "employment_type": "משרה מלאה",
-      "work_mode": "",
-      "employment_codes": [
-        "full"
-      ],
-      "work_mode_codes": [],
-      "job_types": [
-        "FullTime"
-      ],
-      "field": "Product ",
-      "extra": {
-        "field": "Product ",
         "job_types": [
           "FullTime"
         ]
